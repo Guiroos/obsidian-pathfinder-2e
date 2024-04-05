@@ -24,50 +24,45 @@ Anátemas:
 TendênciaCléricos:
   - Leal Bom
   - Leal Neutro
-Domínios: ~
-Subdomínios: ~
-ArmaFavorita: ~
-Símbolo: ~
-AnimaisSagrados: ~
-CoresSagradas: ~
-NoteIcon: ~
-title: Fortunato
+Domínios: 
+Subdomínios: 
+ArmaFavorita: 
+Símbolo: 
+AnimaisSagrados: 
+CoresSagradas: 
+NoteIcon: 
+tags:
+  - deus
 ---
 
-
- > 
- > \[!infobox\]
- > 
- > # `=this.file.name`
- > 
- > ![fortunato4.png](..\..\..\zz_Attachments\fortunato4.png)
- > [Mostrar](..\..\..\zz_Attachments\fortunato4.png)
- > 
- > ###### Divindade
- > 
- > |Nome|Valor|
- > |----|-----|
- > |Títulos|`=this.Títulos`|
- > |Adjetivo|`=this.Adjetivo`|
- > |Reino|`=this.Reino`|
- > |Tendência|`=this.Tendência`|
- > |Preocupações|`=this.Preocupações`|
- > |Adoradores|`=this.Adoradores`|
- > |Decretos|`=this.Decretos`|
- > |Anátemas|`=this.Anátemas`|
- > |Tendência Clérigos|`=this.TendênciaCléricos `|
- > |Domínios|`=this.Domínios`|
- > |Subdomínios|`=this.Subdomínios`|
- > |Arma Favorita|`=this.ArmaFavorita`|
- > |Símbolo|`=this.Símbolo`|
- > |Animais Sagrados|`=this.AnimaisSagrados`|
- > |Cores Sagradas|`=this.CoresSagradas`|
+> [!infobox]
+> # `=this.file.name`
+> ![[fortunato4.png]]
+> [[fortunato4.png|Mostrar]]
+> ###### Divindade
+> Nome |  Valor |
+> ---|---|
+> Títulos | `=this.Títulos` |
+> Adjetivo | `=this.Adjetivo` |
+> Reino | `=this.Reino` |
+> Tendência | `=this.Tendência` |
+> Preocupações | `=this.Preocupações` |
+> Adoradores | `=this.Adoradores` |
+> Decretos | `=this.Decretos` |
+> Anátemas | `=this.Anátemas` |
+> Tendência Clérigos | `=this.TendênciaCléricos ` |
+> Domínios | `=this.Domínios` |
+> Subdomínios | `=this.Subdomínios` |
+> Arma Favorita | `=this.ArmaFavorita` |
+> Símbolo | `=this.Símbolo` |
+> Animais Sagrados | `=this.AnimaisSagrados` |
+> Cores Sagradas | `=this.CoresSagradas` |
 
 # `=this.file.name`
 
 Fortunato (FOR-tu-na-to) é o deus das cidades, da lei, dos comerciantes e da riqueza é conhecido por ser uma divindade paciente. Mantendo uma postura neutra e firme em suas ações, ele busca expandir a civilização e a ordem entre as pessoas.
 
-## Aparência
+##  Aparência
 
 Fortunato é retratado como um deus majestoso, envolto em mantos de ouro e joias preciosas que reluzem com a luz da riqueza. Seus olhos são repletos de ganância. Ele muitas vezes é representado segurando uma cornucópia transbordante de moedas e tesouros, simbolizando a abundância que ele proporciona aos seus devotos.
 

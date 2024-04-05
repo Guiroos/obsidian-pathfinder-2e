@@ -2,7 +2,7 @@
   "": {
     "title": "index",
     "content": "\nThe rest of your content lives here. You can use **Markdown** here :)\n",
-    "lastmodified": "2024-04-05T01:38:35.6356804-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9436617-03:00",
     "tags": [
       "example-tag"
     ]
@@ -10,61 +10,63 @@
   "/1.-Almanaque-Mundial/Tarash/Cidades/Darak/Darak": {
     "title": "Darak",
     "content": "\ncidade camponesa, base de plantações e criadouros de animais\n",
-    "lastmodified": "2024-04-05T01:38:35.6376794-03:00",
+    "lastmodified": "2024-04-05T02:05:50.944662-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Cidades/Rosares/Rosares": {
     "title": "Rosares",
     "content": "\npovoado que vive a base da pesca\n",
-    "lastmodified": "2024-04-05T01:38:35.6366794-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9436617-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Cidades/Shalom/Shalom": {
     "title": "Shalom",
     "content": "\nmegalopolis e capital dessa ilha, onde possui uma divisa de classe alta, classe media e classe baixa e as vezes possuem alguns conflitos com a classe baixa e suas gangue\n",
-    "lastmodified": "2024-04-05T01:38:35.6376794-03:00",
+    "lastmodified": "2024-04-05T02:05:50.944662-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Cidades/Shepu/Shepu": {
     "title": "Shepu",
     "content": "\ncidade portuária onde chegam todos os navios para a ilha\n",
-    "lastmodified": "2024-04-05T01:38:35.6376794-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9426621-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Divindades/Fortunato": {
     "title": "Fortunato",
     "content": "\n\n \u003e \n \u003e \\[!infobox\\]\n \u003e \n \u003e # `=this.file.name`\n \u003e \n \u003e ![fortunato4.png](..\\..\\..\\zz_Attachments\\fortunato4.png)\n \u003e [Mostrar](..\\..\\..\\zz_Attachments\\fortunato4.png)\n \u003e \n \u003e ###### Divindade\n \u003e \n \u003e |Nome|Valor|\n \u003e |----|-----|\n \u003e |Títulos|`=this.Títulos`|\n \u003e |Adjetivo|`=this.Adjetivo`|\n \u003e |Reino|`=this.Reino`|\n \u003e |Tendência|`=this.Tendência`|\n \u003e |Preocupações|`=this.Preocupações`|\n \u003e |Adoradores|`=this.Adoradores`|\n \u003e |Decretos|`=this.Decretos`|\n \u003e |Anátemas|`=this.Anátemas`|\n \u003e |Tendência Clérigos|`=this.TendênciaCléricos `|\n \u003e |Domínios|`=this.Domínios`|\n \u003e |Subdomínios|`=this.Subdomínios`|\n \u003e |Arma Favorita|`=this.ArmaFavorita`|\n \u003e |Símbolo|`=this.Símbolo`|\n \u003e |Animais Sagrados|`=this.AnimaisSagrados`|\n \u003e |Cores Sagradas|`=this.CoresSagradas`|\n\n# `=this.file.name`\n\nFortunato (FOR-tu-na-to) é o deus das cidades, da lei, dos comerciantes e da riqueza é conhecido por ser uma divindade paciente. Mantendo uma postura neutra e firme em suas ações, ele busca expandir a civilização e a ordem entre as pessoas.\n\n## Aparência\n\nFortunato é retratado como um deus majestoso, envolto em mantos de ouro e joias preciosas que reluzem com a luz da riqueza. Seus olhos são repletos de ganância. Ele muitas vezes é representado segurando uma cornucópia transbordante de moedas e tesouros, simbolizando a abundância que ele proporciona aos seus devotos.\n\n## História\n\nFortunato ascendeu aos céus como o deus do comércio e da riqueza, sendo adorado por mercadores, comerciantes e todos aqueles que buscam prosperidade material. Diz-se que ele começou como um comerciante mortal excepcionalmente hábil, cujo sucesso atraiu a atenção dos deuses do panteão. Impressionados por suas habilidades, eles o elevaram à divindade, conferindo-lhe o domínio sobre a fortuna e a riqueza.\n\n## Reino\n\nO reino de Fortunato é o mesmo plano dos mortais, o Plano Material.\n\n## Relações\n\nFortunato mantém relações estreitas com outras divindades associadas ao comércio e à riqueza, como deusas das mercadorias e deuses das transações. Ele também é frequentemente associado a figuras mitológicas relacionadas à fortuna, como a deusa da sorte e o guardião dos tesouros.\n\n## Religião\n\nOs seguidores de Fortunato dedicam-se fervorosamente ao acúmulo de riquezas e ao sucesso nos negócios. Eles realizam rituais elaborados de oferendas e orações, muitas vezes em templos grandiosos construídos em sua homenagem. No entanto, alguns críticos veem sua adoração como uma forma de ganância e avareza, argumentando que a busca desenfreada pela riqueza pode levar à corrupção moral e à injustiça social.\n",
-    "lastmodified": "2024-04-05T01:38:35.6456822-03:00",
-    "tags": []
+    "lastmodified": "2024-04-05T02:05:50.9466611-03:00",
+    "tags": [
+      "deus"
+    ]
   },
   "/1.-Almanaque-Mundial/Tarash/Divindades/Nithara": {
     "title": "Nithara",
     "content": "\n\n \u003e \n \u003e \\[!infobox\\]\n \u003e \n \u003e # `=this.file.name`\n \u003e \n \u003e ![cover](..\\..\\..\\zz_Attachments\\nithara8.png)\n \u003e [Mostrar](..\\..\\..\\zz_Attachments\\nithara8.png)\n \u003e \n \u003e ###### Divindade\n \u003e \n \u003e |Nome|Valor|\n \u003e |----|-----|\n \u003e |Títulos|`=this.Títulos`|\n \u003e |Reino|`=this.Reino`|\n \u003e |Tendência|`=this.Tendência`|\n \u003e |Preocupações|`=this.Preocupações`|\n \u003e |Adoradores|`=this.Adoradores`|\n \u003e |Decretos|`=this.Decretos`|\n \u003e |Anátemas|`=this.Anátemas`|\n \u003e |Tendência Clérigos|`=this.TendênciaCléricos `|\n \u003e |Domínios|`=this.Domínios`|\n \u003e |Subdomínios|`=this.Subdomínios`|\n \u003e |Arma Favorita|`=this.ArmaFavorita`|\n \u003e |Símbolo|`=this.Símbolo`|\n \u003e |Animais Sagrados|`=this.AnimaisSagrados`|\n \u003e |Cores Sagradas|`=this.CoresSagradas`|\n\n# `=this.file.name`\n\nNithara (ni-THA-ra) é uma divindade reverenciada como a personificação da terra e da natureza.\n\n## Aparência\n\nRepresentada como uma deusa de beleza serena e radiante, com longos cabelos verdejantes que fluem como campos ondulantes de trigo. Seus olhos misteriosos, refletindo a sabedoria dos ciclos naturais. Ela é frequentemente vestida com túnicas ornamentadas com motivos florais e carrega consigo uma cesta transbordante de frutas e vegetais, símbolos de sua bênção sobre a natureza.\n\n## História\n\nNascida dos primeiros suspiros da criação. Ela emergiu das entranhas da terra como a personificação da fertilidade e da abundância. De acordo com as lendas, foi ela quem espalhou as sementes da vida e nutriu o solo para que as primeiras plantas pudessem brotar. Desde então, ela tem sido reverenciada como a mãe de toda a vida, cujo amor e cuidado são fundamentais para o equilíbrio do mundo.\n\n## Reino\n\nO reino de Nithara é o mesmo plano dos mortais, o Plano Material.\n\n## Relações\n\nEla mantém relações estreitas com outras divindades ligadas à natureza e à fertilidade, como deuses dos animais e deusas das colheitas. Ela também é frequentemente associada a figuras mitológicas que personificam a harmonia e o equilíbrio do mundo natural, como o deus da primavera e a deusa da renovação.\n\n## Religião\n\nOs seguidores de Nithara são conhecidos por sua devoção à terra e à natureza. Eles realizam rituais sazonais, como cerimônias de plantio e colheita, para honrar a deusa e buscar sua bênção para colheitas abundantes. Templos dedicados a Nithara são construídos em áreas rurais e agrícolas, onde os fiéis podem se reunir para oferecer orações e oferendas em agradecimento à generosidade da deusa.\n\nEla é adorada principalmente por agricultores, fazendeiros e todos aqueles que dependem da terra para sua subsistência. Os rituais em sua honra frequentemente envolvem oferendas de frutas, grãos e flores, feitas em campos e pomares em momentos importantes do ciclo agrícola, como plantio e colheita.\n\nAlém de seu papel como provedora de alimentos e sustento, Nithara também é vista como uma figura maternal e protetora. Seus seguidores acreditam que ela cuida de todas as formas de vida em seu seio, garantindo que nada falte àqueles que a reverenciam com devoção sincera.\n",
-    "lastmodified": "2024-04-05T01:38:35.6476803-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9466611-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Divindades/Thalassa-Rainha-das-Mar%C3%A9s": {
     "title": "Thalassa, Rainha das Marés",
     "content": "\n* Domínios: Mar, Pesca, Navegação.\n* Thalassa é venerada como a divindade dos mares e oceanos. Seus seguidores buscam sua proteção durante as viagens marítimas e sua bênção para garantir pescas abundantes. Ela é vista como uma figura benevolente, mas também implacável quando enfurecida.\n",
-    "lastmodified": "2024-04-05T01:38:35.6376794-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9426621-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Divindades/Zephyrus-o-Sopro-do-Mar": {
     "title": "Zephyrus, o Sopro do Mar",
     "content": "\n* Domínios: Ar, Viagem, Proteção Marítima.\n* Este deus é invocado pelos marinheiros e navegantes em busca de ventos favoráveis e uma navegação segura. Seus seguidores acreditam que ele guia os navios através das tempestades e protege os viajantes do perigo. No entanto, também é associado às artes da ladinagem e do roubo, já que alguns marinheiros consideram necessário \"roubar\" os favores dos ventos.\n",
-    "lastmodified": "2024-04-05T01:38:35.6446798-03:00",
+    "lastmodified": "2024-04-05T02:05:50.944662-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Mapa-de-Tarash": {
     "title": "Mapa de Tarash",
     "content": "\n\n````leaflet\n### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  \n\nid: tarash_map  \nlock: true  \nrecenter: true  \nnoScrollZoom: true  \nimage: [[Tarash.jpg]]  \nbounds: [[0,0], [1536, 2048]]  \nheight: 900px  \nwidth: 95%  \nlat: 900\nlong: 1400\nminZoom: -1.5  \nmaxZoom: 1\ndefaultZoom: -1  \nzoomDelta: 0.5  \nunit: quilometros  \nscale: 1  \ndarkMode: false \n````\n\n# Distâncias\n\n|Método|Peso (kg)|Distância (km)|Tempo (hrs)|\n|-------|:-------:|:------------:-|:---------:|\n|A pé|-|100|20|\n|A cavalo|-|100|10|\n|Carroça leve (1 cavalo)|100|100|15|\n|Carroça média (1 cavalo)|200|100|25|\n|Carroça pesada (1 cavalo)|300|100|35|\n|Carroça leve (2 cavalos)|200|100|20|\n|Carroça média (2 cavalos)|400|100|25|\n|Carroça pesada (2 cavalos)|600|100|35|\n",
-    "lastmodified": "2024-04-05T01:38:35.6476803-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9456615-03:00",
     "tags": []
   },
   "/1.-Almanaque-Mundial/Tarash/Tarash": {
     "title": "Tarash",
     "content": "\n\n",
-    "lastmodified": "2024-04-05T01:38:35.6366794-03:00",
+    "lastmodified": "2024-04-05T02:05:50.9416628-03:00",
     "tags": []
   }
 }

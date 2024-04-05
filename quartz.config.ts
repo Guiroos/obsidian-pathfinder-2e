@@ -1,3 +1,4 @@
+import { language } from 'gray-matter'
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
