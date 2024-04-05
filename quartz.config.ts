@@ -1,3 +1,4 @@
+import { language } from 'gray-matter'
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -8,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Almanaque Mundial",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -52,7 +53,12 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.FrontMatter(),
+      Plugin.FrontMatter(
+        {        
+          delimiters: "---",
+          language:"yaml",
+        }
+      ),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
