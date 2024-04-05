@@ -31,8 +31,9 @@ Símbolo: ~
 AnimaisSagrados: ~
 CoresSagradas: ~
 NoteIcon: ~
-date: 2024-04-01
 title: Fortunato
+date: 2024-04-02T17:51:00
+updated: 2024-04-05T02:31:00
 tags:
   - deus
 ---
@@ -43,8 +44,8 @@ tags:
  > 
  > # `=this.file.name`
  > 
- > ![fortunato4.png](..\..\..\zz_Attachments\fortunato4.png)
- > [Mostrar](..\..\..\zz_Attachments\fortunato4.png)
+ > ![fortunato4.png](../../../zz_Attachments/fortunato4.png)
+ > [Mostrar](../../../zz_Attachments/fortunato4.png)
  > 
  > ###### Divindade
  > 

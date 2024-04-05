@@ -1,10 +1,21 @@
-import { formatDate, getDate } from "./Date"
+import { formatDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
+
+import { formatDistanceToNow } from "date-fns"
+import ptBR from "date-fns/locale/pt-BR"
+
+const TimeMeta = ({ value }: { value: Date }) => {
+  return (
+    <time dateTime={formatDate(value, "pt-BR")}>
+      {formatDistanceToNow(value, { addSuffix: true, locale: ptBR })} atrás
+    </time>
+  )
+}
 
 interface ContentMetaOptions {
   /**
@@ -30,7 +41,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        if (fileData.dates.created) {
+          segments.push(
+            <span>
+              🗒️ Escreveu <TimeMeta value={fileData.dates.created} />
+            </span>
+          )
+        }
+
+        if (fileData.dates.modified) {
+          segments.push(
+            <span>
+              ✏️ Modificou <TimeMeta value={fileData.dates.modified} />
+            </span>
+          )
+        }
       }
 
       // Display reading time if enabled
@@ -39,8 +64,17 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(displayedTime)
+        segments.push(<span>⏳ {displayedTime}</span>)
       }
+
+      segments.push(
+        <a
+          href={`https://github.com/Guiroos/obsidian-pathfinder-2e/commits/v4/${fileData.filePath}`}
+          target="_blank"
+        >
+          🗓️ Histórico
+        </a>,
+      )
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 

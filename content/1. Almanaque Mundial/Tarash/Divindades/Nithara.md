@@ -19,6 +19,10 @@ CoresSagradas:
   - Verde
 NoteIcon: ~
 title: Nithara
+date: 2024-04-02T17:51:00
+updated: 2024-04-02T23:37:00
+tags:
+  - deus
 ---
 
 
@@ -27,8 +31,8 @@ title: Nithara
  > 
  > # `=this.file.name`
  > 
- > ![cover](..\..\..\zz_Attachments\nithara8.png)
- > [Mostrar](..\..\..\zz_Attachments\nithara8.png)
+ > ![cover](../../../zz_Attachments/nithara8.png)
+ > [Mostrar](../../../zz_Attachments/nithara8.png)
  > 
  > ###### Divindade
  > 

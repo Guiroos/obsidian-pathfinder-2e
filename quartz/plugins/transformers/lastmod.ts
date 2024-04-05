@@ -51,9 +51,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                 modified ||= st.mtimeMs
               } else if (source === "frontmatter" && file.data.frontmatter) {
                 created ||= file.data.frontmatter.date as MaybeDate
-                modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
-                modified ||= file.data.frontmatter["last-modified"] as MaybeDate
                 published ||= file.data.frontmatter.publishDate as MaybeDate
               } else if (source === "git") {
                 if (!repo) {
@@ -68,8 +66,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                 } catch {
                   console.log(
                     chalk.yellow(
-                      `\nWarning: ${file.data
-                        .filePath!} isn't yet tracked by git, last modification date is not available for this file`,
+                      `\nWarning: ${file.data.filePath!} isn't yet tracked by git, last modification date is not available for this file`,
                     ),
                   )
                 }

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     locale: "pt-BR",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "zz_Templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -54,7 +54,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents({ maxDepth: 4 }),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "filesystem", "git"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
