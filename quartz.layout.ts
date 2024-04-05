@@ -24,14 +24,15 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.MobileOnly(Component.Darkmode()),
+    Component.DesktopOnly(Component.RecentNotes({ limit: 3 })),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Graph(),
   ],
 }
 
@@ -47,3 +48,16 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  sortFn: (a, b) => {
+    if ((!a.file && !b.file) || (a.file && b.file)) {
+      return a.displayName.localeCompare(b.displayName)
+    }
+    if (a.file && !b.file) {
+      return -1
+    } else {
+      return 1
+    }
+  },
+})
