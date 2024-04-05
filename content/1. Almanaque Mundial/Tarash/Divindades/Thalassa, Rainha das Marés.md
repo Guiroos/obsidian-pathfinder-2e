@@ -1,0 +1,6 @@
+---
+title: "Thalassa, Rainha das Marés"
+---
+
+* Domínios: Mar, Pesca, Navegação.
+* Thalassa é venerada como a divindade dos mares e oceanos. Seus seguidores buscam sua proteção durante as viagens marítimas e sua bênção para garantir pescas abundantes. Ela é vista como uma figura benevolente, mas também implacável quando enfurecida.
