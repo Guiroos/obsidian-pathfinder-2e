@@ -31,6 +31,8 @@ Símbolo:
 AnimaisSagrados: 
 CoresSagradas: 
 NoteIcon: 
+date: 2024-04-01
+title: Fortunato
 tags:
   - deus
 ---
