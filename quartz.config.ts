@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "pt-BR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "guiroos.github.io/obsidian-pathfinder-2e/",
     ignorePatterns: ["private", "zz_Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
