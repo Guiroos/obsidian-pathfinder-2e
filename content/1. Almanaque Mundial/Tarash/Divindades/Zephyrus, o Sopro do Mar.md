@@ -1,6 +1,0 @@
----
-title: "Zephyrus, o Sopro do Mar"
----
-
-* Domínios: Ar, Viagem, Proteção Marítima.
-* Este deus é invocado pelos marinheiros e navegantes em busca de ventos favoráveis e uma navegação segura. Seus seguidores acreditam que ele guia os navios através das tempestades e protege os viajantes do perigo. No entanto, também é associado às artes da ladinagem e do roubo, já que alguns marinheiros consideram necessário "roubar" os favores dos ventos.
