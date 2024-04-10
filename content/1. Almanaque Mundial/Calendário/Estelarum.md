@@ -1,7 +1,7 @@
 ---
 title: Estelarum
-date: 2024-04-08T14:52:27
-updated: 2024-04-08T16:05:27
+date: 2024-04-08T14:52
+updated: 2024-04-08T16:05
 tags:
 ---
 

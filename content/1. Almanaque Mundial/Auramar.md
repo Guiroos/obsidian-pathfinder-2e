@@ -1,12 +1,9 @@
 ---
 title: Auramar
 date: 2024-04-08T14:44:23
-updated: 2024-04-08T16:02:23
+updated: 2024-04-09T16:56
 tags:
 ---
-
-
-
 
 No início, Auramar era um mundo sem forma, coberto por um vasto oceano sem fim. Na escuridão do abismo, os deuses primordiais surgiram, cada um trazendo consigo o poder de uma das forças fundamentais que moldariam o mundo.
 

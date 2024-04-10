@@ -1,7 +1,7 @@
 ---
 title: Fortunato
-date: 2024-04-02T17:51:00
-updated: 2024-04-05T02:31:00
+date: 2024-04-08T14:14
+updated: 2024-04-09T15:17
 tags:
   - deus
 Títulos:

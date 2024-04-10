@@ -9,6 +9,7 @@ Governo: Conselho
 Tipo: Povoado
 Política: Ancião Supremo
 Líder: "[[Eldor Brighthearth]]"
+Região: "[[Tarash]]"
 Grupos:
   - Guilda dos Fazendeiros
   - Guilda dos Artesões
@@ -40,6 +41,7 @@ NoteIcon:
 > Tipo |  Valor |
 > ---|---|
 > Tamanho | `=this.Tamanho` |
+> Região | `=this.Região` |
 > ###### Política 
 > Tipo |  Valor |
 > ---|---|
