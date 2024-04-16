@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "pt-BR",
     baseUrl: "guiroos.github.io/obsidian-pathfinder-2e/",
-    ignorePatterns: ["private", "zz_Templates", ".obsidian"],
+    ignorePatterns: ["private", "z_Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
