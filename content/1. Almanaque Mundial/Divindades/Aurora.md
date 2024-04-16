@@ -2,7 +2,7 @@
 title: Aurora
 cssclasses: []
 date: 2024-04-09T17:04
-updated: 2024-04-09T22:40
+updated: 2024-04-10T16:19
 tags:
   - divindade/primordial
 Títulos:
@@ -33,7 +33,7 @@ AnimaisSagrados:
 CoresSagradas:
   - Dourado
   - Azul Marinho
-NoteIcon: Divindade
+Ícone: Divindade
 ---
 
 > [!infobox]

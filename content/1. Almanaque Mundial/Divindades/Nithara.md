@@ -20,7 +20,7 @@ Símbolo:
 AnimaisSagrados: 
 CoresSagradas:
   - Verde
-NoteIcon:
+Ícone:
 ---
 
 > [!infobox]

@@ -1,7 +1,7 @@
 ---
 title: Zephyrus
 date: 2024-04-08T14:14
-updated: 2024-04-09T22:40
+updated: 2024-04-05T14:50
 tags:
   - divindade/primordial
 Títulos:
@@ -10,37 +10,37 @@ Títulos:
 Adjetivo: 
 Reino: Plano Material
 Tendência: Neutro Bom
-Preocupações: 
+Preocupações:
   - Equilíbrio dos elementos
   - Harmonia do mundo
   - Proteção dos viajantes
-Adoradores: 
+Adoradores:
   - Navegadores
   - Viajantes
   - Agricultores
-Decretos: 
+Decretos:
   - Promover a paz entre os elementos
   - Proteger os viajantes dos perigos dos ventos
-Anátemas: 
+Anátemas:
   - Desrespeitar a harmonia entre os elementos
   - Negligenciar os pedidos de ajuda dos necessitados
-TendênciaCléricos: 
+TendênciaCléricos:
   - Leal Bom
   - Neutro Bom
   - Neutro
-Domínios: Ar
+Domínios:
+  - Ar
 Subdomínios: 
 ArmaFavorita: Espada Longa
 Símbolo: Uma espiral estilizada representando o movimento dos ventos
-AnimaisSagrados: 
+AnimaisSagrados:
   - Águia
   - Falcão
   - Andorinha
-CoresSagradas: 
-  - Azul Celeste
+CoresSagradas:
   - Branco
   - Dourado
-NoteIcon: Divindade
+Ícone: Divindade
 ---
 
 > [!infobox]

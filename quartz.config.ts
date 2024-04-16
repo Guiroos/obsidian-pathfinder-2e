@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Cofre do Conhecimento",
+    pageTitle: "Cofre de Auramar",
     enableSPA: false,
     enablePopovers: true,
     analytics: null,

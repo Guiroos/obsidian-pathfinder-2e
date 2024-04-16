@@ -35,7 +35,7 @@ ArmaFavorita:
 Símbolo: 
 AnimaisSagrados: 
 CoresSagradas: 
-NoteIcon: 
+Ícone: 
 ---
 
 > [!infobox]

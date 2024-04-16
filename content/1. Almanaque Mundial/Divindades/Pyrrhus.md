@@ -1,7 +1,7 @@
 ---
 title: Pyrrhus
 date: 2024-04-08T15:22
-updated: 2024-04-09T22:49
+updated: 2024-04-15T14:58
 tags:
   - divindade/primordial
 Títulos:
@@ -37,7 +37,7 @@ AnimaisSagrados:
 CoresSagradas:
   - Vermelho
   - Dourado
-NoteIcon: Divindade
+Ícone: Divindade
 ---
 
 > [!infobox]

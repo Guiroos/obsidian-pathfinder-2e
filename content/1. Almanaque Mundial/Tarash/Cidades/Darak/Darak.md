@@ -1,25 +1,23 @@
 ---
 title: Darak
 date: 2024-04-08T16:44:53
-updated: 2024-04-08T16:44:53
+updated: 2024-04-16T00:16
 tags:
-  - categoria/povoado
-Tendência: Chaotic Evil
-Governo: Conselho
-Tipo: Povoado
-Política: Ancião Supremo
-Líder: "[[Eldor Brighthearth]]"
-Região: "[[Tarash]]"
-Grupos:
-  - Guilda dos Fazendeiros
-  - Guilda dos Artesões
-  - Culto
+  - categoria/aldeia
+  - localização
+Tipo: Aldeia
 Tamanho: Médio
-Populalaçao: 0
+População: 350
+Região: Tarash
+Líder: Eldor Brighthearth
+Governo: Democracia
+Política: Conselho
+Defesa: Leve
+Tendência: 
 RaçasComuns:
   - Humanos
   - Elfos
-  - Anãoes
+  - Anões
 Religião:
   - Aurora
   - Thalassa
@@ -30,33 +28,33 @@ Exportação:
   - Carne
 Importação:
   - Produtos de Luxo
-NoteIcon:
+Grupos:
+  - Guilda dos Fazendeiros
+  - Culto
+Ícone: Localização
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/MapPlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/MapPlaceholder.png|Show To Players]]
+> ![[z_Assets/Misc/MapPlaceholder.png|cover hm-sm]]
+> [[z_Assets/Misc/MapPlaceholder.png|Mostrar]]
 > ###### Geografia
 > Tipo |  Valor |
 > ---|---|
+> Tipo | `=this.Tipo` |
 > Tamanho | `=this.Tamanho` |
-> Região | `=this.Região` |
+> População | `=this.População` |
+> Região | `=link(this.Região)` |
 > ###### Política 
 > Tipo |  Valor |
 > ---|---|
+> Líder | `=link(this.Líder)` |
 > Governo | `=this.Governo` |
 > Política | `=this.Política` |
-> Líder | `=this.Líder` |
 > Defesa | `=this.Defesa` |
-> ###### Organizações
-> Tipo |  Valor |
-> ---|---|
-> Grupos | `=this.Grupos` |
 > ###### Sociedade
 > Tipo |  Valor |
 > ---|---|
-> População | `=this.População` |
 > Raças Comuns | `=this.RaçasComuns` |
 > Religião | `=this.Religião`  |
 > ###### Comércio
@@ -64,6 +62,22 @@ NoteIcon:
 > ---|---|
 > Exportação | `=this.Exportação` |
 > Importação | `=this.Importação` |
+> ###### Organizações
+> Tipo |  Valor |
+> ---|---|
+> ```dataview
+> table WITHOUT ID link(file.name) AS "Grupo", link(Líder) AS "Líder"
+> where contains( Lar, this.file.name)
+> ```
+> ###### PNJs
+> Tipo |  Valor |
+> ---|---|
+> ```dataview
+> table WITHOUT ID link(file.name) AS "PNJ", Gênero, Raça
+> where contains( Localização, this.file.name)
+> ```
+
+
 
 
 # `=this.file.name`
@@ -75,10 +89,6 @@ Darak é o coração agrícola de Tarash, uma cidade onde a comunidade trabalha 
 ### Mapa
 ![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
 [[z_Assets/Misc/MapPlaceholder.png|open outside]]
-
-### Paisagem
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 
@@ -102,9 +112,9 @@ Outro marco na história de Darak foi a construção do Grande Canal, uma obra d
 
 Darak desempenhou um papel crucial na história de Tarash, fornecendo alimentos essenciais e recursos agrícolas que sustentavam a economia e a população da ilha. Além disso, a cidade sempre foi um símbolo de resiliência e trabalho árduo, inspirando outras comunidades a seguirem seu exemplo e a valorizarem a importância da vida agrícola em Tarash.
 
-## NPCs Notáveis
+## PNJs Notáveis
 
-- Ancião Supremo [[Eldor Brighthearth]]
+- O Ancião Supremo [[Eldor Brighthearth]]
 
 ## Pontos de Interesse
 
@@ -138,27 +148,27 @@ Uma [[Estalagem do Pomar Verde|estalagem]] acolhedora e rústica, conhecida por 
 
 ## Relações Internas
 
-#### Líderes e Pessoas:
+#### Líderes e Pessoas
 
-- **Eldor Brighthearth e o Povo de Darak**: Eldor Brighthearth é reverenciado como o fundador e líder espiritual de Darak. Ele mantém uma relação próxima com os habitantes da cidade, ouvindo suas preocupações, oferecendo conselhos sábios e inspirando-os a alcançar seu pleno potencial.
-- **Conselho de Anciãos**: O Conselho de Anciãos é composto por líderes respeitados da comunidade, que trabalham em conjunto com Eldor para tomar decisões importantes para o bem-estar da cidade. Embora nem sempre concordem, eles compartilham um compromisso comum com o futuro de Darak.
+- **[[Eldor Brighthearth]]:** Eldor Brighthearth é reverenciado como o fundador e líder espiritual de Darak. Ele mantém uma relação próxima com os habitantes da cidade, ouvindo suas preocupações, oferecendo conselhos sábios e inspirando-os a alcançar seu pleno potencial.
+- **Conselho de Anciãos:** O Conselho de Anciãos é composto por líderes respeitados da comunidade, que trabalham em conjunto com Eldor para tomar decisões importantes para o bem-estar da cidade. Embora nem sempre concordem, eles compartilham um compromisso comum com o futuro de Darak.
 
-#### Relações Sociais:
+#### Relações Sociais
 
-- **Comunidade Unida**: Os habitantes de Darak compartilham um senso de comunidade forte e coeso, onde os laços familiares e de vizinhança são valorizados. Eles se ajudam mutuamente em tempos de necessidade e celebram juntos em tempos de prosperidade.
-- **Respeito pela Natureza**: Como uma cidade agrícola, Darak tem um profundo respeito pela terra e pela natureza. Os habitantes entendem a importância de viver em harmonia com o ambiente e trabalham para proteger e preservar seus recursos naturais.
+- **Comunidade Unida:** Os habitantes de Darak compartilham um senso de comunidade forte e coeso, onde os laços familiares e de vizinhança são valorizados. Eles se ajudam mutuamente em tempos de necessidade e celebram juntos em tempos de prosperidade.
+- **Respeito pela Natureza:** Como uma cidade agrícola, Darak tem um profundo respeito pela terra e pela natureza. Os habitantes entendem a importância de viver em harmonia com o ambiente e trabalham para proteger e preservar seus recursos naturais.
 
 ## Relações Externas
 
-#### Comércio e Interação:
+#### Comércio e Interação
 
-- **Comércio Regional**: Darak mantém relações comerciais saudáveis com outras cidades em Tarash, especialmente aquelas que dependem de seus produtos agrícolas. Eles trocam grãos, carne e outros produtos agrícolas por bens e serviços de outras regiões.
-- **Alianças Diplomáticas**: A cidade busca estabelecer alianças diplomáticas com outras comunidades, visando promover a cooperação e a segurança mútua. Eldor Brighthearth atua como um diplomata habilidoso, negociando tratados e acordos em nome de Darak.
+- **Comércio Regional:** Darak mantém relações comerciais saudáveis com outras cidades em Tarash, especialmente aquelas que dependem de seus produtos agrícolas. Eles trocam grãos, carne e outros produtos agrícolas por bens e serviços de outras regiões.
+- **Alianças Diplomáticas:** A cidade busca estabelecer alianças diplomáticas com outras comunidades, visando promover a cooperação e a segurança mútua. Eldor Brighthearth atua como um diplomata habilidoso, negociando tratados e acordos em nome de Darak.
 
-#### Interdependência Regional:
+#### Interdependência Regional
 
-- **Ajuda Mútua em Tempos de Crise**: Em tempos de crise, as cidades de Tarash se unem em solidariedade, oferecendo ajuda mútua e suporte emocional. Darak está pronta para ajudar outras comunidades em caso de desastres naturais, conflitos ou outras emergências.
-- **Troca de Conhecimentos e Recursos**: Darak valoriza a troca de conhecimentos e recursos com outras cidades, buscando aprender com suas práticas agrícolas, técnicas de construção e tradições culturais. Essa troca enriquece a vida da cidade e fortalece os laços entre as comunidade
+- **Ajuda Mútua em Tempos de Crise:** Em tempos de crise, as cidades de Tarash se unem em solidariedade, oferecendo ajuda mútua e suporte emocional. Darak está pronta para ajudar outras comunidades em caso de desastres naturais, conflitos ou outras emergências.
+- **Troca de Conhecimentos e Recursos:** Darak valoriza a troca de conhecimentos e recursos com outras cidades, buscando aprender com suas práticas agrícolas, técnicas de construção e tradições culturais. Essa troca enriquece a vida da cidade e fortalece os laços entre as comunidade
 
 ## Detalhes Adicionais
 

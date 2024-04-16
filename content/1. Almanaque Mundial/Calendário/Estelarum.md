@@ -1,15 +1,15 @@
 ---
 title: Estelarum
-date: 2024-04-08T14:52
-updated: 2024-04-08T16:05
 tags:
+date: 2024-04-08T14:52
+updated: 2024-04-15T14:46
 ---
 
 O calendário de Auramar é chamado de **Estelarum**, uma palavra que combina "estelar", referindo-se às estrelas, com "mar", representando a influência dos oceanos no mundo.
 
 ## Ano
 
-O ano em Auramar é dividido em 12 meses, cada um com base nas fases lunares e nos ciclos naturais do mundo.
+O ano em Auramar é dividido em 5 meses, cada um com base nas fases lunares e nos ciclos naturais do mundo.
 
 ## Mês
 
@@ -17,9 +17,9 @@ Cada mês do calendário é nomeado em homenagem a um dos deuses primordiais ou 
 
 1. **Aurorum**: Este mês é dedicado a [[Aurora]] , é um período de novos começos e renovação;
 2. **Pyrrhum**: O mês de [[Pyrrhus]], é um momento de calor e atividade, simbolizando o vigor e a paixão;
-3. **Thladium**: Este mês é ser dedicado a [[Thalassa]], honrando as águas que dão vida ao mundo.
+3. **Thaladium**: Este mês é ser dedicado a [[Thalassa]], honrando as águas que dão vida ao mundo.
 4. **Zephyrum**: Um mês dedicado a [[Zephyrus]], marcado pelos ventos que moldam os mares e guiam os navegantes.
-5. **Mysterium**: O quinto mês poderia ser chamado de Mysterium, representando o mistério e a profundidade dos oceanos, bem como o desconhecido que aguarda além do horizonte.
+5. **Mysterium**: O quinto é chamado de Mysterium, representando o mistério e a profundidade dos oceanos, bem como o desconhecido que aguarda além do horizonte.
 
 ## Semana
 

@@ -2,7 +2,7 @@
 title: Thalassa
 cssclasses: []
 date: 2024-04-08T14:14
-updated: 2024-04-09T22:39
+updated: 2024-04-10T16:20
 tags:
   - divindade/primordial 
 Títulos:
@@ -36,7 +36,7 @@ AnimaisSagrados:
 CoresSagradas: 
   - Azul
   - Verde-água
-NoteIcon: Divindade
+Ícone: Divindade
 ---
 
 > [!infobox]
