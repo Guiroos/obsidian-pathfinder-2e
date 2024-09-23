@@ -1,4 +1,3 @@
-@ -0,0 +1,9 @@
 ---
 title: Cofre de Auramar
 tags:
