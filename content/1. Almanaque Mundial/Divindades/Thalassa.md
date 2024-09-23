@@ -84,7 +84,7 @@ Sua relação com [[Pyrrhus]], é como as marés que oscilam entre a calmaria e 
 
 No entanto, é [[Zephyrus]], que atua como o fio que tece os destinos entrelaçados de Thalassa e [[Pyrrhus]]. Como mediador entre os elementos, [[Zephyrus]] suaviza as tensões entre a água e o fogo, agindo como um sussurro reconfortante nos ouvidos das duas divindades. Seu papel é essencial na manutenção do equilíbrio, acalmando as ondas agitadas do conflito e garantindo que as brisas da harmonia prevaleçam.
 
-E no tecido cósmico que envolve todos os deuses, Thalassa também compartilha uma ligação sutil com [[Aurora]]. Enquanto Thalassa molda os oceanos que sustentam a vida, [[Aurora]] tece os fios do destino que guiam os mortais e os próprios deuses em seus caminhos. Juntas, elas formam uma sinfonia divina, onde as águas refletem a luz da aurora, revelando os mistérios e maravilhas do mundo.
+E no tecido cósmico que envolve todos os deuses, Thalassa também compartilha uma ligação sutil com [[1. Almanaque Mundial/Divindades/Aurora]]. Enquanto Thalassa molda os oceanos que sustentam a vida, [[1. Almanaque Mundial/Divindades/Aurora]] tece os fios do destino que guiam os mortais e os próprios deuses em seus caminhos. Juntas, elas formam uma sinfonia divina, onde as águas refletem a luz da aurora, revelando os mistérios e maravilhas do mundo.
 
 Assim, as relações de Thalassa transcendem as fronteiras dos elementos, entrelaçando-se em uma dança cósmica de poder e propósito, onde o destino é tão imprevisível quanto as marés que ela comanda.
 

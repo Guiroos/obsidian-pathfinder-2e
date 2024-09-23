@@ -4,7 +4,7 @@ tags:
   - categoria/ponto-de-interesse
 Ícone: PDI
 date: 2024-04-11T23:13
-updated: 2024-04-15T19:34
+updated: 2024-04-16T16:20
 ---
 
 # Farol Abandonado

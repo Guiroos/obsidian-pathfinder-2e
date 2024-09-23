@@ -4,6 +4,7 @@ date: 2024-04-08T15:22
 updated: 2024-04-15T14:58
 tags:
   - divindade/primordial
+  - incompleto
 Títulos:
   - Senhor do Fogo 
   - Portador da Chama Eterna
@@ -85,7 +86,7 @@ Sua relação com [[Thalassa]], é como o embate eterno entre a chama e a água,
 
 No entanto, é [[Zephyrus]], que desempenha um papel crucial na dinâmica entre Pyrrhus e [[Thalassa]]. Como mediador entre os elementos, [[Zephyrus]] sopra brisas suaves que acalmam as chamas incandescentes ou avivam seu fulgor, dependendo da necessidade do momento. Sua presença é um lembrete constante de que o equilíbrio entre fogo e água é essencial para a harmonia do mundo.
 
-E em meio aos elementos em conflito, Pyrrhus também compartilha uma relação distinta com [[Aurora]]. Enquanto Pyrrhus incendeia os céus com suas labaredas ardentes, Aurora tece os fios do destino que guiam os mortais e os próprios deuses em seus caminhos. Essas duas forças opostas dançam em um eterno jogo de luz e sombra, onde o fogo de Pyrrhus ilumina os caminhos traçados pela [[Aurora]].
+E em meio aos elementos em conflito, Pyrrhus também compartilha uma relação distinta com [[1. Almanaque Mundial/Divindades/Aurora]]. Enquanto Pyrrhus incendeia os céus com suas labaredas ardentes, Aurora tece os fios do destino que guiam os mortais e os próprios deuses em seus caminhos. Essas duas forças opostas dançam em um eterno jogo de luz e sombra, onde o fogo de Pyrrhus ilumina os caminhos traçados pela [[1. Almanaque Mundial/Divindades/Aurora]].
 
 Assim, as relações de Pyrrhus transcendem as fronteiras dos elementos, envolvendo-se em uma dança cósmica de poder e propósito, onde a chama da vida e a escuridão da destruição se encontram em um eterno embate.
 

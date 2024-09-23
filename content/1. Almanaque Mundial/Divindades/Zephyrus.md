@@ -88,7 +88,7 @@ Sua relação com [[Thalassa]], é como uma dança celestial entre a brisa e as 
 
 No entanto, é com [[Pyrrhus]], que Zephyrus compartilha uma relação mais desafiadora, marcada pelo contraste entre a brisa suave e o calor ardente. Enquanto [[Pyrrhus]] incendeia os céus com suas labaredas poderosas, Zephyrus acalma as chamas com suas brisas refrescantes, criando um equilíbrio delicado entre fogo e ar. Suas interações são como uma dança cósmica, onde a harmonia é alcançada através do movimento constante dos elementos.
 
-E em meio aos elementos em conflito, Zephyrus também compartilha uma relação distinta com [[Aurora]]. Enquanto Zephyrus molda os ventos que movem as nuvens e os destinos dos mortais, Aurora tece os fios do destino que guiam esses mesmos mortais em seus caminhos. Suas influências se entrelaçam como os ventos que sopram sobre os mares, formando uma conexão sutil entre os elementos do ar e a tapeçaria do destino.
+E em meio aos elementos em conflito, Zephyrus também compartilha uma relação distinta com [[1. Almanaque Mundial/Divindades/Aurora]]. Enquanto Zephyrus molda os ventos que movem as nuvens e os destinos dos mortais, Aurora tece os fios do destino que guiam esses mesmos mortais em seus caminhos. Suas influências se entrelaçam como os ventos que sopram sobre os mares, formando uma conexão sutil entre os elementos do ar e a tapeçaria do destino.
 
 Assim, as relações de Zephyrus transcendem as fronteiras dos elementos, envolvendo-se em uma dança cósmica de poder e propósito, onde os ventos sopram livres e os destinos são tecidos em um eterno ciclo de renovação.
 

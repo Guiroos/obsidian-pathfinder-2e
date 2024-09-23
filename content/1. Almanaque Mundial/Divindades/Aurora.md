@@ -1,21 +1,24 @@
 ---
 title: Aurora
-cssclasses: []
+cssclasses: 
 date: 2024-04-09T17:04
-updated: 2024-04-10T16:19
+updated: 2024-09-21T16:23:23
 tags:
   - divindade/primordial
+  - incompleto
 Títulos:
   - Guardiã da Luz Eterna
   - Tecelã dos Destinos
 Adjetivo: Auros
 Reino: Plano Material
 Tendência: Leal Bom
-Preocupações: 
+Preocupações:
+  - Equilíbrio do destino
+  - Preservar a esperança
 Adoradores:
   - Tecelões
   - Viajantes
-Decretos:
+Éditos:
   - Promover a bondade e a justiça
   - Proteger os fracos e oprimidos
   - Honrar os laços familiares e comunitários
@@ -24,7 +27,11 @@ Anátemas:
   - Espalhar desespero e desesperança
   - Violar a liberdade de escolha dos mortais
 TendênciaCléricos: 
-Domínios: 
+Domínios:
+  - Destino
+  - Cura
+  - Proteção
+  - Liberdade
 Subdomínios: 
 ArmaFavorita: Lança
 Símbolo: Uma roda de tear envolta em raios de luz
@@ -49,7 +56,7 @@ CoresSagradas:
 > Tendência | `=this.Tendência` |
 > Preocupações | `=this.Preocupações` |
 > Adoradores | `=this.Adoradores` |
-> Decretos | `=this.Decretos` |
+> Éditos | `=this.Éditos` |
 > Anátemas | `=this.Anátemas` |
 > Tendência Clérigos | `=this.TendênciaCléricos ` |
 > Domínios | `=this.Domínios` |
@@ -87,5 +94,4 @@ Assim, as relações de Aurora transcendem as fronteiras dos elementos, envolven
 
 ## Religião
 
-A religião dedicada à Aurora é centrada na adoração da luz, esperança e destino que ela representa. Seus seguidores acreditam que invocar seu nome traz proteção contra as trevas e traz bênçãos de renovação e inspiração. Os templos dedicados à Aurora são frequentemente construídos em locais elevados, onde a luz do sol pode brilhar livremente, e são adornados com imagens de sua radiante presença e teares, inspirando os fiéis a olhar para o futuro com esperança, enquanto reconhecem a intrincada teia de destinos que os une.
-
+A religião dedicada à Aurora é centrada na adoração da luz, esperança e destino que ela representa. Seus seguidores acreditam que invocar seu nome traz proteção contra as trevas e traz bênçãos de renovação e inspiração. Os templos dedicados à Aurora são frequentemente construídos em locais elevados, onde a luz do sol pode brilhar livremente, e são adornados com imagens de sua radiante presença e teares, inspirando os fiéis a olhar para o futuro com esperança, enquanto reconhecem a intrincada teia de destinos que os une. O nascer do sol é um momento importante para os seguidores de Aurora, onde é o momento de fazer suas orações ou rituais diários.

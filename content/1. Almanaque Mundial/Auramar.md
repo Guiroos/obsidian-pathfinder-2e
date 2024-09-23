@@ -9,7 +9,7 @@ updated: 2024-04-09T16:56
 
 No início, Auramar era um mundo sem forma, coberto por um vasto oceano sem fim. Na escuridão do abismo, os deuses primordiais surgiram, cada um trazendo consigo o poder de uma das forças fundamentais que moldariam o mundo.
 
-[[Aurora]], com sua habilidade de tecer os destinos, concebeu a visão do mundo e começou a dar forma à sua geografia e à vida que o habitaria. 
+[[1. Almanaque Mundial/Divindades/Aurora]], com sua habilidade de tecer os destinos, concebeu a visão do mundo e começou a dar forma à sua geografia e à vida que o habitaria. 
 [[Pyrrhus]], com seu fogo divino, moldou as montanhas e as rochas, elevando-as acima das águas para criar as terras onde os mortais caminhariam.
 [[Thalassa]] emergiu das profundezas dos mares, trazendo consigo a vida marinha e as marés que dariam vida ao mundo. 
 E por fim, [[Zephyrus]] soprou seus ventos sobre os oceanos, impulsionando os barcos e guiando os navegantes em suas jornadas.
@@ -27,7 +27,7 @@ Eles aprendem a sobreviver, caçando, colhendo frutas e construindo abrigos simp
 
 ### Ano 10 - O Domínio do Fogo
 
-Com a orientação de Pyrrhus, os mortais descobrem o poder do fogo e começam a usá-lo para cozinhar alimentos, se aquecer e forjar ferramentas e armas.
+Com a orientação de Pyrrhus, os mortais descobrem o poder do fogo e começam a usá-lo para cozinhar alimentos, se aquecer e forjar ferramentas e armas. Apesar dessa orientação, havia alguns mortais que recusavam a usar esse poder divino, acreditando que meros mortais não poderiam manipular ele.
 Este marco marca o início da era da tecnologia e do progresso em Auramar.
 
 ### Ano 25 - A Expansão das Tribos
@@ -38,7 +38,7 @@ Algumas tribos estabelecem assentamentos permanentes e começam a formar os prim
 ### Ano 50 - O Despertar da Magia
 
 Com a influência de Aurora, os mortais começam a descobrir e desenvolver habilidades mágicas, aprendendo a canalizar as energias do mundo ao seu redor.
-Este período marca o surgimento dos primeiros magos e feiticeiros em Auramar, que se tornam conselheiros e líderes em suas comunidades.
+Este período marca o surgimento dos primeiros magos e feiticeiros em Auramar, que se tornam conselheiros e líderes em suas comunidades, criado cultos e seitas em torno das magias descobertas. Outros se utilizaram dessa influencia na magia para monopolizar o conhecimento e assim criando grupos elitizados de magos e feiticeiros. Há outros que nem se quer gostam da presença da magia em suas cidades.
 
 ### Ano 75 - O Domínio dos Mares
 
