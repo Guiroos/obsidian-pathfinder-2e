@@ -13,14 +13,6 @@ Lar: Shalom
 Ícone: Grupo
 ---
 
-> [!infobox]
-> # Chamas da Resistência
-> ![[ImagePlaceholder.png]]
-> ###### Membros Principais
-> ```dataview
-table Raça, Gênero
-where contains( GrupoAssociado, this.file.name)
-
 # Chamas da Resistência
 ## Visão Geral
 
@@ -74,3 +66,6 @@ Embora as **Chamas da Resistência** não tenham uma orientação religiosa form
 - **A Tocha Inextinguível:** Uma lenda fala de uma tocha que foi acesa durante a primeira reunião das **Chamas da Resistência** e nunca se apagou, simbolizando a esperança eterna.
 - **Traidor nas Sombras:** Há rumores de que um espião está infiltrado no grupo, passando informações para as autoridades ou até mesmo para as [[Garras Sombrias]]
 
+## Membros Notáveis
+
+- Líder [[Esmeralda Vorhan]]

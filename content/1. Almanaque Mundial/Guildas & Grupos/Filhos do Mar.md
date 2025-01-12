@@ -12,14 +12,6 @@ Lar: Shepu
 Ícone: Grupo
 ---
 
-> [!infobox]
-> # Filhos do Mar
-> ![[ImagePlaceholder.png]]
-> ###### Membros Principais
-> ```dataview
-table Raça, Gênero
-where contains( GrupoAssociado, this.file.name)
-
 # Filhos do Mar
 ## Visão Geral
 

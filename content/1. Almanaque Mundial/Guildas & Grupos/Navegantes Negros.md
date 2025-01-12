@@ -13,14 +13,6 @@ Lar: Shepu
 Ícone: Grupo
 ---
 
-> [!infobox]
-> # Navegantes Negros
-> ![[ImagePlaceholder.png]]
-> ###### Membros Principais
-> ```dataview
-table Raça, Gênero
-where contains( GrupoAssociado, this.file.name)
-
 # Navegantes Negros
 ## Visão Geral
 
@@ -82,3 +74,7 @@ Há muitos rumores circulando sobre os Navegantes Negros, incluindo histórias d
 1. **Tesouro Perdido**: Diz-se que os Navegantes Negros possuem um tesouro escondido em uma ilha remota, onde guardam os espólios de suas incursões e contrabandos. Alguns marinheiros afirmam ter avistado a ilha, mas poucos ousaram se aventurar a explorá-la.
 2. **Navio Fantasma**: Há relatos de um navio fantasma que assombra as águas onde os Navegantes Negros costumam operar. Diz-se que a embarcação é tripulada por espectros vingativos que atacam qualquer navio que se aproxime demais.
 3. **Cidade Submersa**: Existe um boato sobre uma cidade submersa que serve como base secreta dos Navegantes Negros. Diz-se que essa cidade é um refúgio seguro onde o grupo pode se esconder e se reabastecer sem ser detectado pelas autoridades.
+
+## Membros Notáveis
+
+- Membro [[Dante Thorne]]

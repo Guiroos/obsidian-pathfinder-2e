@@ -13,14 +13,6 @@ Lar: Shalom
 Ícone: Grupo
 ---
 
-> [!infobox]
-> # Garras Sombrias
-> ![[ImagePlaceholder.png]]
-> ###### Membros Principais
-> ```dataview
-table Raça, Gênero
-where contains( GrupoAssociado, this.file.name)
-
 # Garras Sombrias
 ## Visão Geral
 
@@ -80,3 +72,6 @@ A cultura das **Garras Sombrias** é uma mistura de camaradagem e brutalidade, o
 - **Maldição do Beco:** Há histórias de que o [[Beco dos Lamentos]] está amaldiçoado, com rumores de figuras sombrias que vigiam as ações das **Garras Sombrias** e punem aqueles que traem a gangue.
 - **Pacto de Sangue:** Diz-se que [[Dorian Mão Negra]] firmou um pacto sombrio com [[Pyrrhus]], garantindo a longevidade da gangue em troca de oferendas regulares.
 
+## Membros Notáveis
+
+- Líder [[Dorian Mão Negra]]

@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "pt-BR",
-    baseUrl: "guiroos.github.io/obsidian-pathfinder-2e/",
+    baseUrl: "https://cofre-de-auramar.netlify.app",
     ignorePatterns: ["private", "z_Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -65,7 +65,7 @@ const config: QuartzConfig = {
         },
         keepBackground: true,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, enableCheckbox: true}),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.OxHugoFlavouredMarkdown(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
@@ -82,9 +82,6 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
-        rssLimit: 10,
-        rssFullHtml: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),

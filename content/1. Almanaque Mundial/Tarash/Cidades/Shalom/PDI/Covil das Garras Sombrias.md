@@ -8,7 +8,7 @@ date: 2025-01-09T23:40:00
 updated: 2025-01-09T23:40:00
 ---
 
-# `=this.file.name`
+# Covil das Garras Sombrias
 
 ## Visão Geral
 

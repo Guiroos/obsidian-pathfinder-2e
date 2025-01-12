@@ -8,7 +8,7 @@ date: 2025-01-09T23:36:00
 updated: 2025-01-09T23:39:00
 ---
 
-# `=this.file.name`
+# Refúgio da Resistência
 
 ## Visão Geral
 

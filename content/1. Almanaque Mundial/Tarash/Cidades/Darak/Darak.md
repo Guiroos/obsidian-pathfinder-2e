@@ -42,41 +42,36 @@ Grupos:
 > ###### Geografia
 > Tipo |  Valor |
 > ---|---|
-> Tipo | `=this.Tipo` |
-> Tamanho | `=this.Tamanho` |
-> População | `=this.População` |
-> Região | `=link(this.Região)` |
+> Tipo | Aldeia |
+> Tamanho | Médio |
+> População | 1000 |
+> Região | [[Tarash]] |
 > ###### Política 
 > Tipo |  Valor |
 > ---|---|
-> Líder | `=link(this.Líder)` |
-> Governo | `=this.Governo` |
-> Política | `=this.Política` |
-> Defesa | `=this.Defesa` |
+> Líder | [[Eldor Terraza]] |
+> Governo | Democracia |
+> Política | Conselho |
+> Defesa | Leve |
 > ###### Sociedade
 > Tipo |  Valor |
 > ---|---|
-> Raças Comuns | `=this.RaçasComuns` |
-> Religião | `=this.Religião`  |
+> Raças Comuns | Humanos, Elfos, Anões |
+> Religião | [[Aurora]], [[Thalassa]]  |
 > ###### Comércio
 > Tipo |  Valor |
 > ---|---|
-> Exportação | `=this.Exportação` |
-> Importação | `=this.Importação` |
+> Exportação | Grãos, Frutas, Legumes, Carne |
+> Importação | Produtos de Luxo |
 > ###### Organizações
-> Tipo |  Valor |
+> Grupo | Líder |
 > ---|---|
-> ```dataview
-> table WITHOUT ID link(file.name) AS "Grupo", link(Líder) AS "Líder"
-> where contains( Lar, this.file.name)
-> ```
-> ###### PNJs
-> Tipo |  Valor |
+> Guilda dos Fazendeiros | - |
+> Culto | - |
+> ###### PNJs Importantes
+> Nome | Gênero | Raça
 > ---|---|
-> ```dataview
-> table WITHOUT ID link(file.name) AS "PNJ", Gênero, Raça
-> where contains( Localização, this.file.name)
-> ```
+> [[Eldor Terraza]] | Masculino | Humano |
 
 
 # Darak
