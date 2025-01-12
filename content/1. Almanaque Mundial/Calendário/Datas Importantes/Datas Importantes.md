@@ -9,7 +9,7 @@ updated: 2024-09-21T02:52:00
 # Datas Importantes
 
 ## Dia da Criação
-Considerado o primeiro dia do calendário o [[Dia da Criação]] não é apenas uma celebração passiva; é um momento de grande reverência aos deuses primordiais. Os habitantes de Tarash realizam procissões, acendem grandes fogueiras em homenagem a [[Pyrrhus]], fazem oferendas nas praias para [[Thalassa]], erguem bandeiras coloridas aos ventos em tributo a [[Zephyrus]], e entoam cânticos que honram [[1. Almanaque Mundial/Divindades/Aurora]]. Este dia marca a data em que os deuses primordiais deram forma a Auramar e começaram a povoá-lo com vida.
+Considerado o primeiro dia do calendário o [[Dia da Criação]] não é apenas uma celebração passiva; é um momento de grande reverência aos deuses primordiais. Os habitantes de Tarash realizam procissões, acendem grandes fogueiras em homenagem a [[Pyrrhus]], fazem oferendas nas praias para [[Thalassa]], erguem bandeiras coloridas aos ventos em tributo a [[Zephyrus]], e entoam cânticos que honram [[Aurora]]. Este dia marca a data em que os deuses primordiais deram forma a Auramar e começaram a povoá-lo com vida.
 
 *Dependendo da região, certos deuses podem ser mais reverenciados nesse dia.*
 

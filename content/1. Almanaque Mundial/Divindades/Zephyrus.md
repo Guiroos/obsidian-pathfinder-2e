@@ -1,35 +1,42 @@
 ---
 title: Zephyrus
 date: 2024-04-08T14:14
-updated: 2024-04-05T14:50
+updated: 2024-10-07T02:09:00
 tags:
   - divindade/primordial
 Títulos:
   - Sopro Incansável
   - Senhor dos Ventos
-Adjetivo: 
+  - Guia dos Céus
+Adjetivo: Zephyriano
 Reino: Plano Material
 Tendência: Neutro Bom
 Preocupações:
   - Equilíbrio dos elementos
-  - Harmonia do mundo
+  - Transformação constante
   - Proteção dos viajantes
+  - Liberdade de movimentos
 Adoradores:
   - Navegadores
   - Viajantes
   - Agricultores
-Decretos:
+Éditos:
   - Promover a paz entre os elementos
   - Proteger os viajantes dos perigos dos ventos
+  - Encorajar o movimento e o progresso
 Anátemas:
   - Desrespeitar a harmonia entre os elementos
   - Negligenciar os pedidos de ajuda dos necessitados
+  - Tentar controlar os ventos
+  - Limitar a liberdade dos outros
 TendênciaCléricos:
   - Leal Bom
   - Neutro Bom
   - Neutro
 Domínios:
   - Ar
+  - Liberdade
+  - Viagem
 Subdomínios: 
 ArmaFavorita: Espada Longa
 Símbolo: Uma espiral estilizada representando o movimento dos ventos
@@ -37,6 +44,7 @@ AnimaisSagrados:
   - Águia
   - Falcão
   - Andorinha
+  - Albatroz
 CoresSagradas:
   - Branco
   - Dourado
@@ -44,7 +52,7 @@ CoresSagradas:
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Zephyrus
 > ![[zephyrusUP.jpeg]]
 > [[zephyrusUP.jpeg|Mostrar]]
 > ###### Divindade
@@ -56,7 +64,7 @@ CoresSagradas:
 > Tendência | `=this.Tendência` |
 > Preocupações | `=this.Preocupações` |
 > Adoradores | `=this.Adoradores` |
-> Decretos | `=this.Decretos` |
+> Éditos | `=this.Éditos` |
 > Anátemas | `=this.Anátemas` |
 > Tendência Clérigos | `=this.TendênciaCléricos ` |
 > Domínios | `=this.Domínios` |
@@ -66,7 +74,7 @@ CoresSagradas:
 > Animais Sagrados | `=this.AnimaisSagrados` |
 > Cores Sagradas | `=this.CoresSagradas` |
 
-# `=this.file.name`
+# Zephyrus
 
 Zephyrus (ZE-phy-rus), é uma divindade primordial que governa sobre os céus e os elementos do ar. Sua presença é sentida nas brisas suaves que acariciam os campos, nos ventos tempestuosos que agitam as águas e nos vendavais que moldam a paisagem. Ele é reverenciado como o mediador entre os elementos, trazendo equilíbrio e harmonia ao mundo.
 
@@ -76,7 +84,7 @@ Zephyrus é frequentemente retratado como uma figura graciosa envolta em túnica
 
 ## História
 
-Diz-se que Zephyrus emergiu dos confins dos céus primordiais, trazendo consigo os ventos que moldam a paisagem e alimentam a vida. Desde tempos imemoriais, ele tem sido adorado como o guardião dos elementos do ar, cujas brisas suaves trazem alívio nos dias de calor e esperança nos momentos de tempestade. Seu reino abrange os céus vastos e os espaços abertos, onde sua presença é sentida em cada suspiro do vento.
+Diz-se que Zephyrus emergiu dos confins dos céus primordiais, trazendo consigo os ventos poderosos que moldaram as paisagens, esculpiram as montagem e alimentam a vida. Desde tempos imemoriais, ele tem sido adorado como o guardião dos elementos do ar, cujas brisas suaves trazem alívio nos dias de calor e esperança nos momentos de tempestade. Seu reino abrange os céus vastos e os espaços abertos, onde sua presença é sentida em cada suspiro do vento.
 
 ## Reino
 
@@ -94,5 +102,5 @@ Assim, as relações de Zephyrus transcendem as fronteiras dos elementos, envolv
 
 ## Religião
 
-A religião dedicada a Zephyrus é centrada na veneração dos céus e dos elementos do ar como manifestações de sua divindade. Seus seguidores acreditam que os ventos são sagrados e que Zephyrus é o guardião e senhor dos elementos, cuja benevolência é manifestada nas brisas suaves que acalmam as tempestades e nos vendavais que renovam a paisagem. Os templos dedicados a ele são construídos em locais elevados, onde os ventos sopram livremente e sua presença é mais intensamente sentida
+A religião dedicada a Zephyrus é centrada na veneração dos céus e dos elementos do ar como manifestações de sua divindade. Seus seguidores acreditam que os ventos são sagrados e que Zephyrus é o guardião e senhor dos elementos, cuja benevolência é manifestada nas brisas suaves que acalmam as tempestades e nos vendavais que renovam a paisagem. Os templos dedicados a ele são construídos em locais elevados ou até mesmo ocupando altares naturais nas montanhas, onde os ventos sopram livremente e sua presença é mais intensamente sentida
 

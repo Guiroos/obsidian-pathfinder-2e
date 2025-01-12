@@ -44,7 +44,7 @@ CoresSagradas:
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Aurora
 > ![[auroraUP.jpeg ]]
 > [[auroraUP.jpeg | Mostrar]]
 > ###### Divindade
@@ -66,7 +66,7 @@ CoresSagradas:
 > Animais Sagrados | `=this.AnimaisSagrados` |
 > Cores Sagradas | `=this.CoresSagradas` |
 
-# `=this.file.name`
+# Aurora
 
 Aurora (AU-ro-ra) é a divindade primordial associada à luz, esperança e ao destino. Ela é reverenciada como a criadora dos primeiros raios de sol que dissiparam as trevas primordiais e deram origem à vida no mundo. Além disso, ela é conhecida como a tecelã dos destinos, responsável por tecer os fios do destino que ligam todas as criaturas vivas no tecido do universo.
 

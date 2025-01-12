@@ -8,7 +8,7 @@ updated: 2024-04-11T18:50
 
 
 > [!aside | right]
-> # `=this.file.name`
+> # Hierarquia Urbana
 > ![[hierarquia_urbana.jpg]]
 > [[hierarquia_urbana.jpg|Mostrar aos jogadores]]
 

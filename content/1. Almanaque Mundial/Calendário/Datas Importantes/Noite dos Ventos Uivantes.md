@@ -18,6 +18,8 @@ Algumas lendas falam de criaturas antigas, conhecidas como [[Espíritos Uivantes
 ## Rituais e Tradições
 - **Oferendas ao Deus dos Ventos**: Na noite anterior à Noite dos Ventos Uivantes, os marinheiros e pescadores preparam oferendas para Zephyrus. Essas oferendas incluem alimentos, vinhos, e até pequenos barcos de madeira que são lançados ao mar ou ao vento. Acredita-se que, se Zephyrus aceitar a oferta, ele protegerá os navegantes de futuras tempestades e trará ventos favoráveis para suas viagens.
 
+ - **Festival dos Quatro Ventos**: Os seguidores celebram os ventos de cada direção (Norte, Sul, Leste, Oeste), cada um trazendo diferentes influências e bênçãos. Isso poderia ser uma cerimônia sazonal ou ligada a grandes eventos climáticos.
+
 - **A Prova dos Ventos**: Em algumas aldeias costeiras, os mais corajosos, geralmente marinheiros e aventureiros, participam de uma vigília em alto-mar ou nas margens, acreditando que enfrentar os ventos diretamente demonstra coragem e honra a Zephyrus. Eles acendem grandes fogueiras nos penhascos e fazem cânticos que ecoam no vento, tentando "conversar" com o deus. Apenas os mais ousados participam, pois há o risco de serem levados pelos ventos.
 
 - **As Correntes Celestiais**: Durante a Noite dos Ventos Uivantes, acredita-se que as estrelas brilham de maneira incomum, como se os ventos mudassem as próprias correntes celestiais. Alguns estudiosos e sacerdotes de Aurora aproveitam esse momento para observar e interpretar as mudanças nos céus, acreditando que os ventos estão alinhando ou ajustando os destinos dos mortais. Isso dá ao evento um caráter místico, onde presságios podem ser lidos no céu tempestuoso.
