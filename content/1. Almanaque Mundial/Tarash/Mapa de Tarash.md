@@ -1,6 +1,7 @@
 ---
 title: Mapa de Tarash
 tags:
+Ícone: Informação
 date: 2024-04-08T14:08
 updated: 2024-04-09T22:53
 ---
@@ -25,7 +26,7 @@ defaultZoom: -1
 zoomDelta: 0.5  
 unit: quilometros  
 scale: 1  
-darkMode: false 
+
 ```
 
 

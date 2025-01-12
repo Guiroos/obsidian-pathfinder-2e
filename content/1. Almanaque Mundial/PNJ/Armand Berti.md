@@ -1,14 +1,16 @@
 ---
-title: Armand Marquá
+title: Armand Berti
 date: 2024-04-15T18:02
-updated: 2024-04-16T13:46
+updated: 2024-12-31T16:51:00
 tags:
   - pnj
-GrupoAssociado: 
+  - tarash/shepu
+GrupoAssociado: Conselho Comunitário de Shepu
 Gênero: Masculino
 Raça: Humano
 Idade: 58
-Classe: Guerreiro
+Classe:
+  - Guerreiro
 Tendência: Leal Neutro
 Localização: Shepu
 Condição: Normal
@@ -16,7 +18,7 @@ Condição: Normal
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Armand Berti
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
 > ###### Informação Básica
@@ -34,27 +36,35 @@ Condição: Normal
 > Tendência | `=this.Tendência` |
 > Classe | `=this.Classe` |
 
-# `=this.file.name`
+# Armand Berti
 
 ## Sobre
 
-Armand Berti é uma figura proeminente na política de [[Shepu]], tendo assumido o cargo de líder político da cidade após anos de serviço público dedicado. Embora inicialmente relutante em aceitar a posição de liderança, ele abraçou seu papel com determinação e compromisso, buscando sempre o melhor para sua cidade e seus habitantes. Armand também é pai de gêmeos chamados [[Bruno Berti]] e [[Lucas Berti]], cujas visões políticas contrastantes adicionam uma camada de complexidade aos desafios que ele enfrenta.
+Armand Berti é o líder político de [[Shepu]], assumindo a responsabilidade de guiar a cidade em um momento de crescimento acelerado e desafios significativos. Embora inicialmente relutante em assumir o cargo, sua dedicação à comunidade e seu desejo de proteger [[Shepu]] o levaram a abraçar a liderança.
+
+Armand é conhecido por sua abordagem tradicional e pragmática, preferindo soluções conservadoras para os problemas da cidade. Ele enfrenta dilemas constantes, tanto no gerenciamento político quanto em sua relação com seus filhos gêmeos, [[Bruno Berti]] e [[Lucas Berti]], cujas visões opostas para o futuro de Shepu testam sua capacidade de equilibrar progresso e estabilidade.
 
 ## História
 
-Armand Berti nasceu e cresceu em [[Shepu]], testemunhando em primeira mão os altos e baixos da vida na cidade portuária. Ele ingressou na política local ainda jovem, inspirado pelo desejo de fazer a diferença em sua comunidade. Ao longo dos anos, ele ascendeu nas fileiras políticas, ganhando reputação por sua integridade e dedicação ao serviço público. Quando as circunstâncias o colocaram como líder político de [[Shepu]], Armand enfrentou o desafio com coragem e determinação, comprometendo-se a enfrentar os problemas da cidade de frente, enquanto tenta equilibrar as perspectivas políticas de seus filhos.
+Armand nasceu e cresceu em [[Shepu]], testemunhando a transformação da cidade de um pequeno assentamento pesqueiro para um próspero centro comercial. Inspirado por seu pai, um pescador que acreditava na importância da comunidade, Armand ingressou na política local ainda jovem, com a intenção de preservar o legado de sua cidade natal.
+
+Ao longo das décadas, ele construiu uma carreira baseada em sua integridade e habilidade de negociar com comerciantes e líderes comunitários. Ele foi eleito líder de Shepu durante uma crise econômica no ano 180, quando conseguiu revitalizar o comércio local ao atrair parcerias estratégicas com outras regiões de Tarash.
+
+Sua liderança, no entanto, foi desafiada pelo crescimento descontrolado da cidade e pela divisão de opiniões entre seus filhos sobre como lidar com o futuro de [[Shepu]]. Enquanto tenta conciliar essas diferenças, Armand também precisa enfrentar o aumento da criminalidade e as tensões entre a população local e comerciantes estrangeiros.
 
 ## Aparência
 
-Armand é um homem de meia-idade, com cabelos grisalhos que mostram os sinais do tempo e da experiência. Sua postura é ereta e sua expressão geralmente séria, refletindo a seriedade com que ele encara suas responsabilidades como líder político. Ele se veste com roupas formais e bem cuidadas, transmitindo uma imagem de autoridade e respeitabilidade.
+Armand é um homem de 58 anos, com cabelos grisalhos e uma barba curta bem aparada. Sua postura ereta e seu olhar sério refletem o peso de suas responsabilidades. Ele veste roupas formais, geralmente em tons escuros, com detalhes que representam o porto e a tradição marítima de Shepu, como bordados em forma de ondas ou âncoras.
 
 ## Personalidade
 
-A personalidade de Armand é marcada por uma mistura de determinação, idealismo e pragmatismo. Ele é um líder determinado, disposto a fazer o que for necessário para proteger Shepu e seus habitantes. No entanto, sua experiência na política também o tornou mais cético e desiludido, e ele muitas vezes enfrenta dilemas éticos e morais em suas decisões. Apesar de suas falhas, Armand é guiado por um profundo senso de dever e responsabilidade para com sua cidade.
+Armand é uma figura carismática e determinada, guiada por um forte senso de dever. Ele é idealista o suficiente para acreditar no potencial de [[Shepu]], mas a experiência o tornou mais pragmático e cético em relação às promessas de mudança rápida.
+
+Sua maior força está em sua habilidade de negociar e encontrar soluções práticas, mas essa mesma abordagem conservadora o torna resistente a mudanças radicais, o que às vezes frustra a população mais jovem e progressista. Apesar de tudo, Armand se esforça para manter a coesão da cidade, mesmo quando isso significa tomar decisões impopulares.
 
 ## Localização 
 
-Armand reside em uma casa espaçosa no centro de [[Shepu]], próxima aos principais edifícios governamentais da cidade. Seu escritório está localizado dentro do prédio da prefeitura, onde ele passa a maior parte de seu tempo lidando com questões políticas e administrativas. Como líder político, ele está sempre presente nos eventos e reuniões importantes da cidade, garantindo que suas vozes sejam ouvidas e suas preocupações sejam abordadas.
+Armand reside em uma casa espaçosa e bem localizada no centro de [[Shepu]], próxima aos principais edifícios governamentais. Seu escritório está dentro da prefeitura, onde ele passa a maior parte de seu tempo lidando com questões administrativas e recebendo representantes de diferentes facções da cidade.
 
 ## Características 
 

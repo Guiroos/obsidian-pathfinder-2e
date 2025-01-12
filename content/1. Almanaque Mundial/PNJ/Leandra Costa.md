@@ -16,7 +16,7 @@ Condição: Saudável
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Leandra Costa
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
 > ###### Informação Básica
@@ -34,26 +34,40 @@ Condição: Saudável
 > Tendência | `=this.Tendência` |
 > Classe | `=this.Classe` |
 
-# `=this.file.name`
+# Leandra Costa
 ## Sobre
 
-Leandra Costa é uma líder comunitária dedicada que luta pelos direitos dos moradores mais pobres e marginalizados de Shepu. Ela é conhecida por seu compromisso incansável em melhorar as condições de vida na cidade, organizando programas sociais e campanhas de conscientização. Sua paixão pela justiça social e sua determinação em fazer a diferença tornaram-na uma figura respeitada e admirada entre os habitantes de Shepu.
+Leandra Costa é uma líder comunitária e defensora apaixonada pelos direitos dos moradores marginalizados de [[Shepu]]. Com uma visão de igualdade e justiça, ela atua como a voz dos desfavorecidos, lutando por melhores condições de vida e oportunidades para todos.
+
+Sua presença firme e sua habilidade de inspirar e mobilizar os outros a tornaram uma figura central na política social da cidade. Embora suas ações frequentemente a coloquem em desacordo com figuras mais tradicionais do poder, sua integridade e determinação conquistaram o respeito de muitos, até mesmo entre seus opositores.
 
 ## História
 
-Nascida em uma família de ativistas sociais, Leandra cresceu aprendendo a importância de defender os direitos humanos e combater a injustiça. Desde jovem, ela se envolveu em causas sociais, trabalhando em projetos de ajuda comunitária e programas de educação. Ao longo dos anos, sua dedicação e liderança a levaram a se tornar uma das vozes mais proeminentes na luta pelos direitos dos menos favorecidos em Shepu.
+Filha de ativistas sociais, Leandra cresceu em um lar dedicado a ajudar os necessitados. Desde jovem, acompanhava seus pais em projetos de ajuda comunitária e campanhas de conscientização. Sua educação foi marcada por valores de igualdade e responsabilidade social, moldando-a como uma mulher de ação e propósito.
+
+Quando Shepu começou a enfrentar os desafios de um crescimento descontrolado, Leandra emergiu como uma líder natural, organizando iniciativas de distribuição de alimentos, campanhas de alfabetização e programas de saúde pública para os bairros mais pobres. Sua reputação como uma defensora incansável dos menos favorecidos a levou a ser reconhecida pela comunidade e respeitada até mesmo no [[Conselho Comunitário de Shepu]], onde sua influência indireta começa a crescer.
 
 ## Aparência
 
-Leandra é uma mulher de presença marcante, com uma postura firme e olhos penetrantes que refletem sua determinação. Ela veste roupas simples, mas elegantes, que refletem seu compromisso com a causa que defende. Seu cabelo escuro é geralmente amarrado em um coque despojado, enquanto suas expressões faciais revelam a profundidade de sua empatia e compaixão pelos outros.
+Leandra tem uma pele é levemente bronzeada pelo sol das ruas de [[Shepu]], e seus olhos castanhos profundos exalam uma mistura de determinação e gentileza.
+
+Ela se veste de forma prática e modesta, com roupas funcionais que refletem sua vida ativa e seu compromisso com a comunidade. Seu cabelo escuro, geralmente preso em um coque despojado, mantém-se fora do caminho enquanto ela trabalha. Apesar de sua simplicidade, a postura ereta e a expressão firme de Leandra transmitem uma autoridade inegável.
 
 ## Personalidade
 
-Leandra é uma líder carismática e inspiradora, capaz de mobilizar as pessoas ao seu redor para trabalhar juntas em prol de um objetivo comum. Ela é compassiva e solidária, sempre pronta para ouvir e apoiar aqueles que precisam de ajuda. Sua determinação e coragem diante das adversidades são fontes de inspiração para muitos, e seu compromisso com a justiça social é inabalável.
+Leandra é carismática e empática, uma verdadeira inspiração para os que lutam ao seu lado. Sua paciência e habilidade de ouvir fazem dela uma conselheira confiável e uma líder sensata.
+
+Embora seja naturalmente compassiva, Leandra não teme confrontar injustiças ou enfrentar aqueles que ignoram as necessidades da comunidade. Ela possui um senso de justiça inabalável e acredita que nenhuma causa é pequena demais para ser defendida. Sua determinação é temperada por uma abordagem prática, o que a torna eficaz na implementação de soluções tangíveis para os problemas de Shepu.
 
 ## Localização 
 
-Leandra pode ser encontrada em diversos locais em Shepu, desde os bairros mais pobres até os salões do governo local, onde ela defende os direitos daqueles que não têm voz. Ela é uma presença constante em reuniões comunitárias, eventos sociais e protestos pacíficos, sempre trabalhando para garantir que as necessidades e preocupações dos moradores mais vulneráveis sejam ouvidas e atendidas.
+Leandra é frequentemente encontrada nos bairros mais pobres de [[Shepu]], coordenando iniciativas sociais, organizando reuniões comunitárias e ouvindo as preocupações dos moradores. Ela também é uma presença constante nos corredores da administração local, onde defende melhorias nas políticas públicas e pressiona por mudanças significativas.
+
+### **Conexões com o Conselho Comunitário**
+
+Embora não seja membro oficial do [[Conselho Comunitário de Shepu]], Leandra frequentemente colabora com figuras como [[Eloise Marivalle]], representando os interesses das comunidades mais pobres e marginalizadas. Sua relação com [[Armand Berti]] é cordial, mas ocasionalmente tensa, devido às prioridades divergentes.
+
+Ela é vista como uma aliada pelos progressistas e uma ameaça pelos tradicionalistas, navegando com habilidade nas complexidades políticas para garantir que as necessidades de sua comunidade sejam ouvidas.
 
 > [!info] Statblock
 > ```statblock

@@ -1,22 +1,23 @@
 ---
 title: Bruno Berti
 date: 2024-04-15T18:26
-updated: 2024-04-16T13:45
+updated: 2024-12-31T18:01:00
 tags:
   - pnj
-GrupoAssociado: 
+  - tarash/shepu
+GrupoAssociado: Conselho Comunitário de Shepu
 Gênero: Masculino
 Raça: Humano
 Idade: 22
 Classe: 
 Tendência: Caótico Neutro
 Localização: Shepu
-Condição: Saudável
+Condição: Vivo
 Ícone: PNJ
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Bruno Berti
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
 > ###### Informação Básica
@@ -34,26 +35,28 @@ Condição: Saudável
 > Tendência | `=this.Tendência` |
 > Classe | `=this.Classe` |
 
-# `=this.file.name`
+# Bruno Berti
 ## Sobre
 
-Bruno Berti é uma figura proeminente em [[Shepu]], um dos gêmeos nascidos do líder político [[Armand Berti]]. Sua presença na cidade é marcada por sua visão ambiciosa e determinação em impulsionar o crescimento econômico e o desenvolvimento de Shepu. Ele enxerga o potencial da cidade como um centro de comércio e prosperidade, e está disposto a assumir riscos significativos para alcançar seus objetivos.
+Bruno Berti é uma força motriz em [Shepu], sendo reconhecido como o visionário que deseja transformar a cidade portuária no maior centro comercial de Tarash. Filho do líder [[Armand Berti]] e irmão gêmeo de [[Lucas Berti]], Bruno representa a face progressista e ambiciosa da família, disposto a quebrar barreiras e desafiar tradições para alcançar o futuro que idealiza para Shepu.
 
 ## História
 
-Desde jovem, Bruno mostrou sinais de sua natureza empreendedora e sua ambição para o futuro de Shepu. Crescendo sob a influência de seu pai, [[Armand Berti]], ele absorveu os ensinamentos sobre política e liderança, mas sua verdadeira paixão sempre foi o potencial econômico da cidade. Ao longo dos anos, ele se dedicou a explorar oportunidades de negócios e expandir sua rede de contatos, preparando-se para o dia em que pudesse assumir um papel mais ativo na condução dos destinos de Shepu.
+Desde a juventude, Bruno demonstrou um apetite voraz por desafios e uma habilidade excepcional para identificar oportunidades. Ele cresceu admirando o porto movimentado de [[Shepu]] e sonhando com uma cidade que pudesse atrair comerciantes de todo o mundo. Durante a adolescência, começou a frequentar reuniões comerciais ao lado de seu pai, onde aprendeu os fundamentos da negociação e da liderança.
+
+No entanto, sua visão frequentemente o colocou em rota de colisão com seu irmão gêmeo, [[Lucas Berti]], cuja abordagem mais cuidadosa e comunitária contrasta com a natureza ousada e impaciente de Bruno. Apesar dessas tensões, Bruno acredita que o progresso justifica os meios e está determinado a ver suas ideias se concretizarem, mesmo que isso signifique desafiar seu pai ou os líderes tradicionais da cidade.
 
 ## Aparência
 
-Bruno Berti é um homem jovem de aparência vigorosa, com olhos que brilham com a determinação e a ambição. Seus cabelos escuros são cortados curtos e sua postura é sempre confiante e assertiva. Ele se veste com elegância, optando por roupas que transmitam uma imagem de poder e sofisticação, refletindo sua posição como um dos líderes emergentes de Shepu.
+Bruno é um jovem carismático de aparência sofisticada. Seus cabelos escuros são cortados curtos, e seus olhos brilham com determinação. Ele sempre veste roupas finas e modernas, frequentemente importadas de outras cidades, o que reflete seu gosto por novidades e sua visão cosmopolita. Sua postura confiante e sorriso convincente fazem dele uma figura difícil de ignorar em qualquer sala.
 
 ## Personalidade
 
-A personalidade de Bruno é caracterizada por sua determinação inabalável e sua mentalidade empreendedora. Ele é um pensador rápido e decisivo, sempre pronto para agir quando surge uma oportunidade. Sua ambição é contagiante, e ele inspira aqueles ao seu redor a alcançarem novos patamares de sucesso. No entanto, sua impulsividade às vezes pode levá-lo a tomar decisões precipitadas, sem considerar totalmente as consequências.
+Bruno é uma pessoa ambiciosa, movida pela busca constante de crescimento econômico. Seu carisma o torna capaz de inspirar os outros, embora suas intenções nem sempre sejam claras. Ele pode ser impulsivo, tomando decisões rápidas sem considerar riscos ou opiniões contrárias, e tem uma postura desafiadora em relação a tradições que acredita limitar o progresso.
 
 ## Localização 
 
-Bruno Berti é frequentemente encontrado em reuniões de negócios e eventos sociais importantes. Ele tem uma presença ativa nas áreas comerciais da cidade, onde está sempre em busca de novas oportunidades de investimento e desenvolvimento. Sua influência se estende por toda Shepu, e ele é amplamente reconhecido como um dos principais impulsionadores do crescimento econômico da cidade.
+Bruno é frequentemente encontrado em reuniões de negócios, no [[Bazar das Marés]] ou no [[Porto do Mar Eterno]], onde busca oportunidades para expandir sua rede de contatos e negociar acordos comerciais. Ele também participa de eventos sociais, utilizando essas ocasiões para promover suas ideias e atrair apoiadores.
 
 ## Características
 

@@ -1,13 +1,14 @@
 ---
-title: Nova Localização
+title: Shepu
 date: 2024-04-08T14:25
-updated: 2024-04-16T00:18
+updated: 2024-12-31T16:35:00
 tags:
   - categoria/vila
   - localização
+  - tarash/shepu
 Tipo: Vila
 Tamanho: Médio
-População: 1000
+População: 800
 Região: Tarash
 Líder: Armand Berti
 Governo: Aristocracia
@@ -17,6 +18,7 @@ Tendência: Neutro
 RaçasComuns:
   - Humanos
   - Anões
+  - Elfos
 Religião:
   - Thalassa
   - Zephyrus
@@ -29,11 +31,16 @@ Importação:
   - Especiarias
   - Arte
 Grupos:
+  - Guilda dos Artesões
+  - Guilda Mercantil
+  - Navegantes Negros
+  - Filhos do Mar
+  - Sociedade dos Marinheiros
 Ícone: Localização
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Shepu
 > ![[z_Assets/Misc/MapPlaceholder.png|cover hm-sm]]
 > [[z_Assets/Misc/MapPlaceholder.png|Mostrar]]
 > ###### Geografia
@@ -76,14 +83,18 @@ Grupos:
 > ```
 
 
-# `=this.file.name`
+# Shepu
 ## Visão Geral
 
-Shepu é uma próspera cidade portuária localizada em uma posição estratégica na costa de Tarash. Com o maior porto da região, é o ponto de entrada e saída para todos os navios que chegam à ilha, sejam eles de viajantes em busca de aventuras ou de comerciantes em busca de negócios. A economia de Shepu gira inteiramente em torno da indústria naval, com atividades que incluem construção, manutenção e reparo de navios, além do comércio marítimo de mercadorias.
+Shepu é a porta de entrada para [[Tarash]], uma cidade portuária que vive do movimento constante de navios e do comércio marítimo. Situada em uma baía natural protegida, Shepu prosperou como um centro de comércio e construção naval. Com uma população crescente de comerciantes, pescadores e viajantes, a cidade é vibrante, mas enfrenta desafios significativos devido ao crescimento desordenado.  
 
-No entanto, o rápido crescimento da cidade tem levado a desafios significativos de governança. O governo local enfrenta dificuldades em acompanhar o ritmo do desenvolvimento, resultando em uma administração caótica e problemas que vão desde o controle do crime até a gestão de infraestrutura e recursos públicos. Apesar desses desafios, Shepu continua a atrair novos residentes em busca de oportunidades e aventuras oferecidas pelo movimentado porto e pela vida à beira-mar.
+O porto movimentado é o coração da cidade, mas Shepu não é apenas comércio e construção naval. É também um lugar de histórias e tradições, onde culturas de diferentes terras se encontram, e onde o contraste entre progresso e preservação define o cotidiano.
 
 ## História
+
+Shepu começou como um modesto assentamento de pescadores no ano 150, mas sua localização estratégica rapidamente atraiu comerciantes. No ano 155, a cidade se tornou oficialmente um porto reconhecido, e no ano 175, o Farol do Olhar Brilhante foi construído, marcando sua ascensão como um dos principais pontos comerciais da ilha.  
+
+Nos últimos 30 anos, a cidade cresceu rapidamente, enfrentando os desafios de um desenvolvimento acelerado.  
 
 ### Fundação
 
@@ -99,10 +110,7 @@ Um dos eventos mais significativos na história de Shepu foi a construção do F
 
 ### Importância na História de Tarash
 
-Shepu desempenha um papel crucial na história de Tarash como o principal ponto de entrada e saída para o comércio marítimo da ilha. Sua localização estratégica e sua infraestrutura portuária robusta tornam-na um centro vital de atividade econômica e uma peça-chave na rede de comércio que conecta Tarash ao resto do mundo. Ao longo dos anos, Shepu se estabeleceu como um dos pilares da economia insular e como uma força motriz por trás do desenvolvimento e crescimento de Tarash.
-
-## NPCs Notáveis
-insira seu texto aqui
+Shepu desempenha um papel crucial na história de [[Tarash]] como o principal ponto de entrada e saída para o comércio marítimo da ilha. Sua localização estratégica e sua infraestrutura portuária robusta tornam-na um centro vital de atividade econômica e uma peça-chave na rede de comércio que conecta [[Tarash]] ao resto do mundo. 
 
 ## Pontos de Interesse
 
@@ -149,12 +157,16 @@ Lugar onde os habitantes de vão para pedir orientação para o deus dos ventos,
 - A interação constante com viajantes e comerciantes de outras regiões enriquece a vida cultural de Shepu. A cidade recebe influências culturais variadas, desde culinária e arte até tradições religiosas e práticas sociais. Em troca, Shepu compartilha sua própria cultura única, contribuindo para uma tapeçaria diversificada de identidades regionais.
 
 ### Interdependência Regional:
+- **Comércio com Shepu**: Shepu depende de [[Rosares]] para importar peixes frescos, em troca de ferramentas e materiais.
+- **Nova rota com Darak**: Criação de uma rota de importação de grãos vinda de [[Darak]], para alimentar sua população crescente.
+
 - Shepu depende da região circundante para o fornecimento de recursos essenciais, como alimentos, água doce e materiais de construção. Os moradores da cidade contam com as áreas vizinhas para suprir suas necessidades básicas, enquanto contribuem com o comércio marítimo para exportar os produtos locais.
 
 ## Detalhes Adicionais
 
 ### Dinâmica Política
 
-- Armand está enfrentando crescente pressão da população de Shepu devido aos problemas causados pelo crescimento descontrolado da cidade. Ele vê seus filhos como potenciais sucessores, mas está dividido entre os diferentes ideais e abordagens deles.
-- Bruno e Lucas estão competindo abertamente pelo apoio político e popular na cidade. Bruno promete um futuro próspero e desenvolvimento econômico, enquanto Lucas apela para a preocupação comunitária e a preservação do meio ambiente.
+- [[Armand Berti]] lidera Shepu com o apoio de um conselho de comerciantes influentes, mas a cidade enfrenta divisões internas. Seus filhos, Bruno e Lucas, representam visões conflitantes: 
+	- [[Bruno Berti]] deseja expandir o comércio a qualquer custo, prometendo um futuro próspero.
+	- [[Lucas Berti]] defende uma abordagem mais sustentável, priorizando a preservação ambiental e o bem-estar dos trabalhadores.
 - A disputa entre os irmãos está dividindo a cidade, com diferentes grupos apoiando cada um deles. A situação está ficando cada vez mais tensa, e a ameaça de instabilidade política paira sobre Shepu.

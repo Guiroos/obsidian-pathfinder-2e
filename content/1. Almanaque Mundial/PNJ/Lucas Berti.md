@@ -4,19 +4,20 @@ date: 2024-04-15T18:25
 updated: 2024-04-16T14:36
 tags:
   - pnj
-GrupoAssociado: 
+  - tarash/shepu
+GrupoAssociado: Conselho Comunitário de Shepu
 Gênero: Masculino
 Raça: Humano
 Idade: 22
 Classe: 
 Tendência: Leal Neutro
 Localização: Shepu
-Condição: Saudável
+Condição: Vivo
 Ícone: PNJ
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Lucas Berti
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
 > ###### Informação Básica
@@ -34,27 +35,31 @@ Condição: Saudável
 > Tendência | `=this.Tendência` |
 > Classe | `=this.Classe` |
 
-# `=this.file.name`
+# Lucas Berti
 
 ## Sobre
 
-Lucas Berti é uma figura proeminente em [[Shepu]], filho de [[Armand Berti]] e um dos gêmeos que moldam o futuro da cidade. Sua presença na comunidade é marcada por sua abordagem cautelosa e sua preocupação com o bem-estar dos habitantes e o equilíbrio ambiental. Ele é um defensor incansável da sustentabilidade e da preservação da qualidade de vida em Shepu, mesmo que isso signifique desafiar o rápido crescimento econômico da cidade.
+Lucas Berti é um jovem líder comprometido em garantir o futuro sustentável de [[Shepu]]. Como filho de [[Armand Berti]] e irmão gêmeo de [[Bruno Berti]], Lucas representa a face conservadora e protetora da família, focando em preservar os recursos naturais e o bem-estar da comunidade acima do crescimento econômico acelerado. Ele acredita firmemente que progresso e tradição podem coexistir, mas frequentemente entra em conflito com Bruno, cuja visão mais agressiva para o futuro da cidade ameaça esses ideais.
 
 ## História
 
-Nascido e criado em [[Shepu]], Lucas cresceu sob a influência de seu pai, [Armand Berti], e aprendeu desde cedo sobre a responsabilidade de liderar. Sua jornada para se tornar um defensor do bem-estar da cidade começou quando ele testemunhou os efeitos do crescimento desenfreado sobre o meio ambiente e a comunidade local. Desde então, Lucas dedicou sua vida a equilibrar o progresso econômico com a preservação dos recursos naturais e a qualidade de vida dos habitantes de Shepu.
+Nascido e criado em [[Shepu]], Lucas foi influenciado desde cedo pelos ensinamentos de seu pai sobre responsabilidade e liderança. Durante a adolescência, ele testemunhou o impacto do crescimento descontrolado sobre a comunidade e o meio ambiente, moldando sua determinação em proteger a identidade única da cidade.
+
+Lucas também aprendeu a importância do diálogo e da colaboração, desenvolvendo um estilo de liderança que prioriza o consenso. Ele frequentemente se posiciona como um mediador em debates acalorados no Conselho Comunitário, lutando para equilibrar as necessidades imediatas de Shepu com sua visão de longo prazo.
 
 ## Aparência
 
-Lucas Berti é um homem jovem de aparência serena e pensativa. Seus traços refletem sua abordagem cuidadosa e ponderada para a vida e para governar. Seus olhos expressam a profundidade de sua preocupação com a cidade e seu povo, enquanto seu porte reflete sua determinação em proteger os interesses da comunidade.
+Lucas tem uma presença serena e ponderada, com traços suaves e um olhar introspectivo. Seus cabelos castanhos levemente despenteados e roupas simples, mas bem cuidadas, refletem sua conexão com a comunidade. Ele frequentemente carrega um grimório de anotações pessoais, onde registra ideias e estratégias para manter o equilíbrio entre progresso e tradição.
 
 ## Personalidade
 
-A personalidade de Lucas é definida por sua cautela, sua compaixão e sua dedicação ao bem comum. Ele é um líder que valoriza a estabilidade e a segurança, buscando sempre o equilíbrio entre o progresso e a preservação. Lucas é conhecido por sua capacidade de ouvir e considerar diferentes pontos de vista, buscando sempre o consenso e o compromisso em suas decisões.
+Lucas é uma pessoa cautelosa e ponderada, que prefere analisar todas as opções antes de decidir. Sua empatia reflete uma preocupação genuína com o bem-estar da comunidade, valorizando as opiniões individuais. Comprometido com o equilíbrio, ele busca promover o desenvolvimento sem comprometer os valores fundamentais de [[Shepu]], preservando as tradições como parte essencial de sua identidade.
 
 ## Localização 
 
 Lucas Berti é uma presença constante nos eventos e reuniões importantes de [[Shepu]], onde ele busca promover sua visão de um futuro sustentável e próspero para a cidade. Como um líder dedicado e compassivo, Lucas está comprometido em proteger o bem-estar da comunidade e em preservar a identidade única de Shepu.
+
+Lucas passa grande parte do tempo em reuniões do Conselho Comunitário ou visitando áreas críticas da cidade, como o [[ Porto do Mar Eterno]] ou o [[Bazar das Marés]]. Ele também costuma visitar o [[Templo de Thalassa]] e o [[Templo de Zephyrus]] para buscar inspiração e meditar sobre as decisões difíceis que enfrenta.
 
 ## Características
 

@@ -1,10 +1,11 @@
 ---
 title: Navegantes Negros
 date: 2024-04-16T01:05
-updated: 2024-04-16T11:41
+updated: 2025-01-02T01:40:00
 tags:
   - categoria/grupo
-TamanhoComunidade: 
+  - tarash/shepu
+TamanhoComunidade: Moderada
 Tendência: Caótico Neutro
 Governo: Autocracia
 Líder: O Capitão
@@ -13,55 +14,66 @@ Lar: Shepu
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Navegantes Negros
 > ![[ImagePlaceholder.png]]
 > ###### Membros Principais
 > ```dataview
 table Raça, Gênero
 where contains( GrupoAssociado, this.file.name)
 
-# `=this.file.name`
+# Navegantes Negros
 ## Visão Geral
 
-Os Navegantes Negros são uma gangue perigosa que se estabeleceu nas docas de [[Shepu]], operando à margem da lei e dominando o submundo do comércio ilegal. Composta por criminosos experientes e mercenários desonestos, a gangue ganhou uma reputação temida por sua brutalidade e astúcia. Como uma sociedade clandestina, os Navegantes Negros são conhecidos por suas táticas furtivas e métodos pouco convencionais. Eles prosperam nas sombras, evitando a atenção indesejada das autoridades enquanto exploram as rotas comerciais e costeiras para oportunidades de lucro.
+Os **Navegantes Negros** são uma gangue poderosa e clandestina, com cerca de 200 a 300 membros, que controla o submundo de [[Shepu]], estabelecendo-se como mestres do comércio ilegal e da pirataria nas águas de [[Tarash]]. Conhecidos por sua brutalidade e astúcia, eles operam nas sombras das docas, explorando rotas comerciais para contrabando, extorsão e saque.
 
-O líder dos Navegantes Negros é um indivíduo carismático e astuto, conhecido apenas pelo codinome "O Capitão". Sua identidade real é um segredo bem guardado dentro da comunidade, e ele governa com mão firme, mantendo a coesão do grupo e conduzindo-os a empreendimentos lucrativos e arriscados. O Capitão é respeitado e temido por igual entre os membros dos Navegantes Negros, e sua palavra é lei dentro da comunidade.
-
-## Etimologia
-
-O nome "Navegantes Negros" é uma referência à escuridão de suas atividades e à habilidade de se moverem pelos mares do crime sem serem detectados. A palavra "navegantes" sugere sua habilidade em navegar pelos ambientes hostis do submundo, enquanto "negros" reflete a sombria natureza de suas operações.
-
-## Atividades
-
-As principais atividades dos Navegantes Negros incluem contrabando de mercadorias ilegais, tráfico de drogas, extorsão, pirataria e até mesmo assassinato por encomenda. Eles controlam grande parte do comércio ilegal que passa pelo porto de [[Shepu]], subornando autoridades e intimidando comerciantes rivais para manter sua posição dominante.
-
-1. **Contrabando e Comércio Ilegal:** Os Navegantes Negros são conhecidos por sua habilidade em contrabandear mercadorias proibidas ou altamente regulamentadas através das fronteiras, utilizando seus conhecimentos marítimos para evitar a detecção pelas autoridades.
-2. **Pirataria e Abordagem de Navios:** Além do contrabando, os Navegantes Negros podem se dedicar à pirataria, atacando navios comerciais para saquear mercadorias valiosas ou cobrar pedágios para permitir a passagem segura.
-3. **Contrabando de Pessoas:** Além do contrabando de mercadorias, os Navegantes Negros poderiam estar envolvidos no tráfico de pessoas, transportando clandestinamente imigrantes, refugiados ou prisioneiros fugitivos através das fronteiras marítimas.
-
-## Sociedade
-
-A sociedade dos Navegantes Negros é baseada em uma estrutura hierárquica, com líderes poderosos no topo e membros de base encarregados da execução de tarefas sujas. Eles operam sob um código de conduta brutal, onde a força e a astúcia são valorizadas acima de tudo. 
-
-### Crenças
-
-Sua crença central é na lei do mais forte e na ideia de que o poder é conquistado e mantido pela violência e pela intimidação.
-
-### Cultura
-
-A cultura dos Navegantes Negros é permeada pela violência e pela ganância. Eles vivem luxuosamente, desfrutando das riquezas obtidas por meio de suas atividades criminosas e exibindo sua influência de maneira ostensiva. Festas extravagantes, jogos de azar e competições de luta são comuns entre os membros da gangue, que buscam constantemente aumentar sua reputação e status dentro da organização.
-
-### Religião
-
-Embora não tenham uma religião formalmente estabelecida, os Navegantes Negros muitas vezes recorrem a práticas supersticiosas e rituais para buscar proteção e favorecimento dos deuses do mar, [[Thalassa]] , e dos ventos, [[Zephyrus]] . Eles acreditam que essas divindades podem trazer sorte e sucesso às suas empreitadas criminosas, e muitos membros realizam oferendas e rituais para garantir sua proteção durante suas atividades ilegais.
-
-## Posses 
-
-Os Navegantes Negros possuem uma variedade de posses, incluindo propriedades, embarcações, armas, drogas e mercadorias contrabandeadas. Eles acumulam riquezas através de suas atividades criminosas e investem em recursos que lhes permitem manter seu domínio sobre as docas de [[Shepu]] e expandir sua influência para além da cidade.
+Seu líder, uma figura enigmática conhecida apenas como **"O Capitão"**, governa com mão de ferro, mantendo um controle rígido sobre a gangue e garantindo que seus membros sejam leais e eficientes. Sob sua liderança, os **Navegantes Negros** se tornaram temidos tanto pelos marinheiros quanto pelas autoridades locais, que evitam confrontá-los diretamente.
 
 ## História
 
 Os Navegantes Negros surgiram como uma gangue de rua comum, mas sua ascensão ao poder foi rápida e implacável. À medida que ganharam controle sobre o comércio ilegal de [[Shepu]], sua influência se expandiu para outras áreas, incluindo extorsão, tráfico de drogas e pirataria. Sua história é marcada por uma série de conflitos violentos com gangues rivais e autoridades locais, mas até agora conseguiram manter sua posição dominante nas docas da cidade.
+
+## Etimologia
+
+O nome "Navegantes Negros" representa tanto a habilidade do grupo em navegar pelas águas traiçoeiras do crime quanto a escuridão que define suas operações. A palavra "negros" simboliza o segredo e o terror associados a suas ações, enquanto "navegantes" reflete sua expertise marítima.
+
+## Atividades
+
+- **Contrabando:** Mercadorias ilegais, como armas, especiarias exóticas e artefatos proibidos, são traficadas para dentro e fora de [[Shepu]].
+- **Extorsão:** Comerciantes do [[Porto do Mar Eterno]] são frequentemente coagidos a pagar por "proteção".
+- **Pirataria:** Navios que se recusam a pagar tributos aos **Navegantes Negros** são atacados e saqueados.
+- **Tráfico Humano:** Algumas operações clandestinas envolvem o transporte de pessoas em situações ilegais ou como cativos.
+- **Espionagem:** O grupo mantém uma rede de informantes para antecipar ações das autoridades e rivais.
+
+## Estrutura e Hierarquia
+
+A gangue é governada por uma autocracia liderada por **O Capitão**, cuja identidade é um segredo guardado a sete chaves. Abaixo dele estão:
+
+1. **Oficiais Negros:** Líderes regionais que coordenam operações em diferentes partes da cidade e do mar.
+2. **Cortesãos do Mar:** Planejadores estratégicos e encarregados de lidar com informantes e subornos.
+3. **Corsários Negros:** Operadores de campo responsáveis por pirataria e ações violentas.
+4. **Marujos das Sombras:** Recrutas e operários que realizam tarefas menores e perigosas para provar seu valor.
+
+### Crenças e Religião
+
+Embora o grupo não possua uma religião formal, superstições marítimas permeiam suas ações. Muitos membros fazem oferendas a [[Thalassa]] e [[Zephyrus]], acreditando que suas bênçãos podem protegê-los em empreitadas perigosas. Alguns rituais internos, como o "Batismo das Sombras" para novos recrutas, são vistos como sagrados dentro da gangue.
+
+### Cultura e Tradições
+
+- **Festas de Saque:** Celebrações realizadas após grandes roubos, marcadas por banquetes e apostas.
+- **Marcas de Lealdade:** Os membros recebem tatuagens distintivas de ondas escuras para sinalizar sua afiliação ao grupo.
+- **Códigos de Silêncio:** Qualquer membro que revele segredos da gangue enfrenta punições severas, incluindo a "Expulsão pelo Mar" (ser deixado à deriva em mar aberto).
+
+### Posses e Recursos
+
+- **Navios Fantasmas:** Embarcações rápidas e furtivas equipadas para operações de pirataria e contrabando.
+- **Armazéns Secretos:** Localizados em [[Shepu]] e ilhas próximas, onde armazenam mercadorias roubadas.
+- **Tesouros Ocultos:** Cofres subterrâneos e cavernas isoladas guardam artefatos e riquezas acumuladas ao longo de anos de operações.
+
+## Rumores e Lendas
+ 
+- **A Lança das Profundezas:** Uma arma lendária que **O Capitão** supostamente guarda como garantia de sua autoridade, capaz de invocar tempestades.
+- **Pacto com o Abismo:** Diz-se que o líder do grupo teria feito um acordo com entidades do oceano para proteger os **Navegantes Negros** em troca de sacrifícios periódicos.
+- **Navio da Perdição:** Um navio pertencente à gangue foi visto navegando sem tripulação, assombrado pelos fantasmas de marinheiros mortos.
 
 ## Rumores & Lendas
 

@@ -2,6 +2,8 @@
 title: Porto dos Pescadores
 tags:
   - categoria/ponto-de-interesse
+  - incompleto
+  - tarash/rosares
 Ícone: PDI
 date: 2024-04-11T23:01
 updated: 2024-04-11T23:50
@@ -33,6 +35,10 @@ O porto é adornado com redes de pesca coloridas penduradas para secar ao sol e 
 
 ## Significado
 
-O Porto dos Pescadores é mais do que apenas um local de trabalho ou comércio em [[Rosares]] - é o cerne da identidade e da subsistência da comunidade local. Para os habitantes desta cidade costeira, o porto é um símbolo de sua conexão com o mar e de sua dependência das riquezas que ele proporciona. 
+O Porto dos Pescadores é mais do que apenas um local de trabalho ou comércio em [[Rosares]] — é o coração pulsante da vida comunitária e um símbolo da perseverança da vila. Aqui, gerações de pescadores aprenderam as artes da pesca, honrando tradições ancestrais enquanto enfrentam os desafios diários do mar.
 
-Além de sua importância econômica, o porto tem um significado cultural profundo para os habitantes de [[Rosares]]. É aqui que eles se conectam com as tradições ancestrais da pesca, passadas de geração em geração ao longo dos séculos. O trabalho árduo e a dedicação dos pescadores são venerados e respeitados, e o porto é considerado sagrado como resultado.
+Eventos como o [[Rosares#Cultura e Tradições|Festival do Primeiro Retorno]] e o [[Festival das Marés]] reforçam a ligação dos habitantes com [[Thalassa]], deusa dos mares. Durante essas celebrações, o porto se torna um palco de cores vibrantes, música e oferendas lançadas às águas em agradecimento pelas bênçãos divinas.
+
+No entanto, o porto também carrega um lado sombrio. Uma **parede de memórias**, adornada com conchas e placas, homenageia aqueles que se perderam no mar, lembrando a todos do preço que o oceano pode cobrar. As histórias dos pescadores ecoam entre as tábuas do cais, desde contos de tempestades mortais até rumores de criaturas desconhecidas que habitam as profundezas.
+
+Para Rosares, o porto não é apenas um lugar físico — é um elo entre o passado e o presente, a terra e o mar, e a comunidade que depende dele para sobreviver.

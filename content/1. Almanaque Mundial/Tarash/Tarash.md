@@ -1,8 +1,12 @@
 ---
 title: Tarash
 tags:
+  - localização
+  - tarash
+Ícone: Localização
 date: 2024-04-09T22:54
 updated: 2024-04-09T22:54
+
 ---
 
 # Tarash

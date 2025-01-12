@@ -1,10 +1,11 @@
 ---
 title: Rosares
 date: 2024-04-08T14:08
-updated: 2024-04-16T00:16
+updated: 2024-12-31T01:29:00
 tags:
   - categoria/habitação
   - localização
+  - tarash/rosares
 Tipo: Habitação
 Tamanho: Pequeno
 População: 90
@@ -32,7 +33,7 @@ Grupos:
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # Rosares
 > ![[z_Assets/Misc/MapPlaceholder.png|cover hm-sm]]
 > [[z_Assets/Misc/MapPlaceholder.png|Mostrar]]
 > ###### Geografia
@@ -75,37 +76,47 @@ Grupos:
 > ```
 
 
-# `=this.file.name`
+# Rosares
 
 ## Visão Geral
   
-Rosares é uma pequena habitação costeira emergente, situada entre o majestoso mar e as densas florestas que se estendem até o horizonte. Com uma população de aproximadamente 90 pessoas, é uma comunidade unida que subsiste principalmente da pesca abundante que o oceano oferece. As casas simples dos pescadores se alinham ao longo da costa, enquanto a vegetação exuberante da floresta fornece uma barreira natural contra os elementos.
+Rosares é uma pequena habitação costeira emergente, situada entre o majestoso mar azul e a densa [[Floresta Incansável]] que se estendem até o horizonte. Com uma população de apenas 90 pessoas, a vila é uma comunidade resiliente e unida, cuja subsistência está profundamente ligada à generosidade do oceano. Suas casas simples de madeira, com telhados inclinados para resistir às tempestades, alinham-se ao longo da costa, enquanto trilhas sinuosas levam aos bosques próximos, que fornecem materiais e abrigo contra os ventos marítimos.
 
-No entanto, Rosares enfrenta um mistério sombrio que assombra suas noites tranquilas. Ataques silenciosos ocorrem periodicamente, com criaturas desconhecidas saqueando os estoques de peixe e ameaçando a segurança dos habitantes. Poucos sabem da verdadeira origem desses ataques, mas rumores sobre uma presença sinistra na floresta começam a se espalhar entre os moradores.
+No entanto, Rosares enfrenta uma ameaça enigmática: ataques periódicos de criaturas desconhecidas que surgem das profundezas da floresta à noite, saqueando os estoques de peixe e espalhando medo entre os moradores. Embora os ataques sejam raros, o mistério por trás deles alimenta rumores de que algo sombrio habita a floresta, possivelmente ligado a antigas magias ou criaturas esquecidas.
 
-Apesar dos desafios, os pescadores de Rosares continuam a lutar pela sobrevivência, confiando na solidariedade e na determinação para enfrentar os perigos que espreitam nas sombras da noite.
+Apesar dos desafios, os pescadores de Rosares perseveram, sustentados por sua fé em Thalassa e Zephyrus, bem como por sua herança marítima, que celebra a harmonia entre homem e natureza.
 
 ## História
 
 ### Fundação
 
-Rosares foi fundada por um grupo de pescadores corajosos que buscavam uma vida melhor nas margens do oceano. Atraídos pela abundância de peixes e pela promessa de uma vida simples, eles estabeleceram as bases da cidade há algumas décadas, construindo suas casas modestas e redesenhando suas vidas em torno da pesca.
+Rosares foi fundada no ano 160 por um pequeno grupo de pescadores migrantes, liderados por [[Nelson Maré Alta]]. Atraídos pelas águas ricas em peixes e pela tranquilidade do litoral, eles estabeleceram um assentamento modesto, construindo suas casas com madeira retirada da Floresta Incansável. A fundação de Rosares foi marcada por um pacto coletivo: trabalhar juntos e compartilhar os frutos do mar para garantir a sobrevivência de todos.
 
 ### Desenvolvimento Inicial 
 
-Nos primeiros anos, Rosares enfrentou desafios significativos à medida que seus habitantes lutavam para se estabelecer em uma terra nova e desconhecida. No entanto, com trabalho árduo e determinação, a comunidade começou a prosperar, desenvolvendo técnicas de pesca eficazes e construindo uma reputação como fornecedores confiáveis de peixe fresco para as regiões vizinhas.
+Nos primeiros anos, [[Rosares]] enfrentou dificuldades. Tempestades violentas destruíram várias casas, e a floresta revelou-se não apenas uma fonte de recursos, mas também uma ameaça. Com o tempo, os habitantes desenvolveram métodos mais eficazes de pesca e adaptaram-se ao ambiente. [[Rosares]] começou a prosperar como uma vila de pescadores conhecida por sua capacidade de capturar espécies raras e de qualidade.
 
 ### Eventos Importantes
 
-Embora a história de Rosares seja relativamente curta, alguns eventos marcantes moldaram o destino da comunidade. Um dos eventos mais significativos foi o primeiro ataque das misteriosas criaturas da floresta, que chocou os habitantes e deixou-os temerosos do desconhecido que espreitava além das árvores. Desde então, esses ataques se tornaram uma ameaça constante, desafiando a segurança e a estabilidade da cidade.
+- **Primeiro Ataque das Criaturas (Ano 160)**: Um marco trágico na história de [[Rosares]]. Durante uma noite tranquila, estoques de peixe foram saqueados, e uma cabana próxima à floresta foi destruída. Desde então, as criaturas tornaram-se uma ameaça ocasional, e ninguém ousa entrar muito fundo na floresta sem uma boa razão.
+    
+- **Grande Tempestade (Ano 170)**: Uma tempestade devastadora atingiu [[Rosares]], destruindo quase metade das casas e o porto improvisado. Isso uniu ainda mais os moradores, que reconstruíram o vilarejo com a ajuda de comerciantes de [[Shepu]].
+    
+- **Abandono do Farol (Ano 175)**: O [[Farol Abandonado]] deveria ser um projeto para aumentar a segurança marítima, mas foi interrompido devido à falta de recursos e ao medo crescente das criaturas da floresta.
+
+## Cultura e Tradições
+
+- **[[Festival das Marés]]**: Um evento anual em homenagem a [[Thalassa]], celebrado com danças, música e um banquete na praia. Durante o festival, oferendas de peixes frescos são feitas ao mar, pedindo proteção e abundância.
+    
+- **Festival do Primeiro Retorno:** é uma celebração anual em Rosares que marca o início da temporada de pesca. O evento começa com o retorno do primeiro barco ao porto, carregado com uma boa captura. Esse barco e sua tripulação são homenageados como símbolos de sorte e abundância.
+	
+- **Rituais ao Entardecer**: Todas as tardes, os pescadores oferecem uma oração a [[Zephyrus]], agradecendo pelos ventos favoráveis que os guiam de volta ao porto.
+    
+- **Tabu da Floresta**: Embora alguns moradores ainda recolham madeira das bordas da [[Floresta Incansável]], entrar profundamente nela é considerado um ato de extremo risco. Histórias sobre desaparecimentos alimentam o respeito e o medo da floresta.
 
 ### Importância na História de Tarash
 
-Apesar de sua juventude, Rosares está começando desempenha um papel vital na história de Tarash como uma das poucas comunidades costeiras que fornece uma fonte crucial de alimento para as cidades e vilarejos ao redor. Sua luta contra as adversidades e sua determinação em enfrentar os perigos desconhecidos da floresta a tornam um símbolo de resistência e coragem para os habitantes de Tarash.
-
-## PNJs Notáveis
-
-- [[Nelson Maré Alta]] 
+Rosares é uma peça vital na economia de [[Tarash]], apesar de seu tamanho. Como uma das poucas comunidades dedicadas à pesca, ela fornece alimentos essenciais para as cidades vizinhas, especialmente [[Shepu]] e [[Shalom]]. 
 
 ## Pontos de Interesse
 
@@ -119,26 +130,26 @@ No topo das falésias que se erguem sobre o mar agitado, fica a estrutura do [[F
 
 ### Taverna do Maré Alta
 
-A [[Taverna do Maré Alta]] é o principal ponto de encontro dos habitantes de Rosares, onde podem relaxar após um longo dia de trabalho no mar. O local é conhecido por suas bebidas refrescantes e pratos deliciosos feitos com os peixes mais frescos da região. Os viajantes são bem-vindos para se juntar aos locais em conversas animadas e compartilhar histórias de suas próprias aventuras.
+A [[Taverna Maré Alta]] é o principal ponto de encontro dos habitantes de Rosares, onde podem relaxar após um longo dia de trabalho no mar. O local é conhecido por suas bebidas refrescantes e pratos deliciosos feitos com os peixes mais frescos da região. Os viajantes são bem-vindos para se juntar aos locais em conversas animadas e compartilhar histórias de suas próprias aventuras.
 
 ## Relações Internas
 
 ### Líderes e Pessoas
-- **[[Nelson Maré Alta]]:** Reconhecido como o líder informal de Rosares, Maré Alta é uma figura respeitada e admirada pelos habitantes da cidade. Seu apelido deriva de sua coragem e habilidade como pescador, sendo visto como um exemplo de determinação e liderança. Embora não possua um título formal, Maré Alta exerce influência sobre as decisões importantes da comunidade, utilizando sua experiência e sabedoria para orientar seus conterrâneos.
+
+- **[[Nelson Maré Alta]]:** Líder carismático e experiente, Nelson guia Rosares com sabedoria e coragem. Apesar de sua idade avançada, ainda é o primeiro a sair para o mar quando há necessidade.
+- **[[Helena Maui]]:** Uma curandeira e contadora de histórias, Helena é conhecida por sua conexão espiritual com o mar e sua compreensão dos mistérios da floresta.
 - **Conselho Comunitário:** Composto por líderes locais e membros influentes da comunidade, o Conselho Comunitário de Rosares atua como uma instância consultiva e deliberativa. Este grupo desempenha um papel essencial na promoção do diálogo e na resolução de questões que afetam a cidade, garantindo que os interesses e necessidades dos cidadãos sejam adequadamente representados e atendidos.
 
 ### Relações Sociais
+
+- **Foco Comunitário**: Rosares é uma vila profundamente unida, onde todos ajudam uns aos outros. O senso de comunidade é reforçado pela luta constante contra as adversidades.
 - **Herança Marítima:** O mar desempenha um papel central na identidade e na cultura de Rosares, sendo celebrado e honrado em festivais e eventos comunitários. A herança marítima da cidade é valorizada e transmitida de geração em geração, com histórias de bravura, resiliência e camaradagem dos pescadores locais sendo passadas adiante como um legado precioso.
 - **Respeito pelo Mar:** Rosares é permeada por um profundo respeito pelo mar e todos os seus habitantes. Os pescadores locais reconhecem a generosidade do oceano e trabalham em estreita colaboração com ele para garantir uma pesca sustentável e responsável. Eles adotam práticas de pesca éticas e cuidadosas, minimizando seu impacto no ecossistema marinho e garantindo a preservação das espécies aquáticas.
 
 ## Relações Externas
 
 ### Comércio e Interação
-- **Comércio Marítimo:** Como uma cidade pesqueira, Rosares desempenha um papel crucial no comércio marítimo da região, fornecendo peixes frescos e frutos do mar para comunidades vizinhas e além. Os pescadores de Rosares frequentemente embarcam em expedições comerciais para vender seus produtos em mercados distantes, contribuindo para o desenvolvimento econômico e a prosperidade da cidade.
 
-### Interdependência Regional
-- **Preservação Ambiental:** Rosares aprendeu que a preservação e conservação do meio ambiente marinho na região é de extrema importância para a sobrevivência de ambos. Como uma comunidade consciente dos desafios enfrentados pelos ecossistemas marinhos, os habitantes de Rosares tomam medidas proativas para proteger e restaurar a saúde dos oceanos.
-
-## Detalhes Adicionais
-
-- 
+- **Comércio com Shepu**: Rosares depende de [[Shepu]] para importar ferramentas e materiais, em troca de peixes frescos.
+    
+- **Tensão com Shalom**: Alguns comerciantes de [[Shalom]] tentam explorar os pescadores com preços injustos, gerando atritos ocasionais.

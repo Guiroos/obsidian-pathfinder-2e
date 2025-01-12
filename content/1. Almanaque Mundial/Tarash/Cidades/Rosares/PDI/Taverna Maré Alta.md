@@ -3,12 +3,13 @@ title: Taverna do Maré Alta
 tags:
   - categoria/ponto-de-interesse
   - incompleto
+  - tarash/rosares
 Ícone: PDI
 date: 2024-04-11T23:18
-updated: 2024-04-11T23:51
+updated: 2024-12-31T14:02:00
 ---
 
-# Taverna do Maré Alta
+# Taverna Maré Alta
 
 ## Visão Geral
 
@@ -38,6 +39,8 @@ Nos fundos da taverna, uma cozinha movimentada emana aromas tentadores de frutos
 
 ## Significado
 
-Para os habitantes locais, a taverna representa um ponto de encontro essencial, onde podem se reunir para compartilhar histórias, celebrar conquistas e fortalecer os laços comunitários. É um lugar onde todos são bem-vindos, independentemente de sua origem ou status social, e onde a camaradagem e a solidariedade são valores fundamentais.
+Para os habitantes locais, a Taverna Maré Alta é mais do que apenas um lugar para comer e beber — é o coração pulsante da vida comunitária. Suas noites de histórias, onde pescadores e aventureiros compartilham contos do mar sob as luzes das lanternas, são esperadas com ansiedade por todos. Durante o [[Festival das Marés]] Nelson prepara o famoso _Banquete do Mar_, um prato tão generoso e saboroso que atrai visitantes de terras distantes.
 
-Além disso, a Taverna do Maré Alta desempenha um papel importante na economia local, fornecendo empregos e oportunidades de negócios para os moradores da cidade. Sua reputação culinária atrai tanto moradores quanto visitantes de outras regiões, contribuindo para o crescimento e desenvolvimento econômico de [[Rosares]].
+Além disso, a taverna é um centro de informações e rumores. Visitantes e comerciantes compartilham notícias sobre os arredores, desde naufrágios recentes até estranhas aparições no mar. Um dos rumores mais persistentes sugere que Nelson esconde um antigo mapa de tesouro embaixo de uma das tábuas soltas atrás do balcão, mas poucos têm coragem de perguntar sobre isso.
+
+Nos fundos da taverna, há um porão que Nelson utiliza para armazenar suprimentos, mas que também serve como local de reuniões para tratar de assuntos importantes da comunidade. Alguns dizem que o próprio **Conselho Comunitário** ocasionalmente se encontra ali para discutir planos longe dos olhos curiosos.
