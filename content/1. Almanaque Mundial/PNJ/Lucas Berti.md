@@ -9,7 +9,7 @@ GrupoAssociado: Conselho Comunitário de Shepu
 Gênero: Masculino
 Raça: Humano
 Idade: 22
-Classe: 
+Classe:
 Tendência: Leal Neutro
 Localização: Shepu
 Condição: Vivo
@@ -17,23 +17,28 @@ Condição: Vivo
 ---
 
 > [!infobox]
+>
 > # Lucas Berti
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Lucas Berti
 
@@ -55,11 +60,11 @@ Lucas tem uma presença serena e ponderada, com traços suaves e um olhar intros
 
 Lucas é uma pessoa cautelosa e ponderada, que prefere analisar todas as opções antes de decidir. Sua empatia reflete uma preocupação genuína com o bem-estar da comunidade, valorizando as opiniões individuais. Comprometido com o equilíbrio, ele busca promover o desenvolvimento sem comprometer os valores fundamentais de [[Shepu]], preservando as tradições como parte essencial de sua identidade.
 
-## Localização 
+## Localização
 
 Lucas Berti é uma presença constante nos eventos e reuniões importantes de [[Shepu]], onde ele busca promover sua visão de um futuro sustentável e próspero para a cidade. Como um líder dedicado e compassivo, Lucas está comprometido em proteger o bem-estar da comunidade e em preservar a identidade única de Shepu.
 
-Lucas passa grande parte do tempo em reuniões do Conselho Comunitário ou visitando áreas críticas da cidade, como o [[ Porto do Mar Eterno]] ou o [[Bazar das Marés]]. Ele também costuma visitar o [[Templo de Thalassa]] e o [[Templo de Zephyrus]] para buscar inspiração e meditar sobre as decisões difíceis que enfrenta.
+Lucas passa grande parte do tempo em reuniões do Conselho Comunitário ou visitando áreas críticas da cidade, como o [[Porto do Mar Eterno]] ou o [[Bazar das Marés]]. Ele também costuma visitar o [[Templo de Thalassa]] e o [[Templo de Zephyrus]] para buscar inspiração e meditar sobre as decisões difíceis que enfrenta.
 
 ## Características
 
@@ -70,6 +75,7 @@ Lucas passa grande parte do tempo em reuniões do Conselho Comunitário ou visit
 5. **Diálogo e Colaboração:** Lucas prefere resolver conflitos através do diálogo e da colaboração, buscando sempre o consenso e o compromisso em suas decisões. Ele valoriza a opinião de outros líderes locais e está aberto a ouvir as preocupações e ideias da comunidade.
 
 > [!info] Statblock
+>
 > ```statblock
 > name: Individual
 > monster: Commoner

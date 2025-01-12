@@ -17,7 +17,7 @@ Defesa: Moderada
 Tendência: Neutro Mal
 RaçasComuns:
   - Humanos
-  - Anões
+  - c
 Religião:
   - Aurora
   - Pyrrhus
@@ -29,54 +29,60 @@ Importação:
   - Materiais de Construção
   - Especiarias
   - Produtos de Luxo
-Grupos: 
+Grupos:
 Ícone: Localização
 ---
 
-
 > [!infobox]
+>
 > # Shalom
-> ![[z_Assets/Misc/MapPlaceholder.png|cover hm-sm]]
-> [[z_Assets/Misc/MapPlaceholder.png|Mostrar]]
+>
 > ###### Geografia
-> Tipo |  Valor |
-> ---|---|
-> Tipo | `=this.Tipo` |
-> Tamanho | `=this.Tamanho` |
-> População | `=this.População` |
-> Região | `=link(this.Região)` |
-> ###### Política 
-> Tipo |  Valor |
-> ---|---|
-> Líder | `=link(this.Líder)` |
-> Governo | `=this.Governo` |
-> Política | `=this.Política` |
-> Defesa | `=this.Defesa` |
+>
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tipo      | Povoado    |
+> | Tamanho   | Grande     |
+> | População | 7000       |
+> | Região    | [[Tarash]] |
+>
+> ###### Política
+>
+> | Tipo     | Valor            |
+> | -------- | ---------------- |
+> | Líder    | [[Aroldo Grint]] |
+> | Governo  | Aristocracia     |
+> | Política | Centralizada     |
+> | Defesa   | Moderada         |
+>
 > ###### Sociedade
-> Tipo |  Valor |
-> ---|---|
-> Raças Comuns | `=this.RaçasComuns` |
-> Religião | `=this.Religião`  |
+>
+> | Tipo         | Valor                   |
+> | ------------ | ----------------------- |
+> | Raças Comuns | Humanos, Anões          |
+> | Religião     | [[Aurora]], [[Pyrrhus]] |
+>
 > ###### Comércio
-> Tipo |  Valor |
-> ---|---|
-> Exportação | `=this.Exportação` |
-> Importação | `=this.Importação` |
+>
+> | Tipo       | Valor                                                  |
+> | ---------- | ------------------------------------------------------ |
+> | Exportação | Artesanato, Vinho, Têxteis                             |
+> | Importação | Materiais de Construção, Especiarias, Produtos de Luxo |
+>
 > ###### Organizações
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-> table WITHOUT ID link(file.name) AS "Grupo", link(Líder) AS "Líder"
-> where contains( Lar, this.file.name)
-> ```
-> ###### PNJs
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-> table WITHOUT ID link(file.name) AS "PNJ", Gênero, Raça
-> where contains( Localização, this.file.name)
-> ```
-
+>
+> | Grupo                     | Líder                |
+> | ------------------------- | -------------------- |
+> | [[Chamas da Resistência]] | [[Esmeralda Vorhan]] |
+> | [[Garras Sombrias]]       | [[Dorian Mão Nera]]  |
+>
+> ###### PNJs Importantes
+>
+> | Nome                 | Gênero    | Raça   |
+> | -------------------- | --------- | ------ |
+> | [[Aroldo Grint]]     | Masculino | Humano |
+> | [[Esmeralda Vorhan]] | Feminino  | Humano |
+> | [[Dorian Mão Nera]]  | Masculino | Humano |
 
 # Shalom
 
@@ -90,7 +96,7 @@ Shalom, a capital de [[Tarash]], é um povoado vibrante, construído em uma clar
 
 Shalom foi fundada no ano 110, quando pioneiros exploraram a [[Floresta Incansável]] em busca de um local estratégico para estabelecer um centro político e comercial. A clareira escolhida, rica em recursos e protegida pelas árvores ao redor, oferecia um equilíbrio perfeito entre segurança e espaço para expansão.
 
-### Desenvolvimento Inicial 
+### Desenvolvimento Inicial
 
 Os primeiros anos de Shalom foram marcados por dificuldades em acessar fontes de água. Poços artesianos foram cavados para suprir as necessidades da população, estabelecendo a base da infraestrutura da cidade. Com o tempo, sua localização atraiu comerciantes e artesãos, transformando Shalom em um centro urbano próspero.
 

@@ -5,11 +5,11 @@ updated: 2025-01-06T20:23
 tags:
   - pnj
   - tarash/shalom
-GrupoAssociado: 
+GrupoAssociado:
 Gênero: Masculino
 Raça: Humano
 Idade: 52
-Classe: 
+Classe:
 Tendência: Neutro Mal
 Localização: Shalom
 Condição: Vivo
@@ -17,23 +17,28 @@ Condição: Vivo
 ---
 
 > [!infobox]
+>
 > # Aroldo Grint
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Aroldo Grint
 
@@ -69,8 +74,6 @@ Aroldo é astuto, manipulador e implacável. Ele acredita que a força e o dinhe
 - **Líder polarizador:** Mantém a elite em seu favor enquanto aliena a classe baixa.
 - **Mestre em alianças:** Manipula tanto amigos quanto inimigos para garantir sua posição.
 
-## Localização 
+## Localização
 
 Aroldo Grint é frequentemente encontrado no [[Palácio da Prefeitura]], onde governa [[Shalom]] com uma administração opaca. Ele também faz aparições estratégicas em eventos da elite, reforçando sua conexão com os ricos e poderosos.
-
-

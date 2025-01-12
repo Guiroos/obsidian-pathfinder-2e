@@ -45,7 +45,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           segments.push(
             <span>
               🗒️ Escreveu <TimeMeta value={fileData.dates.created} />
-            </span>
+            </span>,
           )
         }
 
@@ -53,7 +53,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           segments.push(
             <span>
               ✏️ Modificou <TimeMeta value={fileData.dates.modified} />
-            </span>
+            </span>,
           )
         }
       }

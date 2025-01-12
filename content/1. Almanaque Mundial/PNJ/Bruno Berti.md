@@ -9,7 +9,7 @@ GrupoAssociado: Conselho Comunitário de Shepu
 Gênero: Masculino
 Raça: Humano
 Idade: 22
-Classe: 
+Classe:
 Tendência: Caótico Neutro
 Localização: Shepu
 Condição: Vivo
@@ -17,25 +17,31 @@ Condição: Vivo
 ---
 
 > [!infobox]
+>
 > # Bruno Berti
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Bruno Berti
+
 ## Sobre
 
 Bruno Berti é uma força motriz em [Shepu], sendo reconhecido como o visionário que deseja transformar a cidade portuária no maior centro comercial de Tarash. Filho do líder [[Armand Berti]] e irmão gêmeo de [[Lucas Berti]], Bruno representa a face progressista e ambiciosa da família, disposto a quebrar barreiras e desafiar tradições para alcançar o futuro que idealiza para Shepu.
@@ -54,7 +60,7 @@ Bruno é um jovem carismático de aparência sofisticada. Seus cabelos escuros s
 
 Bruno é uma pessoa ambiciosa, movida pela busca constante de crescimento econômico. Seu carisma o torna capaz de inspirar os outros, embora suas intenções nem sempre sejam claras. Ele pode ser impulsivo, tomando decisões rápidas sem considerar riscos ou opiniões contrárias, e tem uma postura desafiadora em relação a tradições que acredita limitar o progresso.
 
-## Localização 
+## Localização
 
 Bruno é frequentemente encontrado em reuniões de negócios, no [[Bazar das Marés]] ou no [[Porto do Mar Eterno]], onde busca oportunidades para expandir sua rede de contatos e negociar acordos comerciais. Ele também participa de eventos sociais, utilizando essas ocasiões para promover suas ideias e atrair apoiadores.
 
@@ -67,6 +73,7 @@ Bruno é frequentemente encontrado em reuniões de negócios, no [[Bazar das Mar
 5. **Desprezo pela Tradição:** Bruno não tem paciência para a burocracia ou tradições antigas que possam estar impedindo o desenvolvimento de Shepu. Ele está disposto a desafiar o status quo e implementar mudanças radicais, mesmo que isso signifique enfrentar a oposição de figuras estabelecidas como seu pai, Armand.
 
 > [!info] Statblock
+>
 > ```statblock
 > name: Individual
 > monster: Commoner

@@ -30,9 +30,9 @@ A **Estalagem do Pomar Verde** combina funcionalidade e charme, refletindo a ess
 
 - **Exterior**: Construída principalmente com madeira de carvalho local e telhas de barro, a estalagem se integra perfeitamente à paisagem natural. O pátio central, com sua árvore frondosa, serve como um espaço de descanso e convivência. O aroma de flores e frutas maduras permeia o ar, criando um ambiente relaxante.
 - **Interior**:
-    - **Salão Principal**: Dominado por uma grande lareira de pedra, o salão é o coração da estalagem. Mesas de madeira robusta são dispostas de forma a promover interação entre os hóspedes, enquanto as paredes são decoradas com tapeçarias que retratam a história de **[[Darak]]**.
-    - **Quartos de Hóspedes**: Cada quarto é decorado de forma simples, mas confortável, com móveis artesanais e tecidos locais. Janelas amplas oferecem vistas para os pomares e deixam entrar a luz do sol pela manhã.
-    - **Cozinha**: Sempre movimentada, a cozinha da estalagem é famosa por seus pratos à base de frutas e vegetais frescos, além de carnes assadas lentamente, que atraem até mesmo os moradores da aldeia.
+  - **Salão Principal**: Dominado por uma grande lareira de pedra, o salão é o coração da estalagem. Mesas de madeira robusta são dispostas de forma a promover interação entre os hóspedes, enquanto as paredes são decoradas com tapeçarias que retratam a história de **[[Darak]]**.
+  - **Quartos de Hóspedes**: Cada quarto é decorado de forma simples, mas confortável, com móveis artesanais e tecidos locais. Janelas amplas oferecem vistas para os pomares e deixam entrar a luz do sol pela manhã.
+  - **Cozinha**: Sempre movimentada, a cozinha da estalagem é famosa por seus pratos à base de frutas e vegetais frescos, além de carnes assadas lentamente, que atraem até mesmo os moradores da aldeia.
 
 ## Significado
 

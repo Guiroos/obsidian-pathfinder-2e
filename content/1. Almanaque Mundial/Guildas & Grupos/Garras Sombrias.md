@@ -14,6 +14,7 @@ Lar: Shalom
 ---
 
 # Garras Sombrias
+
 ## Visão Geral
 
 As **Garras Sombrias** são uma gangue, com cerca de 380 membros ativos, que controla o submundo de [[Shalom]], especialmente o perigoso [[Beco dos Lamentos]]. Comandados por [[Dorian Mão Negra]] eles são conhecidos por sua astúcia, brutalidade e influência crescente nos distritos mais pobres da cidade. A gangue prospera em meio ao caos social e às desigualdades de [[Shalom]], oferecendo proteção, contrabando e segurança aos desesperados, enquanto mantém a ordem em seus próprios termos.
@@ -60,7 +61,7 @@ A cultura das **Garras Sombrias** é uma mistura de camaradagem e brutalidade, o
 - **Código do Silêncio:** Traidores ou aqueles que expõem os segredos da gangue enfrentam punições severas, geralmente a morte.
 
 ## Posses e Recursos
- 
+
 - **Esconderijos:** Uma rede de locais secretos no [[Beco dos Lamentos]], usada para armazenar bens contrabandeados e planejar operações.
 - **Armas:** Desde lâminas improvisadas até bestas e explosivos, adquiridos por meio de contrabando.
 - **Navios Pequenos:** Barcos furtivos usados para transporte clandestino pelas costas próximas de Shalom.

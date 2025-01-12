@@ -18,25 +18,31 @@ Condição: Saudável
 ---
 
 > [!infobox]
+>
 > # Dante Thorne
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Dante Thorne
+
 ## Sobre
 
 Dante Thorne é um gnomo contrabandista de renome em [[Shepu]], cuja astúcia e habilidades furtivas o tornaram um dos principais operadores dos [[Navegantes Negros]]. Ele é mestre em rotas clandestinas e negociações arriscadas, trafegando bens ilegais com precisão e mantendo-se um passo à frente de seus adversários. Conhecido por sua adaptabilidade e talento para a persuasão, Dante é uma figura carismática, mas enigmática, que inspira tanto confiança quanto desconfiança entre aqueles que cruzam seu caminho.
@@ -67,7 +73,7 @@ Dante é um sobrevivente nato, com um charme afável que oculta sua verdadeira n
 - **Cautela:** Embora seja extrovertido, ele nunca revela mais do que o necessário, mantendo suas verdadeiras intenções e lealdades escondidas.
 - **Lealdade:** Sua conexão com os Navegantes Negros é pragmática; ele vê a gangue como um meio para alcançar seus próprios objetivos.
 
-## Localização 
+## Localização
 
 Dante opera nos cantos mais sombrios de Shepu, movendo-se com fluidez entre esconderijos espalhados pela cidade.
 
@@ -76,6 +82,7 @@ Dante opera nos cantos mais sombrios de Shepu, movendo-se com fluidez entre esco
 - **[[Taverna das Ondas Sussurrantes]]:** Apesar de seu estilo furtivo, ele é conhecido por aparecer na taverna para ouvir rumores e manter contato com informantes.
 
 > [!info] Statblock
+>
 > ```statblock
 > name: Individual
 > monster: Commoner

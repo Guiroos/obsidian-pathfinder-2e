@@ -14,6 +14,7 @@ Lar: Shepu
 ---
 
 # Navegantes Negros
+
 ## Visão Geral
 
 Os **Navegantes Negros** são uma gangue poderosa e clandestina, com cerca de 200 a 300 membros, que controla o submundo de [[Shepu]], estabelecendo-se como mestres do comércio ilegal e da pirataria nas águas de [[Tarash]]. Conhecidos por sua brutalidade e astúcia, eles operam nas sombras das docas, explorando rotas comerciais para contrabando, extorsão e saque.
@@ -62,7 +63,7 @@ Embora o grupo não possua uma religião formal, superstições marítimas perme
 - **Tesouros Ocultos:** Cofres subterrâneos e cavernas isoladas guardam artefatos e riquezas acumuladas ao longo de anos de operações.
 
 ## Rumores e Lendas
- 
+
 - **A Lança das Profundezas:** Uma arma lendária que **O Capitão** supostamente guarda como garantia de sua autoridade, capaz de invocar tempestades.
 - **Pacto com o Abismo:** Diz-se que o líder do grupo teria feito um acordo com entidades do oceano para proteger os **Navegantes Negros** em troca de sacrifícios periódicos.
 - **Navio da Perdição:** Um navio pertencente à gangue foi visto navegando sem tripulação, assombrado pelos fantasmas de marinheiros mortos.

@@ -20,7 +20,7 @@ No centro da praça ergue-se uma imponente estátua de [[Eldor Terraza]], o visi
 
 A **Praça Central** é o coração social e cultural de [[Darak]], desempenhando várias funções essenciais:
 
-- **Celebrações Comunitárias**: Eventos como o  [[Darak#Festival da Semeadura|Festival da Semeadura]] e o[[Darak#Noite das Luzes|Noite das Luzes]] têm a praça como palco principal, trazendo a comunidade para momentos de celebração e unidade.
+- **Celebrações Comunitárias**: Eventos como o [[Darak#Festival da Semeadura|Festival da Semeadura]] e o[[Darak#Noite das Luzes|Noite das Luzes]] têm a praça como palco principal, trazendo a comunidade para momentos de celebração e unidade.
 - **Adoração e Reflexão**: A fonte sagrada ao centro da praça é um espaço onde os habitantes fazem oferendas aos deuses da colheita e da fertilidade, agradecendo por suas bênçãos e pedindo proteção para futuras colheitas.
 - **Espaço de Reunião**: É um local onde os moradores se reúnem para compartilhar histórias, trocar notícias e discutir assuntos importantes para a comunidade.
 

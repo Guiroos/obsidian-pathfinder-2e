@@ -1,6 +1,6 @@
 ---
 title: Thalassa
-cssclasses: 
+cssclasses:
 date: 2024-04-08T14:14
 updated: 2024-10-07T02:01:00
 tags:
@@ -28,11 +28,11 @@ Anátemas:
   - Causar danos deliberados à vida marinha
 TendênciaCléricos:
   - Neutro Bom
-  - Neuto
+  - Neutro
 Domínios:
   - Água
   - Cura
-Subdomínios: 
+Subdomínios:
 ArmaFavorita: Tridente
 Símbolo: Uma onda que se quebra contra uma rocha
 AnimaisSagrados:
@@ -47,33 +47,36 @@ CoresSagradas:
 ---
 
 > [!infobox]
+>
 > # Thalassa
-> ![[thalassa.jpeg]]
-> [[thalassa.jpeg]]
+>
+> ![[thalassa.jpeg]] > [[thalassa.jpeg]]
+>
 > ###### Divindade
-> Nome |  Valor |
-> ---|---|
-> Títulos | `=this.Títulos` |
-> Adjetivo | `=this.Adjetivo` |
-> Reino | `=this.Reino` |
-> Tendência | `=this.Tendência` |
-> Preocupações | `=this.Preocupações` |
-> Adoradores | `=this.Adoradores` |
-> Éditos | `=this.Éditos` |
-> Anátemas | `=this.Anátemas` |
-> Tendência Clérigos | `=this.TendênciaCléricos ` |
-> Domínios | `=this.Domínios` |
-> Subdomínios | `=this.Subdomínios` |
-> Arma Favorita | `=this.ArmaFavorita` |
-> Símbolo | `=this.Símbolo` |
-> Animais Sagrados | `=this.AnimaisSagrados` |
-> Cores Sagradas | `=this.CoresSagradas` |
+>
+> | Nome               | Valor                                                                                                                          |
+> | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+> | Títulos            | Rainha das Marés, Senhora dos Oceanos, Mãe das Profundezas                                                                     |
+> | Adjetivo           | Thalassos                                                                                                                      |
+> | Reino              | Plano Material                                                                                                                 |
+> | Tendência          | Neutro Bom                                                                                                                     |
+> | Preocupações       | Preservar o equilíbrio dos ecossistemas aquáticos, Promover a harmonia entre os seres marinhos                                 |
+> | Adoradores         | Navegantes, Marinheiros, Pescadores                                                                                            |
+> | Éditos             | Respeitar e proteger os oceanos e seus habitantes, Agir com compaixão e generosidade em relação aos seres marinhos             |
+> | Anátemas           | Poluir ou degradar os oceanos de forma intencional, Desperdiçar a generosidade do mar, Causar danos deliberados à vida marinha |
+> | Tendência Clérigos | Neutro Bom, Neutro                                                                                                             |
+> | Domínios           | Água, Cura                                                                                                                     |
+> | Subdomínios        | -                                                                                                                              |
+> | Arma Favorita      | Tridente                                                                                                                       |
+> | Símbolo            | Uma onda que se quebra contra uma rocha                                                                                        |
+> | Animais Sagrados   | Golfinho, Tartaruga, Polvo, Tubarão                                                                                            |
+> | Cores Sagradas     | Azul, Verde-água                                                                                                               |
 
 # Thalassa
 
 Thalassa (tha-LA-ssa) é venerada como a Rainha das Marés, regente dos vastos oceanos e mares que abraçam o mundo. Sua presença serena e profunda reflete a vastidão e a vitalidade dos reinos aquáticos sob sua proteção. Ela é reverenciada como a guardiã dos ecossistemas marinhos e a protetora das criaturas que habitam as profundezas das águas.
 
-##  Aparência
+## Aparência
 
 Thalassa é retratada como uma figura majestosa envolta em um manto de água cristalina, com cabelos longos que se misturam às ondas do mar. Seus olhos refletem as cores cambiantes do oceano, enquanto sua pele tem a textura e a tonalidade das conchas marinhas. Ela é frequentemente representada segurando um tridente, símbolo de sua autoridade sobre as águas.
 
@@ -102,4 +105,3 @@ Assim, as relações de Thalassa transcendem as fronteiras dos elementos, entrel
 A religião dedicada a Thalassa é centrada na veneração dos oceanos e mares como manifestações de sua divindade. Seus seguidores acreditam que as águas são sagradas e que Thalassa é a protetora e provedora de todas as criaturas marinhas. Os templos dedicados a ela são construídos em locais costeiros, cavernas submersas ou ilhas, e são adornados com conchas e símbolos marinhos.
 
 O [[Festival das Marés]] seria o evento mais importante para seus adoradores.
-

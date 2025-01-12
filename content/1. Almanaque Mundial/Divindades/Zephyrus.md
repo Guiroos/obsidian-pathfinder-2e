@@ -37,7 +37,7 @@ Domínios:
   - Ar
   - Liberdade
   - Viagem
-Subdomínios: 
+Subdomínios:
 ArmaFavorita: Espada Longa
 Símbolo: Uma espiral estilizada representando o movimento dos ventos
 AnimaisSagrados:
@@ -52,33 +52,36 @@ CoresSagradas:
 ---
 
 > [!infobox]
+>
 > # Zephyrus
-> ![[zephyrusUP.jpeg]]
-> [[zephyrusUP.jpeg|Mostrar]]
+>
+> ![[zephyrusUP.jpeg]] > [[zephyrusUP.jpeg|Mostrar]]
+>
 > ###### Divindade
-> Nome |  Valor |
-> ---|---|
-> Títulos | `=this.Títulos` |
-> Adjetivo | `=this.Adjetivo` |
-> Reino | `=this.Reino` |
-> Tendência | `=this.Tendência` |
-> Preocupações | `=this.Preocupações` |
-> Adoradores | `=this.Adoradores` |
-> Éditos | `=this.Éditos` |
-> Anátemas | `=this.Anátemas` |
-> Tendência Clérigos | `=this.TendênciaCléricos ` |
-> Domínios | `=this.Domínios` |
-> Subdomínios | `=this.Subdomínios` |
-> Arma Favorita | `=this.ArmaFavorita` |
-> Símbolo | `=this.Símbolo` |
-> Animais Sagrados | `=this.AnimaisSagrados` |
-> Cores Sagradas | `=this.CoresSagradas` |
+>
+> | Nome               | Valor                                                                                                                                                     |
+> | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | Títulos            | Sopro Incansável, Senhor dos Ventos, Guia dos Céus                                                                                                        |
+> | Adjetivo           | Zephyriano                                                                                                                                                |
+> | Reino              | Plano Material                                                                                                                                            |
+> | Tendência          | Neutro Bom                                                                                                                                                |
+> | Preocupações       | Equilíbrio dos elementos, Transformação constante, Proteção dos viajantes, Liberdade de movimentos                                                        |
+> | Adoradores         | Navegadores, Viajantes, Agricultores                                                                                                                      |
+> | Éditos             | Promover a paz entre os elementos Proteger os viajantes dos perigos dos ventos, Encorajar o movimento e o progresso                                       |
+> | Anátemas           | Desrespeitar a harmonia entre os elementos, Negligenciar os pedidos de ajuda dos necessitados, Tentar controlar os ventos, Limitar a liberdade dos outros |
+> | Tendência Clérigos | Leal Bom, Neutro Bom, Neutro                                                                                                                              |
+> | Domínios           | Ar, Liberdade, Viagem                                                                                                                                     |
+> | Subdomínios        | -                                                                                                                                                         |
+> | Arma Favorita      | Espada Longa                                                                                                                                              |
+> | Símbolo            | Uma espiral estilizada representando o movimento dos ventos                                                                                               |
+> | Animais Sagrados   | Águia, Falcão, Andorinha, Albatroz                                                                                                                        |
+> | Cores Sagradas     | Branco, Dourado                                                                                                                                           |
 
 # Zephyrus
 
 Zephyrus (ZE-phy-rus), é uma divindade primordial que governa sobre os céus e os elementos do ar. Sua presença é sentida nas brisas suaves que acariciam os campos, nos ventos tempestuosos que agitam as águas e nos vendavais que moldam a paisagem. Ele é reverenciado como o mediador entre os elementos, trazendo equilíbrio e harmonia ao mundo.
 
-##  Aparência
+## Aparência
 
 Zephyrus é frequentemente retratado como uma figura graciosa envolta em túnicas diáfanas que flutuam ao sabor do vento. Seus cabelos ondulantes se confundem com as nuvens no horizonte, enquanto seus olhos brilham com a luminosidade do ar. Ele é representado segurando um cetro ornamentado com plumas e símbolos dos quatro elementos, manifestando sua autoridade sobre os céus e os ventos.
 
@@ -103,4 +106,3 @@ Assim, as relações de Zephyrus transcendem as fronteiras dos elementos, envolv
 ## Religião
 
 A religião dedicada a Zephyrus é centrada na veneração dos céus e dos elementos do ar como manifestações de sua divindade. Seus seguidores acreditam que os ventos são sagrados e que Zephyrus é o guardião e senhor dos elementos, cuja benevolência é manifestada nas brisas suaves que acalmam as tempestades e nos vendavais que renovam a paisagem. Os templos dedicados a ele são construídos em locais elevados ou até mesmo ocupando altares naturais nas montanhas, onde os ventos sopram livremente e sua presença é mais intensamente sentida
-

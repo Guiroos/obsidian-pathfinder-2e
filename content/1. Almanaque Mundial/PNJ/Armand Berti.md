@@ -18,23 +18,28 @@ Condição: Normal
 ---
 
 > [!infobox]
+>
 > # Armand Berti
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Armand Berti
 
@@ -62,20 +67,20 @@ Armand é uma figura carismática e determinada, guiada por um forte senso de de
 
 Sua maior força está em sua habilidade de negociar e encontrar soluções práticas, mas essa mesma abordagem conservadora o torna resistente a mudanças radicais, o que às vezes frustra a população mais jovem e progressista. Apesar de tudo, Armand se esforça para manter a coesão da cidade, mesmo quando isso significa tomar decisões impopulares.
 
-## Localização 
+## Localização
 
 Armand reside em uma casa espaçosa e bem localizada no centro de [[Shepu]], próxima aos principais edifícios governamentais. Seu escritório está dentro da prefeitura, onde ele passa a maior parte de seu tempo lidando com questões administrativas e recebendo representantes de diferentes facções da cidade.
 
-## Características 
+## Características
 
-1. **Experiência:** Armand é um homem mais velho, com décadas de experiência na política local de Shepu. Ele é respeitado por sua sabedoria e habilidade em lidar com os desafios da cidade. 
-2. **Idealismo Antigo:** Armand pode ter sido um idealista em seus primeiros dias na política, buscando sempre o melhor para Shepu. No entanto, os desafios e as dificuldades enfrentadas ao longo dos anos podem tê-lo deixado mais cético e desiludido. 
-3. **Determinação:** Apesar de sua idade avançada, Armand é conhecido por sua determinação e teimosia. Ele se recusa a ceder à pressão e está determinado a fazer o que acredita ser o melhor para Shepu, mesmo que isso signifique enfrentar seus próprios filhos. 
-4. **Visão Tradicional:** Armand pode representar uma visão mais tradicional da política e do governo, resistindo a mudanças radicais e preferindo uma abordagem mais conservadora para administrar a cidade. 
+1. **Experiência:** Armand é um homem mais velho, com décadas de experiência na política local de Shepu. Ele é respeitado por sua sabedoria e habilidade em lidar com os desafios da cidade.
+2. **Idealismo Antigo:** Armand pode ter sido um idealista em seus primeiros dias na política, buscando sempre o melhor para Shepu. No entanto, os desafios e as dificuldades enfrentadas ao longo dos anos podem tê-lo deixado mais cético e desiludido.
+3. **Determinação:** Apesar de sua idade avançada, Armand é conhecido por sua determinação e teimosia. Ele se recusa a ceder à pressão e está determinado a fazer o que acredita ser o melhor para Shepu, mesmo que isso signifique enfrentar seus próprios filhos.
+4. **Visão Tradicional:** Armand pode representar uma visão mais tradicional da política e do governo, resistindo a mudanças radicais e preferindo uma abordagem mais conservadora para administrar a cidade.
 5. **Preocupação pelo Bem-Estar da Cidade:** Apesar de suas falhas, Armand genuinamente se preocupa com o bem-estar de Shepu e de seus habitantes. Ele vê a cidade como sua vida e legado, e está determinado a protegê-la de qualquer ameaça, mesmo que isso signifique enfrentar seus próprios filhos.
 
-
 > [!info] Statblock
+>
 > ```statblock
 > name: Armand Berti
 > monster: Commoner

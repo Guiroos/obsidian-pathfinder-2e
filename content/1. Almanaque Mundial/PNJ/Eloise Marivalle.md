@@ -18,25 +18,31 @@ Condição: Vivo
 ---
 
 > [!infobox]
+>
 > # Eloise Marivalle
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Eloise Marivalle
+
 ## Sobre
 
 Eloise Marivalle é uma das figuras mais influentes do [[Conselho Comunitário de Shepu]], representando os interesses da comunidade marítima. Conhecida por sua liderança inabalável e senso de justiça, ela atua como a voz dos navegantes e pescadores da cidade, garantindo que seus direitos e preocupações sejam ouvidos em um cenário político muitas vezes dominado por comerciantes e aristocratas.
@@ -61,10 +67,9 @@ Eloise é uma líder carismática e altruísta, cujo senso de dever é guiado po
 
 Apesar de seu pragmatismo, Eloise tem um lado sonhador, frequentemente refletindo sobre a vastidão do oceano e as oportunidades que ele representa para Shepu. Ela acredita na importância de unir tradição e progresso, defendendo práticas sustentáveis e uma melhor integração entre a comunidade marítima e o crescimento econômico da cidade.
 
-## Localização 
+## Localização
 
 Eloise é frequentemente encontrada nas docas do [[Porto do Mar Eterno]], supervisionando sua frota e interagindo com marinheiros, pescadores e trabalhadores portuários. Ela também é uma presença constante nas reuniões do [[Conselho Comunitário de Shepu]], onde luta pelos interesses daqueles que dependem do mar para sua subsistência.
-
 
 ## **Conexões com o Conselho Comunitário**
 
@@ -75,6 +80,7 @@ Eloise desempenha um papel fundamental no equilíbrio do [[Conselho Comunitário
 - **Aliada Estratégica:** Embora respeite [[Armand Berti]], ela é cautelosa quanto à rivalidade entre [[Bruno Berti]] e [[Lucas Berti]], buscando manter o foco do conselho nos interesses da cidade como um todo.
 
 > [!info] Statblock
+>
 > ```statblock
 > name: Individual
 > monster: Commoner

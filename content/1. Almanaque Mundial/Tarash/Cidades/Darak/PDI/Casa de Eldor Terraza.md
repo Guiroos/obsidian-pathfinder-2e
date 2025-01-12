@@ -29,21 +29,16 @@ Além disso, a casa serve como ponto de celebrações e cerimônias comunitária
 A Casa de Eldor Terraza combina funcionalidade e estética.
 
 - **Exterior**: O exterior apresenta paredes de madeira polida, reforçadas com pedras resistentes para suportar as intempéries. O telhado inclinado é coberto com telhas feitas à mão, e uma varanda frontal oferece um espaço acolhedor para Eldor receber os visitantes. Vitrais simples, mas artisticamente projetados, decoram as janelas, permitindo que a luz natural preencha os cômodos com uma aura calorosa e colorida.
-    
 - **Interior**:
-    
-    - **Salão Central**: O coração da casa é um grande salão central, dominado por uma lareira de pedra que aquece o espaço nos meses mais frios. Mesas e cadeiras de madeira esculpidas à mão estão dispostas ao redor, oferecendo um espaço para discussões e refeições comunitárias.
-    - **Biblioteca Modesta**: Uma sala adjacente ao salão central contém uma coleção de livros e pergaminhos, muitos deles registros da história de Darak e anotações pessoais de Eldor sobre agricultura e liderança.
-    - **Jardim Externo**: Atrás da casa, há um pequeno jardim bem cuidado, onde Eldor e sua família cultivam ervas medicinais e plantas ornamentais. Este espaço é usado para meditação e reuniões privadas ao ar livre.
+  - **Salão Central**: O coração da casa é um grande salão central, dominado por uma lareira de pedra que aquece o espaço nos meses mais frios. Mesas e cadeiras de madeira esculpidas à mão estão dispostas ao redor, oferecendo um espaço para discussões e refeições comunitárias.
+  - **Biblioteca Modesta**: Uma sala adjacente ao salão central contém uma coleção de livros e pergaminhos, muitos deles registros da história de Darak e anotações pessoais de Eldor sobre agricultura e liderança.
+  - **Jardim Externo**: Atrás da casa, há um pequeno jardim bem cuidado, onde Eldor e sua família cultivam ervas medicinais e plantas ornamentais. Este espaço é usado para meditação e reuniões privadas ao ar livre.
 
 ## Significado
 
 A Casa de Eldor Terraza transcende sua função como residência, sendo um pilar espiritual e simbólico para a comunidade de [[Darak]].
 
 1. **Centro de Sabedoria**: Para muitos, a casa é um lugar onde os problemas encontram soluções e a sabedoria de Eldor ilumina o caminho em tempos de dúvida.
-    
 2. **Símbolo de Unidade**: É um espaço onde a comunidade se reúne, fortalecendo os laços sociais e relembrando os valores de cooperação e respeito mútuo que sustentam Darak.
-    
 3. **Legado de Liderança**: A casa é vista como um lembrete tangível da visão de Eldor Terraza, uma figura que transformou terras inóspitas em um refúgio próspero. Sua abertura e hospitalidade são símbolos do compromisso de Darak com seus princípios fundadores.
-    
 4. **Inspiradora de Esperança**: Como palco de celebrações e reuniões, a casa reforça o senso de pertencimento e a esperança de um futuro próspero para todos os habitantes.

@@ -24,10 +24,10 @@ A arquitetura do Palácio da Prefeitura é uma mistura de estilos opulentos, pro
 
 - **Exterior**: O palácio é cercado por um muro de pedra branca decorado com esculturas e detalhes dourados. A entrada principal, acessível por uma escadaria de mármore, é guardada por estátuas imponentes de figuras lendárias de [[Shalom]]. Suas janelas são adornadas com vitrais que refletem cenas da história da cidade.
 - **Interior**: O interior do palácio é decorado com luxo excessivo, com cada sala projetada para impressionar e intimidar.
-    - **Salão Principal**: Um vasto salão com pisos de mármore e um teto pintado que retrata a fundação de Shalom. É onde são realizadas as recepções oficiais e eventos diplomáticos.
-    - **Gabinete do Prefeito**: Uma sala repleta de estantes de livros e uma mesa de mogno ornamentada. Este é o centro do poder de **Aroldo Grint**, onde decisões políticas – e conspirações – são feitas.
-    - **Câmara de Conselho**: Um espaço circular com um teto abobadado, usado para reuniões administrativas. Decorado com tapeçarias luxuosas que exibem cenas da história da cidade.
-    - **Salões Privativos**: Áreas exclusivas para a elite, onde ocorrem encontros secretos e festas privadas, muitas vezes criticadas pela classe baixa por simbolizar os excessos do governo.
+  - **Salão Principal**: Um vasto salão com pisos de mármore e um teto pintado que retrata a fundação de Shalom. É onde são realizadas as recepções oficiais e eventos diplomáticos.
+  - **Gabinete do Prefeito**: Uma sala repleta de estantes de livros e uma mesa de mogno ornamentada. Este é o centro do poder de **Aroldo Grint**, onde decisões políticas – e conspirações – são feitas.
+  - **Câmara de Conselho**: Um espaço circular com um teto abobadado, usado para reuniões administrativas. Decorado com tapeçarias luxuosas que exibem cenas da história da cidade.
+  - **Salões Privativos**: Áreas exclusivas para a elite, onde ocorrem encontros secretos e festas privadas, muitas vezes criticadas pela classe baixa por simbolizar os excessos do governo.
 
 ## Significado
 

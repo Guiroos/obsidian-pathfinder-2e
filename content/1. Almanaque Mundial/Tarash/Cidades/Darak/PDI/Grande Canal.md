@@ -23,7 +23,7 @@ O Grande Canal desempenha um papel central na vida de Darak, fornecendo água pa
 - **Irrigação Sustentável**: Distribui água de forma eficiente para os campos de cultivo, garantindo colheitas abundantes mesmo em períodos de seca.
 - **Controle de Recursos**: Serve como um reservatório estratégico que ajuda a cidade a enfrentar períodos de escassez hídrica.
 - **Espaço Social**: As margens do canal são locais de convívio, onde moradores se reúnem para pescar, lavar roupas ou simplesmente compartilhar histórias e momentos tranquilos.
-- **Elemento Cultural**: Durante eventos como a  [[Darak#Noite das Luzes|Noite das Luzes]], o canal se transforma em um local de celebração, com lanternas iluminando suas águas e reforçando seu papel simbólico na vida de [[Darak]].
+- **Elemento Cultural**: Durante eventos como a [[Darak#Noite das Luzes|Noite das Luzes]], o canal se transforma em um local de celebração, com lanternas iluminando suas águas e reforçando seu papel simbólico na vida de [[Darak]].
 - **Ritual de Thalassa:** A cada mês, sacerdotes realizam cerimônias na entrada do canal, invocando a bênção de [[Thalassa]] para purificar a água e remover o sal. Esses rituais envolvem cânticos, oferendas simbólicas e o uso de amuletos sagrados para canalizar o poder divino.
 - **Influência de Aurora:** [[Aurora]] desempenha um papel importante como a inspiradora da visão de [[Eldor Terraza]] para a construção do canal. Rituais em sua honra são realizados sazonalmente, pedindo orientação contínua e boas colheitas para a cidade.
 

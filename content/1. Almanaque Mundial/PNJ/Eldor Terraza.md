@@ -4,7 +4,7 @@ date: 2024-04-08T22:32
 updated: 2024-04-16T14:00
 tags:
   - pnj
-GrupoAssociado: 
+GrupoAssociado:
 Gênero: Masculino
 Raça: Humano
 Idade: 78
@@ -17,23 +17,28 @@ Condição: Normal
 ---
 
 > [!infobox]
+>
 > # Eldor Terraza
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Eldor Terraza
 
@@ -55,7 +60,7 @@ Eldor é um homem idoso, cuja presença emana autoridade e serenidade. Seu rosto
 
 A personalidade de Eldor é caracterizada por sua calma e sabedoria. Ele é um ouvinte atento e um conselheiro compassivo, sempre pronto para oferecer orientação e apoio aos habitantes de [[Darak]]. Sua liderança é baseada em princípios de justiça, compaixão e respeito pela natureza, e ele é admirado por sua capacidade de unir as pessoas em torno de um objetivo comum.
 
-## Localização 
+## Localização
 
 Eldor reside em uma [[Casa de Eldor Terraza|casa modesta]] no coração de Darak, onde continua a servir como o ancião supremo da cidade. Seu lar é um lugar de tranquilidade e reflexão, onde ele recebe visitantes em busca de conselho e orientação. Embora sua influência se estenda por toda Darak, é em sua casa que ele está mais acessível aos habitantes da cidade, prontos para guiá-los em sua jornada rumo a um futuro próspero e harmonioso.
 
@@ -68,6 +73,7 @@ Eldor reside em uma [[Casa de Eldor Terraza|casa modesta]] no coração de Darak
 5. **Liderança Inspiradora**: Eldor era um líder carismático, capaz de inspirar seus seguidores a alcançarem seu pleno potencial. Sua presença imponente e suas palavras de sabedoria ressoavam nos corações daqueles que o seguiam, guiando-os em direção a um futuro de grandeza.
 
 > [!info] Statblock
+>
 > ```statblock
 > name: Individual
 > monster: Commoner
@@ -78,3 +84,4 @@ Eldor reside em uma [[Casa de Eldor Terraza|casa modesta]] no coração de Darak
 name: Individual
 creatures:
  - 1: C
+```

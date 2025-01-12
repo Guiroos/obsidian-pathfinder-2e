@@ -18,7 +18,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta({showReadingTime:true, showComma: false}),
+    Component.ContentMeta({ showReadingTime: true, showComma: false }),
     Component.TagList(),
   ],
   left: [

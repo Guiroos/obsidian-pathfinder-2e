@@ -18,23 +18,28 @@ Condição: Vivo
 ---
 
 > [!infobox]
+>
 > # Esmeralda Vorhan
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Esmeralda Vorhan
 
@@ -70,7 +75,6 @@ Esmeralda combina inteligência estratégica com paixão inabalável. Ela é uma
 - **Hábil em combate:** Uma lutadora ágil e mortal, treinada em táticas furtivas.
 - **Estrategista Astuta:** Planeja ataques e emboscadas com precisão calculada.
 
-## Localização 
+## Localização
 
 Esmeralda é frequentemente encontrada nos esconderijos das Chamas da Resistência no [[Beco dos Lamentos]] ou no próprio [[Refúgio da Resistência]], planejando ataques ou discutindo estratégias com o Conselho das Chamas. Às vezes, se disfarça e circula pelos mercados e praças para recrutar novos aliados e sentir o pulso da cidade.
-

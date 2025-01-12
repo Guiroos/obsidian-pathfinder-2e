@@ -30,9 +30,9 @@ O design do **Salão do Conselho** reflete a importância que a governança e a 
 
 - **Exterior**: Suas paredes são construídas com pedras cinzentas gravadas com runas que simbolizam justiça, sabedoria e prosperidade. As portas de madeira maciça possuem entalhes detalhados de colheitas e cenas da fundação da cidade.
 - **Interior**:
-    - **Teto de Vigas**: O teto é sustentado por vigas de madeira expostas, ornamentadas com símbolos das famílias fundadoras de Darak.
-    - **Tapeçarias e Murais**: Tapeçarias feitas à mão retratam momentos marcantes da história da cidade, enquanto murais pintados ilustram o ciclo das estações e sua importância para a comunidade agrícola.
-    - **Mesa Principal**: No centro do salão, uma mesa circular de carvalho simboliza igualdade, garantindo que todos os membros do conselho estejam em pé de igualdade durante as deliberações.
+  - **Teto de Vigas**: O teto é sustentado por vigas de madeira expostas, ornamentadas com símbolos das famílias fundadoras de Darak.
+  - **Tapeçarias e Murais**: Tapeçarias feitas à mão retratam momentos marcantes da história da cidade, enquanto murais pintados ilustram o ciclo das estações e sua importância para a comunidade agrícola.
+  - **Mesa Principal**: No centro do salão, uma mesa circular de carvalho simboliza igualdade, garantindo que todos os membros do conselho estejam em pé de igualdade durante as deliberações.
 
 ## Significado
 

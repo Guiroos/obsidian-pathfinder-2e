@@ -4,37 +4,43 @@ date: 2024-04-16T00:50
 updated: 2024-04-16T00:56
 tags:
   - pnj
-GrupoAssociado: 
+GrupoAssociado:
 Gênero: Feminino
 Raça: Humano
 Idade: 28
-Classe: 
-Tendência:  Neutro Bom
+Classe:
+Tendência: Neutro Bom
 Localização: Shepu
 Condição: Saudável
 Ícone: PNJ
 ---
 
 > [!infobox]
+>
 > # Leandra Costa
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Leandra Costa
+
 ## Sobre
 
 Leandra Costa é uma líder comunitária e defensora apaixonada pelos direitos dos moradores marginalizados de [[Shepu]]. Com uma visão de igualdade e justiça, ela atua como a voz dos desfavorecidos, lutando por melhores condições de vida e oportunidades para todos.
@@ -59,7 +65,7 @@ Leandra é carismática e empática, uma verdadeira inspiração para os que lut
 
 Embora seja naturalmente compassiva, Leandra não teme confrontar injustiças ou enfrentar aqueles que ignoram as necessidades da comunidade. Ela possui um senso de justiça inabalável e acredita que nenhuma causa é pequena demais para ser defendida. Sua determinação é temperada por uma abordagem prática, o que a torna eficaz na implementação de soluções tangíveis para os problemas de Shepu.
 
-## Localização 
+## Localização
 
 Leandra é frequentemente encontrada nos bairros mais pobres de [[Shepu]], coordenando iniciativas sociais, organizando reuniões comunitárias e ouvindo as preocupações dos moradores. Ela também é uma presença constante nos corredores da administração local, onde defende melhorias nas políticas públicas e pressiona por mudanças significativas.
 
@@ -70,6 +76,7 @@ Embora não seja membro oficial do [[Conselho Comunitário de Shepu]], Leandra f
 Ela é vista como uma aliada pelos progressistas e uma ameaça pelos tradicionalistas, navegando com habilidade nas complexidades políticas para garantir que as necessidades de sua comunidade sejam ouvidas.
 
 > [!info] Statblock
+>
 > ```statblock
 > name: Individual
 > monster: Commoner

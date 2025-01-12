@@ -1,6 +1,6 @@
 ---
 title: Dia da Primeira Chama
-tags: 
+tags:
 Ícone:
 date: 2024-09-21T02:20:13
 updated: 2024-09-21T02:20:13

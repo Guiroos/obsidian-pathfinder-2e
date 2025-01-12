@@ -24,8 +24,8 @@ O Beco dos Lamentos reflete a negligência da administração de [[Aroldo Grint]
 
 - **Exterior**: As fachadas dos prédios são desgastadas, com janelas quebradas e paredes manchadas pelo tempo. Latas de fogo improvisadas iluminam o beco à noite, criando sombras inquietantes nas paredes.
 - **Interior**: Os prédios do beco abrigam espaços multifuncionais, desde esconderijos das [[Garras Sombrias]] até pontos de encontro clandestinos da [[Chamas da Resistência]].
-    - **Covil das Garras Sombrias**: Uma sala oculta no subsolo de um prédio em ruínas, equipada com mapas, armas e tesouros roubados.
-    - **Refúgio da Resistência**: Um espaço discreto, disfarçado como uma velha [[Refúgio da Resistência|padaria abandonada]], onde reuniões estratégicas e treinamentos ocorrem.
+  - **Covil das Garras Sombrias**: Uma sala oculta no subsolo de um prédio em ruínas, equipada com mapas, armas e tesouros roubados.
+  - **Refúgio da Resistência**: Um espaço discreto, disfarçado como uma velha [[Refúgio da Resistência|padaria abandonada]], onde reuniões estratégicas e treinamentos ocorrem.
 
 ## Significado
 

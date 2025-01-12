@@ -14,7 +14,7 @@ Líder: Nelson Maré Alta
 Governo: Democracia
 Política: Conselho
 Defesa: Nenhuma
-Tendência: 
+Tendência:
 RaçasComuns:
   - Humanos
   - Anões
@@ -33,53 +33,58 @@ Grupos:
 ---
 
 > [!infobox]
+>
 > # Rosares
-> ![[z_Assets/Misc/MapPlaceholder.png|cover hm-sm]]
-> [[z_Assets/Misc/MapPlaceholder.png|Mostrar]]
+>
 > ###### Geografia
-> Tipo |  Valor |
-> ---|---|
-> Tipo | `=this.Tipo` |
-> Tamanho | `=this.Tamanho` |
-> População | `=this.População` |
-> Região | `=link(this.Região)` |
-> ###### Política 
-> Tipo |  Valor |
-> ---|---|
-> Líder | `=link(this.Líder)` |
-> Governo | `=this.Governo` |
-> Política | `=this.Política` |
-> Defesa | `=this.Defesa` |
+>
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tipo      | Habitação  |
+> | Tamanho   | Pequeno    |
+> | População | 90         |
+> | Região    | [[Tarash]] |
+>
+> ###### Política
+>
+> | Tipo     | Valor                |
+> | -------- | -------------------- |
+> | Líder    | [[Nelson Maré Alta]] |
+> | Governo  | Democracia           |
+> | Política | Conselho             |
+> | Defesa   | Nenhuma              |
+>
 > ###### Sociedade
-> Tipo |  Valor |
-> ---|---|
-> Raças Comuns | `=this.RaçasComuns` |
-> Religião | `=this.Religião`  |
+>
+> | Tipo         | Valor                      |
+> | ------------ | -------------------------- |
+> | Raças Comuns | Humanos, Anões             |
+> | Religião     | [[Thalassa]], [[Zephyrus]] |
+>
 > ###### Comércio
-> Tipo |  Valor |
-> ---|---|
-> Exportação | `=this.Exportação` |
-> Importação | `=this.Importação` |
+>
+> | Tipo       | Valor                                         |
+> | ---------- | --------------------------------------------- |
+> | Exportação | Peixes, Frutos do Mar                         |
+> | Importação | Ferramentas de Pesca, Materiais de Construção |
+>
 > ###### Organizações
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-> table WITHOUT ID link(file.name) AS "Grupo", link(Líder) AS "Líder"
-> where contains( Lar, this.file.name)
-> ```
-> ###### PNJs
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-> table WITHOUT ID link(file.name) AS "PNJ", Gênero, Raça
-> where contains( Localização, this.file.name)
-> ```
-
+>
+> | Grupo                 | Líder |
+> | --------------------- | ----- |
+> | Guilda dos Pescadores | -     |
+>
+> ###### PNJs Importantes
+>
+> | Nome                 | Gênero    | Raça   |
+> | -------------------- | --------- | ------ | --- |
+> | [[Nelson Maré Alta]] | Masculino | Humano |
+> | [[Helena Maui]]      | Feminino  | Humano | s   |
 
 # Rosares
 
 ## Visão Geral
-  
+
 Rosares é uma pequena habitação costeira emergente, situada entre o majestoso mar azul e a densa [[Floresta Incansável]] que se estendem até o horizonte. Com uma população de apenas 90 pessoas, a vila é uma comunidade resiliente e unida, cuja subsistência está profundamente ligada à generosidade do oceano. Suas casas simples de madeira, com telhados inclinados para resistir às tempestades, alinham-se ao longo da costa, enquanto trilhas sinuosas levam aos bosques próximos, que fornecem materiais e abrigo contra os ventos marítimos.
 
 No entanto, Rosares enfrenta uma ameaça enigmática: ataques periódicos de criaturas desconhecidas que surgem das profundezas da floresta à noite, saqueando os estoques de peixe e espalhando medo entre os moradores. Embora os ataques sejam raros, o mistério por trás deles alimenta rumores de que algo sombrio habita a floresta, possivelmente ligado a antigas magias ou criaturas esquecidas.
@@ -92,31 +97,26 @@ Apesar dos desafios, os pescadores de Rosares perseveram, sustentados por sua f�
 
 Rosares foi fundada no ano 160 por um pequeno grupo de pescadores migrantes, liderados por [[Nelson Maré Alta]]. Atraídos pelas águas ricas em peixes e pela tranquilidade do litoral, eles estabeleceram um assentamento modesto, construindo suas casas com madeira retirada da Floresta Incansável. A fundação de Rosares foi marcada por um pacto coletivo: trabalhar juntos e compartilhar os frutos do mar para garantir a sobrevivência de todos.
 
-### Desenvolvimento Inicial 
+### Desenvolvimento Inicial
 
 Nos primeiros anos, [[Rosares]] enfrentou dificuldades. Tempestades violentas destruíram várias casas, e a floresta revelou-se não apenas uma fonte de recursos, mas também uma ameaça. Com o tempo, os habitantes desenvolveram métodos mais eficazes de pesca e adaptaram-se ao ambiente. [[Rosares]] começou a prosperar como uma vila de pescadores conhecida por sua capacidade de capturar espécies raras e de qualidade.
 
 ### Eventos Importantes
 
 - **Primeiro Ataque das Criaturas (Ano 160)**: Um marco trágico na história de [[Rosares]]. Durante uma noite tranquila, estoques de peixe foram saqueados, e uma cabana próxima à floresta foi destruída. Desde então, as criaturas tornaram-se uma ameaça ocasional, e ninguém ousa entrar muito fundo na floresta sem uma boa razão.
-    
 - **Grande Tempestade (Ano 170)**: Uma tempestade devastadora atingiu [[Rosares]], destruindo quase metade das casas e o porto improvisado. Isso uniu ainda mais os moradores, que reconstruíram o vilarejo com a ajuda de comerciantes de [[Shepu]].
-    
 - **Abandono do Farol (Ano 175)**: O [[Farol Abandonado]] deveria ser um projeto para aumentar a segurança marítima, mas foi interrompido devido à falta de recursos e ao medo crescente das criaturas da floresta.
 
 ## Cultura e Tradições
 
 - **[[Festival das Marés]]**: Um evento anual em homenagem a [[Thalassa]], celebrado com danças, música e um banquete na praia. Durante o festival, oferendas de peixes frescos são feitas ao mar, pedindo proteção e abundância.
-    
 - **Festival do Primeiro Retorno:** é uma celebração anual em Rosares que marca o início da temporada de pesca. O evento começa com o retorno do primeiro barco ao porto, carregado com uma boa captura. Esse barco e sua tripulação são homenageados como símbolos de sorte e abundância.
-	
 - **Rituais ao Entardecer**: Todas as tardes, os pescadores oferecem uma oração a [[Zephyrus]], agradecendo pelos ventos favoráveis que os guiam de volta ao porto.
-    
 - **Tabu da Floresta**: Embora alguns moradores ainda recolham madeira das bordas da [[Floresta Incansável]], entrar profundamente nela é considerado um ato de extremo risco. Histórias sobre desaparecimentos alimentam o respeito e o medo da floresta.
 
 ### Importância na História de Tarash
 
-Rosares é uma peça vital na economia de [[Tarash]], apesar de seu tamanho. Como uma das poucas comunidades dedicadas à pesca, ela fornece alimentos essenciais para as cidades vizinhas, especialmente [[Shepu]] e [[Shalom]]. 
+Rosares é uma peça vital na economia de [[Tarash]], apesar de seu tamanho. Como uma das poucas comunidades dedicadas à pesca, ela fornece alimentos essenciais para as cidades vizinhas, especialmente [[Shepu]] e [[Shalom]].
 
 ## Pontos de Interesse
 
@@ -151,5 +151,4 @@ A [[Taverna Maré Alta]] é o principal ponto de encontro dos habitantes de Rosa
 ### Comércio e Interação
 
 - **Comércio com Shepu**: Rosares depende de [[Shepu]] para importar ferramentas e materiais, em troca de peixes frescos.
-    
 - **Tensão com Shalom**: Alguns comerciantes de [[Shalom]] tentam explorar os pescadores com preços injustos, gerando atritos ocasionais.

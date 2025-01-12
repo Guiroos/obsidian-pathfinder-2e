@@ -24,9 +24,9 @@ A arquitetura do Refúgio da Resistência combina funcionalidade e discrição, 
 
 - **Exterior**: A padaria abandonada apresenta uma fachada desgastada, com uma placa pendurada por um fio enferrujado e janelas empoeiradas. É facilmente confundida com outros prédios deteriorados do [[Beco dos Lamentos]], garantindo que passe despercebida por olhos curiosos.
 - **Interior**: Atrás da aparência decadente, o interior revela um espaço engenhoso e bem planejado.
-    - **Sala de Reuniões Oculta**: Um porão subterrâneo, acessado por uma passagem secreta, equipado com uma grande mesa de madeira e mapas detalhados de [[Shalom]].
-    - **Arsenal Secreto**: Uma sala trancada, contendo armas improvisadas, munição e suprimentos médicos essenciais para a resistência.
-    - **Área de Treinamento**: Um espaço improvisado com alvos, sacos de areia e equipamentos de treino, usado para preparar os recrutas.
+  - **Sala de Reuniões Oculta**: Um porão subterrâneo, acessado por uma passagem secreta, equipado com uma grande mesa de madeira e mapas detalhados de [[Shalom]].
+  - **Arsenal Secreto**: Uma sala trancada, contendo armas improvisadas, munição e suprimentos médicos essenciais para a resistência.
+  - **Área de Treinamento**: Um espaço improvisado com alvos, sacos de areia e equipamentos de treino, usado para preparar os recrutas.
 
 ## Significado
 

@@ -14,7 +14,7 @@ Líder: Eldor Terraza
 Governo: Democracia
 Política: Conselho
 Defesa: Leve
-Tendência: 
+Tendência:
 RaçasComuns:
   - Humanos
   - Elfos
@@ -36,43 +36,53 @@ Grupos:
 ---
 
 > [!infobox]
+>
 > # Darak
-> ![[z_Assets/Misc/MapPlaceholder.png|cover hm-sm]]
-> [[z_Assets/Misc/MapPlaceholder.png|Mostrar]]
+>
 > ###### Geografia
-> Tipo |  Valor |
-> ---|---|
-> Tipo | Aldeia |
-> Tamanho | Médio |
-> População | 1000 |
-> Região | [[Tarash]] |
-> ###### Política 
-> Tipo |  Valor |
-> ---|---|
-> Líder | [[Eldor Terraza]] |
-> Governo | Democracia |
-> Política | Conselho |
-> Defesa | Leve |
+>
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tipo      | Aldeia     |
+> | Tamanho   | Médio      |
+> | População | 1000       |
+> | Região    | [[Tarash]] |
+>
+> ###### Política
+>
+> | Tipo     | Valor             |
+> | -------- | ----------------- |
+> | Líder    | [[Eldor Terraza]] |
+> | Governo  | Democracia        |
+> | Política | Conselho          |
+> | Defesa   | Leve              |
+>
 > ###### Sociedade
-> Tipo |  Valor |
-> ---|---|
-> Raças Comuns | Humanos, Elfos, Anões |
-> Religião | [[Aurora]], [[Thalassa]]  |
+>
+> | Tipo         | Valor                    |
+> | ------------ | ------------------------ |
+> | Raças Comuns | Humanos, Elfos, Anões    |
+> | Religião     | [[Aurora]], [[Thalassa]] |
+>
 > ###### Comércio
-> Tipo |  Valor |
-> ---|---|
-> Exportação | Grãos, Frutas, Legumes, Carne |
-> Importação | Produtos de Luxo |
+>
+> | Tipo       | Valor                         |
+> | ---------- | ----------------------------- |
+> | Exportação | Grãos, Frutas, Legumes, Carne |
+> | Importação | Produtos de Luxo              |
+>
 > ###### Organizações
-> Grupo | Líder |
-> ---|---|
-> Guilda dos Fazendeiros | - |
-> Culto | - |
+>
+> | Grupo                  | Líder |
+> | ---------------------- | ----- |
+> | Guilda dos Fazendeiros | -     |
+> | Culto                  | -     |
+>
 > ###### PNJs Importantes
-> Nome | Gênero | Raça
-> ---|---|
-> [[Eldor Terraza]] | Masculino | Humano |
-
+>
+> | Nome              | Gênero    | Raça   |
+> | ----------------- | --------- | ------ |
+> | [[Eldor Terraza]] | Masculino | Humano |
 
 # Darak
 
@@ -88,7 +98,7 @@ Com sua história rica e uma comunidade unida, Darak representa o espírito de r
 
 Darak foi fundada no ano 130 por [[Eldor Terraza]] e um grupo de colonos em busca de um refúgio pacífico e fértil. Eles chegaram às planícies que cercam a [[Floresta Incansável]] e começaram a trabalhar na terra, cultivando-a com dedicação. Eldor, com sua visão e liderança inspiradora, tornou-se o pilar dessa nova comunidade.
 
-### Desenvolvimento Inicial 
+### Desenvolvimento Inicial
 
 Nos primeiros anos, Darak era apenas uma pequena aldeia agrícola, dependente da generosidade da natureza e do trabalho árduo de seus habitantes. Com o tempo, a cidade cresceu e se tornou um importante centro agrícola, fornecendo alimentos não apenas para sua própria população, mas também para outras cidades e regiões de Tarash.
 
@@ -96,7 +106,7 @@ Nos primeiros anos, a aldeia enfrentou desafios, desde ataques ocasionais de ani
 
 ### Importância na História de Tarash
 
-Darak desempenhou um papel crucial na história de [[Tarash]], fornecendo alimentos essenciais e recursos agrícolas que sustentavam a economia e a população da ilha. 
+Darak desempenhou um papel crucial na história de [[Tarash]], fornecendo alimentos essenciais e recursos agrícolas que sustentavam a economia e a população da ilha.
 
 ### Eventos Importantes
 
@@ -159,7 +169,7 @@ A [[Casa de Eldor Terraza|residência modesta de Eldor Terraza]], onde ele vive 
 
 Um [[Moinho de Eldor Terraza|moinho de vento gigante]] construído em homenagem a [[Eldor Terraza]], que simboliza a força e a perseverança dos habitantes de Darak. O moinho fornece energia para moer grãos e produzir farinha, desempenhando um papel crucial na economia agrícola da cidade.
 
-### Salão do Conselho 
+### Salão do Conselho
 
 Um salão localizado no centro de Darak, próximo à [[Praça Central]] e à [[Casa de Eldor Terraza]], onde os líderes comunitários se reúnem para discutir assuntos de política, segurança, economia e bem-estar da cidade.
 
@@ -170,14 +180,14 @@ O [[Mercado Agrícola|centro comercial]] de Darak, vibrante com a troca de merca
 ### Praça Central
 
 O [[Praça Central|coração social e espiritual]] de Darak, com uma estátua de [[Eldor Terraza]] e uma fonte dedicada aos deuses da colheita. Durante festivais, a praça ganha vida com música, danças e banquetes.
- 
+
 ### Estalagem do Pomar Verde
 
 Uma [[Estalagem do Pomar Verde|estalagem]] acolhedora e rústica, conhecida por servir as melhores refeições caseiras de toda [[Tarash]], usando ingredientes frescos da região. É um ponto de encontro popular para viajantes e locais, onde histórias são contadas ao redor do fogo.
 
 ### Grande Canal
 
-O [[Grande Canal]]  é uma obra de engenharia e magia divina, criada para dessalinizar e distribuir água do mar às plantações da cidade. Construído durante a Grande Seca, combina rituais sagrados em honra a [[Thalassa]] e [[Aurora]], simbolizando resiliência e fé.
+O [[Grande Canal]] é uma obra de engenharia e magia divina, criada para dessalinizar e distribuir água do mar às plantações da cidade. Construído durante a Grande Seca, combina rituais sagrados em honra a [[Thalassa]] e [[Aurora]], simbolizando resiliência e fé.
 
 ## Relações Internas
 

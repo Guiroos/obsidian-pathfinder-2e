@@ -26,11 +26,11 @@ A estrutura do mercado é organizada em torno de cinco praças principais, cada 
 
 - **Exterior**: O mercado é demarcado por portais ornamentados que simbolizam os cinco ventos, cada um com esculturas que representam a origem dos produtos ali comercializados – terra, mar, fogo, ar e espírito. Esses portais são feitos de pedra entalhada e decorados com bandeiras coloridas que mudam conforme as estações.
 - **Interior**: Dentro do mercado, cada praça tem características distintas que refletem os produtos e comerciantes associados:
-    - **Praça do Mar**: Focada em produtos marítimos como peixes, sal e conchas raras, com tanques de água salgada exibindo frutos do mar vivos.
-    - **Praça da Terra**: Conhecida pelos grãos, ervas e tecidos locais, é cercada por barracas cobertas com folhas de palmeira.
-    - **Praça do Fogo**: Especializada em especiarias e itens exóticos, suas barracas são decoradas com tochas e bandeiras vermelhas vibrantes.
-    - **Praça do Ar**: Um espaço aberto onde artesãos vendem artefatos culturais, cerâmicas e instrumentos musicais, com pipas coloridas decorando o céu.
-    - **Praça do Espírito**: Um lugar misterioso onde se encontram objetos raros, artefatos antigos e ervas místicas, iluminado por lanternas mágicas que brilham mesmo à luz do dia.
+  - **Praça do Mar**: Focada em produtos marítimos como peixes, sal e conchas raras, com tanques de água salgada exibindo frutos do mar vivos.
+  - **Praça da Terra**: Conhecida pelos grãos, ervas e tecidos locais, é cercada por barracas cobertas com folhas de palmeira.
+  - **Praça do Fogo**: Especializada em especiarias e itens exóticos, suas barracas são decoradas com tochas e bandeiras vermelhas vibrantes.
+  - **Praça do Ar**: Um espaço aberto onde artesãos vendem artefatos culturais, cerâmicas e instrumentos musicais, com pipas coloridas decorando o céu.
+  - **Praça do Espírito**: Um lugar misterioso onde se encontram objetos raros, artefatos antigos e ervas místicas, iluminado por lanternas mágicas que brilham mesmo à luz do dia.
 
 ## Significado
 

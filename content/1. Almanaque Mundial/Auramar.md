@@ -10,9 +10,9 @@ updated: 2024-04-09T16:56
 
 No início, Auramar era um mundo sem forma, coberto por um vasto oceano sem fim. Na escuridão do abismo, os deuses primordiais surgiram, cada um trazendo consigo o poder de uma das forças fundamentais que moldariam o mundo.
 
-[[Aurora]], com sua habilidade de tecer os destinos, concebeu a visão do mundo e começou a dar forma à sua geografia e à vida que o habitaria. 
+[[Aurora]], com sua habilidade de tecer os destinos, concebeu a visão do mundo e começou a dar forma à sua geografia e à vida que o habitaria.
 [[Pyrrhus]], com seu fogo divino, moldou as montanhas e as rochas, elevando-as acima das águas para criar as terras onde os mortais caminhariam.
-[[Thalassa]] emergiu das profundezas dos mares, trazendo consigo a vida marinha e as marés que dariam vida ao mundo. 
+[[Thalassa]] emergiu das profundezas dos mares, trazendo consigo a vida marinha e as marés que dariam vida ao mundo.
 E por fim, [[Zephyrus]] soprou seus ventos sobre os oceanos, impulsionando os barcos e guiando os navegantes em suas jornadas.
 
 Juntos, esses deuses primordiais deram forma a Auramar, criando um mundo de maravilhas e perigos, onde os mortais navegariam em busca de aventuras e glórias.
@@ -23,7 +23,7 @@ Esses primeiros 100 anos são marcados por um período de descoberta, aprendizad
 
 ### Ano 1 - O Despertar
 
-Os primeiros mortais despertam em Auramar, encontrando-se em uma terra virgem e cheia de maravilhas e perigos. 
+Os primeiros mortais despertam em Auramar, encontrando-se em uma terra virgem e cheia de maravilhas e perigos.
 Eles aprendem a sobreviver, caçando, colhendo frutas e construindo abrigos simples.
 
 ### Ano 10 - O Domínio do Fogo
@@ -50,4 +50,3 @@ Eles descobrem novas ilhas, estabelecem rotas comerciais e expandem sua influên
 
 Os mortais, inspirados pelos ciclos naturais e pelos ensinamentos dos deuses, criam o calendário de Estelarum para marcar o passar do tempo e as estações do ano.
 As datas importantes, como o Dia da Criação e os festivais em honra aos deuses, são estabelecidas como marcos para celebrar a história e a cultura de Auramar.
-

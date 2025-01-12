@@ -7,12 +7,13 @@ tags:
 TamanhoComunidade: Pequena
 Tendência: Neutro Mal
 Governo: Hierárquico Oculto
-Líder: 
+Líder:
 Lar: Shepu
 Ícone: Grupo
 ---
 
 # Filhos do Mar
+
 ## Visão Geral
 
 Os **Filhos do Mar** são um culto secreto, com 50-70 membros ativos, que opera nas sombras de [[Shepu]], reunindo devotos dedicados às entidades marinhas ancestrais e aos mistérios das profundezas oceânicas. Apesar de sua existência ser amplamente desconhecida, rumores de suas práticas e rituais enigmáticos permeiam a cidade. Suas reuniões ocorrem em cavernas costeiras ocultas, onde os membros realizam cerimônias para invocar as forças do mar e buscar orientação espiritual nas entidades que veneram.
@@ -65,4 +66,3 @@ Seus rituais buscam criar uma ponte espiritual entre o mundo humano e o reino aq
 - **Criaturas das Profundezas:** Histórias falam de criaturas aquáticas monstruosas que atendem aos chamados dos Filhos do Mar durante rituais importantes.
 - **Profecias Oceânicas:** Diz-se que os líderes do culto recebem visões sobre o futuro de Shepu e do mundo, transmitidas pelas ondas.
 - **Sacrifícios Humanos:** Embora não confirmado, moradores sussurram sobre desaparecimentos ligados aos rituais do culto.
-

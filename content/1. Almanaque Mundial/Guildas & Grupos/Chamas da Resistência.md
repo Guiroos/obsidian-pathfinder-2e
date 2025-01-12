@@ -14,6 +14,7 @@ Lar: Shalom
 ---
 
 # Chamas da Resistência
+
 ## Visão Geral
 
 As **Chamas da Resistência** são uma força emergente no submundo de [[Shalom]], com cerca de 100 membros, composta por trabalhadores explorados, idealistas e ex-membros de gangues que se uniram em um propósito comum: desafiar a corrupção e lutar pela justiça social. Eles operam nas sombras, buscando mobilizar a classe baixa contra a administração opressora de [[Aroldo Grint]], enquanto se preparam para uma revolta em grande escala.

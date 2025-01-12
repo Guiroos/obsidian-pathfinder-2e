@@ -24,10 +24,10 @@ Construído para confundir intrusos e proteger seus segredos, o Covil combina a 
 
 - **Exterior**: A entrada do Covil é disfarçada como uma parede de tijolos desgastados em um beco estreito. Apenas os membros da gangue conhecem a sequência específica para ativar o mecanismo que revela a entrada.
 - **Interior**: Um espaço engenhoso e sombrio que reflete a hierarquia e os valores da gangue.
-    - **Salão do Trono de Dorian**: Um grande salão central decorado com tesouros roubados e o trono improvisado de [[Dorian Mão Negra]], que simboliza sua liderança.
-    - **Armazém Secreto**: Um depósito subterrâneo onde mercadorias contrabandeadas, armas e recursos são armazenados.
-    - **Quartos Comuns**: Dormitórios simples para os membros da gangue, decorados com itens saqueados e memórias de seus feitos.
-    - **Câmara de Interrogatório**: Um espaço reservado para interrogatórios e punições, equipado com instrumentos de intimidação e tortura.
+  - **Salão do Trono de Dorian**: Um grande salão central decorado com tesouros roubados e o trono improvisado de [[Dorian Mão Negra]], que simboliza sua liderança.
+  - **Armazém Secreto**: Um depósito subterrâneo onde mercadorias contrabandeadas, armas e recursos são armazenados.
+  - **Quartos Comuns**: Dormitórios simples para os membros da gangue, decorados com itens saqueados e memórias de seus feitos.
+  - **Câmara de Interrogatório**: Um espaço reservado para interrogatórios e punições, equipado com instrumentos de intimidação e tortura.
 
 ## Significado
 

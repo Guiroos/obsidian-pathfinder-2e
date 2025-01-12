@@ -18,23 +18,28 @@ Condição: Vivo
 ---
 
 > [!infobox]
+>
 > # Dorian Mão Negra
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+>
 > ###### Informação Básica
-> Tipo |  Valor |
-> ---|---|
-> Residência | `=link(this.Localização)` |
-> Grupo Associado | `=link(this.GrupoAssociado)` |
-> Gênero | `=this.Gênero` |
-> Raça | `=this.Raça` |
-> Idade | `=this.Idade` |
-> Condição | `=this.Condição` |
+>
+> | Tipo            | Valor                        |
+> | --------------- | ---------------------------- |
+> | Residência      | `=link(this.Localização)`    |
+> | Grupo Associado | `=link(this.GrupoAssociado)` |
+> | Gênero          | `=this.Gênero`               |
+> | Raça            | `=this.Raça`                 |
+> | Idade           | `=this.Idade`                |
+> | Condição        | `=this.Condição`             |
+>
 > ###### Informação Adicional
-> Tipo |  Valor |
-> ---|---|
-> Tendência | `=this.Tendência` |
-> Classe | `=this.Classe` |
+>
+> | Tipo      | Valor             |
+> | --------- | ----------------- |
+> | Tendência | `=this.Tendência` |
+> | Classe    | `=this.Classe`    |
 
 # Dorian Mão Negra
 
@@ -70,6 +75,6 @@ Dorian é calculista, carismático e implacável. Ele lidera com uma combinaçã
 - **Combatente letal:** Especialista em combate corpo a corpo e furtividade, com movimentos rápidos e precisos.
 - **Conhecedor do submundo:** Possui uma vasta rede de contatos que fornece informações e recursos para suas operações.
 
-## Localização 
+## Localização
 
 Dorian é frequentemente encontrado no [[Beco dos Lamentos]] ou no Covi, o reduto dos [[Garras Sombrias]]. Ele ocupa um esconderijo fortemente guardado em uma [[Covil das Garras Sombrias|construção abandonada]], onde organiza as operações da gangue e se reúne com seus tenentes para planejar novos ataques.

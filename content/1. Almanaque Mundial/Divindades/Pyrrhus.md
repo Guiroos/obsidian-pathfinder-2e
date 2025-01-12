@@ -32,9 +32,9 @@ Domínios:
   - Criação
   - Destruição
   - Sol
-Subdomínios: 
+Subdomínios:
 ArmaFavorita: Martelo
-Símbolo: Uma bigorda dourada envolta em espirais de fogo
+Símbolo: Uma bigorna dourada envolta em espirais de fogo
 AnimaisSagrados:
   - Salamandra
 CoresSagradas:
@@ -44,33 +44,36 @@ CoresSagradas:
 ---
 
 > [!infobox]
+>
 > # Pyrrhus
-> ![[pyrrhusUP.jpeg]]
-> [[pyrrhusUP.jpeg|Mostrar]]
+>
+> ![[pyrrhusUP.jpeg]] > [[pyrrhusUP.jpeg|Mostrar]]
+>
 > ###### Divindade
-> Nome |  Valor |
-> ---|---|
-> Títulos | `=this.Títulos` |
-> Adjetivo | `=this.Adjetivo` |
-> Reino | `=this.Reino` |
-> Tendência | `=this.Tendência` |
-> Preocupações | `=this.Preocupações` |
-> Adoradores | `=this.Adoradores` |
-> Éditos | `=this.Éditos` |
-> Anátemas | `=this.Anátemas` |
-> Tendência Clérigos | `=this.TendênciaCléricos ` |
-> Domínios | `=this.Domínios` |
-> Subdomínios | `=this.Subdomínios` |
-> Arma Favorita | `=this.ArmaFavorita` |
-> Símbolo | `=this.Símbolo` |
-> Animais Sagrados | `=this.AnimaisSagrados` |
-> Cores Sagradas | `=this.CoresSagradas` |
+>
+> | Nome               | Valor                                                                                                                       |
+> | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+> | Títulos            | Senhor do Fogo, Portador da Chama Eterna                                                                                    |
+> | Adjetivo           | Pyrriano                                                                                                                    |
+> | Reino              | Plano Material                                                                                                              |
+> | Tendência          | Caótico Neutro                                                                                                              |
+> | Preocupações       | Preservar o equilíbrio entre criação e destruição, Promover a renovação através do fogo                                     |
+> | Adoradores         | Ferreiros, Guerreiros                                                                                                       |
+> | Éditos             | Honrar o poder do fogo e utilizá-lo com responsabilidade, Proteger aqueles que buscam o calor e a luz do fogo               |
+> | Anátemas           | Abusar do fogo para fins egoístas ou destrutivos, Apagar intencionalmente chamas sagradas, Profanar locais de culto ao fogo |
+> | Tendência Clérigos | Caótico Neutro, Caótico Bom                                                                                                 |
+> | Domínios           | Fogo, Criação, Destruição, Sol                                                                                              |
+> | Subdomínios        | -                                                                                                                           |
+> | Arma Favorita      | Martelo                                                                                                                     |
+> | Símbolo            | Uma bigorna dourada envolta em espirais de fogo                                                                             |
+> | Animais Sagrados   | Salamandra                                                                                                                  |
+> | Cores Sagradas     | Vermelho, Dourado                                                                                                           |
 
 # Pyrrhus
 
 Pyrrhus (PYRR-hus) é o divino Senhor do Fogo, conhecido por sua natureza ardente e poderosa. Ele é venerado como o criador das chamas que trazem calor e luz ao mundo, mas também como o guardião do fogo que consome e purifica. Sua presença é sentida tanto nos fogos que aquecem os lares quanto nas labaredas que devoram o que está corrompido. A dualidade de Pyrrhus, sendo ao mesmo tempo criador e destruidor é central para o seu culto, aonde seus seguidores filosofam muito em como o fogo deve ser utilizado.
 
-##  Aparência
+## Aparência
 
 Pyrrhus é retratado como uma figura imponente envolta em chamas douradas, cujo calor irradia uma aura de poder e intensidade. Seus olhos brilham com a intensidade das brasas, enquanto sua pele parece feita de carvão incandescente. Ele é frequentemente representado carregando uma tocha flamejante, símbolo de sua divina chama.
 
@@ -95,4 +98,3 @@ Assim, as relações de Pyrrhus transcendem as fronteiras dos elementos, envolve
 ## Religião
 
 A religião dedicada a Pyrrhus é centrada no culto ao fogo e na veneração de sua divina chama. Seus seguidores acreditam que a invocação de seu nome traz proteção contra o frio e a escuridão, enquanto sua ira pode ser desencadeada por aqueles que abusam do fogo ou o subestimam. Os templos dedicados a Pyrrhus são frequentemente construídos em locais vulcânicos ou próximo a fontes de calor natural, onde as chamas podem arder em honra ao seu divino Senhor.
-

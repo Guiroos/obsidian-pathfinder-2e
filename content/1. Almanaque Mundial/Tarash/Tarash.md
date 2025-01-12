@@ -6,7 +6,6 @@ tags:
 Ícone: Localização
 date: 2024-04-09T22:54
 updated: 2024-04-09T22:54
-
 ---
 
 # Tarash
@@ -23,8 +22,3 @@ Quatro cidades com nomes de:
 Darak é a cidade que fica mais ao norte da ilha, perto das Florestas Incansáveis que rodeiam e adentram toda a ilha, perto de um deserto congelante a leste, e embaixo desse deserto há os Picos Nevados que cobrem de ponta a ponta da ilha dividindo o território em norte e sul.
 Ao sul temos Shalom na parte central e logo mais a leste há as outras duas cidades Shepu e Rosares, obviamente sendo rodeadas pelas Florestas Incansáveis.
 Ao extremo sul há um deserto corrompido pela magia.
-
-
-  
-
-
