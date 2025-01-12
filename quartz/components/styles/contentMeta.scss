@@ -8,7 +8,7 @@
   color: var(--gray);
 
   &[show-comma="true"] {
-    > span:not(:last-child) {
+    > *:not(:last-child) {
       margin-right: 8px;
 
       &::after {
