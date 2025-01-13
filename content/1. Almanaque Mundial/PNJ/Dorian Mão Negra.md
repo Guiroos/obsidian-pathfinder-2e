@@ -21,7 +21,7 @@ Condição: Vivo
 >
 > # Dorian Mão Negra
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[dorian-mao-negra-1.jpg|cover hsmall]] > [[dorian-mao-negra-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >

@@ -21,7 +21,7 @@ Condição: Vivo
 >
 > # Eloise Marivalle
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[eloise-marivalle-1.jpg|cover hsmall]] > [[eloise-marivalle-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
