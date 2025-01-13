@@ -55,7 +55,7 @@ CoresSagradas:
 >
 > # Zephyrus
 >
-> ![[zephyrusUP.jpeg]] > [[zephyrusUP.jpeg|Mostrar]]
+> ![[zephyrus-1.jpg]] > [[zephyrus-1.jpg|Mostrar]]
 >
 > ###### Divindade
 >

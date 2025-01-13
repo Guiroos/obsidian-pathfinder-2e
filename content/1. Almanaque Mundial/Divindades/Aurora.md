@@ -47,7 +47,7 @@ CoresSagradas:
 >
 > # Aurora
 >
-> ![[auroraUP.jpeg]] > [[auroraUP.jpeg | Mostrar]]
+> ![[aurora-1.jpeg]] > [[aurora-1.jpeg | Mostrar]]
 >
 > ###### Divindade
 >

@@ -50,7 +50,7 @@ CoresSagradas:
 >
 > # Thalassa
 >
-> ![[thalassa.jpeg]] > [[thalassa.jpeg]]
+> ![[thalassa-1.jpg]] > [[thalassa-1.jpg]]
 >
 > ###### Divindade
 >

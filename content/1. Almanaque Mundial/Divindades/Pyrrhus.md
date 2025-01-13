@@ -47,7 +47,7 @@ CoresSagradas:
 >
 > # Pyrrhus
 >
-> ![[pyrrhusUP.jpeg]] > [[pyrrhusUP.jpeg|Mostrar]]
+> ![[pyrrhus-1.jpg]] > [[pyrrhus-1.jpg|Mostrar]]
 >
 > ###### Divindade
 >
