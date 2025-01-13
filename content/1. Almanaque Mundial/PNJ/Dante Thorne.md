@@ -21,7 +21,7 @@ Condição: Saudável
 >
 > # Dante Thorne
 >
-> ![[dante-thorne-2.jpg|cover hsmall]] > [[dante-thorne-2.jpg|Mostrar aos jogadores]]
+> ![[dante-thorne-1.jpg|cover hsmall]] > [[dante-thorne-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
