@@ -20,18 +20,18 @@ Condição: Vivo
 >
 > # Bruno Berti
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[bruno-berti-1.jpg|cover hsmall]] > [[bruno-berti-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor                             |
+> | --------------- | --------------------------------- |
+> | Residência      | [[Shepu]]                         |
+> | Grupo Associado | [[Conselho Comunitário de Shepu]] |
+> | Gênero          | Masculino                         |
+> | Raça            | Humano                            |
+> | Idade           | 22                                |
+> | Condição        | Vivo                              |
 >
 > ###### Informação Adicional
 >

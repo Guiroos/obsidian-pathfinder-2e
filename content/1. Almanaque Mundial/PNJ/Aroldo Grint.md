@@ -20,25 +20,25 @@ Condição: Vivo
 >
 > # Aroldo Grint
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[arold-grint-1.jpg|cover hsmall]] > [[arold-grint-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor      |
+> | --------------- | ---------- |
+> | Residência      | [[Shalom]] |
+> | Grupo Associado | -          |
+> | Gênero          | Masculino  |
+> | Raça            | Humano     |
+> | Idade           | 52         |
+> | Condição        | Vivo       |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tendência | Neutro Mal |
+> | Classe    | -          |
 
 # Aroldo Grint
 

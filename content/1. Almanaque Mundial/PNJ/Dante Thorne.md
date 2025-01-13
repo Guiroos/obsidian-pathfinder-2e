@@ -14,32 +14,32 @@ Classe:
 Tendência: Caótico Neutro
 Localização: Shepu
 Condição: Saudável
-Ícone: PNJ
+Ícone: Vivo
 ---
 
 > [!infobox]
 >
 > # Dante Thorne
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[dante-thorne-2.jpg|cover hsmall]] > [[dante-thorne-2.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor                 |
+> | --------------- | --------------------- |
+> | Residência      | [[Shepu]]             |
+> | Grupo Associado | [[Navegantes Negros]] |
+> | Gênero          | Masculino             |
+> | Raça            | Gnomo                 |
+> | Idade           | 32                    |
+> | Condição        | Vivo                  |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor          |
+> | --------- | -------------- |
+> | Tendência | Caótico Neutro |
+> | Classe    | Ladino         |
 
 # Dante Thorne
 

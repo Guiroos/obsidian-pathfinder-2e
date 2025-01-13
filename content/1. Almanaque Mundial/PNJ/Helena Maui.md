@@ -7,7 +7,7 @@ tags:
   - tarash/rosares
 GrupoAssociado: Conselho Comunitário de Rosares
 Gênero: Feminino
-Raça: Humano
+Raça: Elfo
 Idade: 38
 Classe:
   - Druida
@@ -21,25 +21,25 @@ Condição: Vivo
 >
 > # Helena Maui
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[helena-maui-1.jpg|cover hsmall]] > [[helena-maui-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor                               |
+> | --------------- | ----------------------------------- |
+> | Residência      | [[Rosares]]                         |
+> | Grupo Associado | [[Conselho Comunitário de Rosares]] |
+> | Gênero          | Feminino                            |
+> | Raça            | Elfo                                |
+> | Idade           | 38                                  |
+> | Condição        | Vivo                                |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tendência | Neutro Bom |
+> | Classe    | Druida     |
 
 # Helena Maui
 

@@ -20,25 +20,25 @@ Condição: Vivo
 >
 > # Lucas Berti
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[lucas-berti-1.jpg|cover hsmall]] > [[lucas-berti-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor                             |
+> | --------------- | --------------------------------- |
+> | Residência      | [[Shepu]]                         |
+> | Grupo Associado | [[Conselho Comunitário de Shepu]] |
+> | Gênero          | Masculino                         |
+> | Raça            | Humano                            |
+> | Idade           | 22                                |
+> | Condição        | Vivo                              |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor       |
+> | --------- | ----------- |
+> | Tendência | Leal Neutro |
+> | Classe    | -           |
 
 # Lucas Berti
 

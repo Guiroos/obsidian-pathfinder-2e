@@ -21,25 +21,25 @@ Condição: Vivo
 >
 > # Esmeralda Vorhan
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[esmeralda-vorhan-1.jpg|cover hsmall]] > [[esmeralda-vorhan-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor                     |
+> | --------------- | ------------------------- |
+> | Residência      | [[Shalom]]                |
+> | Grupo Associado | [[Chamas da Resistência]] |
+> | Gênero          | Feminino                  |
+> | Raça            | Humano                    |
+> | Idade           | 29                        |
+> | Condição        | Vivo                      |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor       |
+> | --------- | ----------- |
+> | Tendência | Caótico Bom |
+> | Classe    | Vivo        |
 
 # Esmeralda Vorhan
 

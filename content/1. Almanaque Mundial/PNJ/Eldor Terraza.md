@@ -6,13 +6,13 @@ tags:
   - pnj
 GrupoAssociado:
 Gênero: Masculino
-Raça: Humano
+Raça: Elfo
 Idade: 78
 Classe:
   - Druida
 Tendência: Leal Bom
 Localização: Darak
-Condição: Normal
+Condição: Vivo
 Ícone: PNJ
 ---
 
@@ -20,25 +20,25 @@ Condição: Normal
 >
 > # Eldor Terraza
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[eldor-terraza-1.jpg|cover hsmall]] > [[eldor-terraza-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor     |
+> | --------------- | --------- |
+> | Residência      | [[Darak]] |
+> | Grupo Associado | -         |
+> | Gênero          | Masculino |
+> | Raça            | Elfo      |
+> | Idade           | 78        |
+> | Condição        | Vivo      |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor    |
+> | --------- | -------- |
+> | Tendência | Leal Bom |
+> | Classe    | Druida   |
 
 # Eldor Terraza
 

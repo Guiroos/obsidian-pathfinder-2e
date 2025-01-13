@@ -22,25 +22,25 @@ Condição: Vivo
 >
 > # Nelson Maré Alta
 >
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]] > [[z_Assets/Misc/ImagePlaceholder.png|Mostrar aos jogadores]]
+> ![[nelson-mare-alta-1.jpg|cover hsmall]] > [[nelson-mare-alta-1.jpg|Mostrar aos jogadores]]
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor       |
+> | --------------- | ----------- |
+> | Residência      | [[Rosares]] |
+> | Grupo Associado | -           |
+> | Gênero          | Masculino   |
+> | Raça            | Anão        |
+> | Idade           | 65          |
+> | Condição        | Vivo        |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tendência | Neutro Bom |
+> | Classe    | Guerreiro  |
 
 # Nelson Maré Alta
 

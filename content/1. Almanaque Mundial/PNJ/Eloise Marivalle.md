@@ -25,21 +25,21 @@ Condição: Vivo
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor                             |
+> | --------------- | --------------------------------- |
+> | Residência      | [[Shepu]]                         |
+> | Grupo Associado | [[Conselho Comunitário de Shepu]] |
+> | Gênero          | Feminino                          |
+> | Raça            | Humano                            |
+> | Idade           | 35                                |
+> | Condição        | Vivo                              |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor      |
+> | --------- | ---------- |
+> | Tendência | Neutro Bom |
+> | Classe    | Guerreiro  |
 
 # Eloise Marivalle
 

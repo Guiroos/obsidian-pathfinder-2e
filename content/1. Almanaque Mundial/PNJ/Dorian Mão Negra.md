@@ -25,21 +25,21 @@ Condição: Vivo
 >
 > ###### Informação Básica
 >
-> | Tipo            | Valor                        |
-> | --------------- | ---------------------------- |
-> | Residência      | `=link(this.Localização)`    |
-> | Grupo Associado | `=link(this.GrupoAssociado)` |
-> | Gênero          | `=this.Gênero`               |
-> | Raça            | `=this.Raça`                 |
-> | Idade           | `=this.Idade`                |
-> | Condição        | `=this.Condição`             |
+> | Tipo            | Valor               |
+> | --------------- | ------------------- |
+> | Residência      | [[Shalom]]          |
+> | Grupo Associado | [[Garras Sombrias]] |
+> | Gênero          | Masculino           |
+> | Raça            | Humano              |
+> | Idade           | 38                  |
+> | Condição        | Vivo                |
 >
 > ###### Informação Adicional
 >
-> | Tipo      | Valor             |
-> | --------- | ----------------- |
-> | Tendência | `=this.Tendência` |
-> | Classe    | `=this.Classe`    |
+> | Tipo      | Valor          |
+> | --------- | -------------- |
+> | Tendência | Caótico Neutro |
+> | Classe    | Ladino         |
 
 # Dorian Mão Negra
 
