@@ -26,12 +26,14 @@ aliases:
 
 # Jorge Pepitinha
 
-> [!infobox]
+> [!info]- Personagem
 >
-> # Jorge Pepitinha
->
-> ![[jorge-pepetinha.jpeg]] > [[jorge-pepetinha.jpeg|Mostrar]]
->
+> ![[jorge-pepitinha.jpeg]]
+> [[jorge-pepitinha.jpeg|Mostrar]]
+
+
+> [!info]- Informações
+> 
 > ###### Informação Básica
 >
 > | Tipo      | Valor          |
@@ -60,11 +62,15 @@ Diferente de seus irmãos, Jorge tinha um espírito livre e uma força descomuna
 
 Mas algo estava errado. Pouco depois do resgate, Durgrim começou a se afastar e, eventualmente, desapareceu durante uma viagem comercial. Rumores de criaturas sombrias e antigas maldições circulavam pelas [[Montanhas Escamadas]], e Jorge sabia que havia algo mais obscuro por trás disso. Determinado a descobrir a verdade, ele abandonou a segurança das minas e partiu em uma jornada perigosa, buscando respostas.
 
-> [!cards|4] > ** Família**
-> ![[jorge-pepitinha-familia.jpeg|sban hsm ctr]]
->
-> **Emblema**
-> ![[jorge-pepitinha-emblema.jpeg|sban hsm ctr]]
+## Galeria de Fotos
+
+> [!info]- Família Pepitinha
+> ![[jorge-pepitinha-familia.jpeg]]
+> [[jorge-pepitinha-familia.jpeg|Mostrar]]
+
+> [!info]- Emblema da Família Pepitinha
+> ![[jorge-pepitinha-emblema.jpeg]]
+> [[jorge-pepitinha-emblema.jpeg|Mostrar]]
 
 # Personalidade
 
@@ -93,4 +99,7 @@ Jorge é um anão de espírito livre e imprevisível, preferindo confiar em seus
 
 Jorge vê seus companheiros de aventura como aliados essenciais em sua busca. Ele pode não ser o mais falante do grupo, mas sua presença é reconfortante e inspiradora. Ele está disposto a arriscar sua vida por aqueles que considera amigos.
 
-![[jorge-pepitinha.pdf#height=800]]
+# Ficha 
+
+> [!tip]- Ficha de Jorge Pepitinha
+> ![[jorge-pepitinha.pdf#height=800]]
