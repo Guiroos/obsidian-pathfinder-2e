@@ -20,11 +20,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes({
-      title: "Notas Recentes",
-      limit: 3,
-      showTags: false,
-    })),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Notas Recentes",
+        limit: 3,
+        showTags: false,
+      }),
+    ),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer()),
   ],
