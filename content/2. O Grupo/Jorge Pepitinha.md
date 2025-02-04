@@ -28,31 +28,18 @@ aliases:
 
 > [!info]- Personagem
 >
-> ![[jorge-pepitinha.jpeg]]
-> [[jorge-pepitinha.jpeg|Mostrar]]
-
+> ![[jorge-pepitinha.jpeg]] > [[jorge-pepitinha.jpeg|Mostrar]]
 
 > [!info]- Informações
-> 
-> ###### Informação Básica
 >
-> | Tipo      | Valor          |
-> | --------- | -------------- |
-> | Jogador   | Mizael         |
-> | Gênero    | Homem          |
-> | Raça      | Anão           |
-> | Idade     | -              |
-> | Tendência | Caótico Neutro |
-> | Classe    | Bárbaro        |
->
-> ###### Informação Adicional
->
-> | Tipo      | Valor |
-> | --------- | ----- |
-> | Level     | 3     |
-> | PV        | 52    |
-> | CA        | 20    |
-> | Percepção | 9     |
+> | Informações | Básicas        | --- | Informações | Avançadas |
+> | ----------- | ------------   | --- | ----------- | :-------: |
+> | Jogador     | Mizael         |     | Level       | 3         |
+> | Gênero      | Homem          |     | PV          | 52        |
+> | Raça        | Anão           |     | CA          | 20        |
+> | Idade       | -              |     | Percepção   | 9         |
+> | Tendência   | Caótico Neutro |     |             |           |
+> | Classe      | Bárbaro        |     |             |           |
 
 # História
 
@@ -65,12 +52,10 @@ Mas algo estava errado. Pouco depois do resgate, Durgrim começou a se afastar e
 ## Galeria de Fotos
 
 > [!info]- Família Pepitinha
-> ![[jorge-pepitinha-familia.jpeg]]
-> [[jorge-pepitinha-familia.jpeg|Mostrar]]
+> ![[jorge-pepitinha-familia.jpeg]] > [[jorge-pepitinha-familia.jpeg|Mostrar]]
 
 > [!info]- Emblema da Família Pepitinha
-> ![[jorge-pepitinha-emblema.jpeg]]
-> [[jorge-pepitinha-emblema.jpeg|Mostrar]]
+> ![[jorge-pepitinha-emblema.jpeg]] > [[jorge-pepitinha-emblema.jpeg|Mostrar]]
 
 # Personalidade
 
@@ -99,7 +84,7 @@ Jorge é um anão de espírito livre e imprevisível, preferindo confiar em seus
 
 Jorge vê seus companheiros de aventura como aliados essenciais em sua busca. Ele pode não ser o mais falante do grupo, mas sua presença é reconfortante e inspiradora. Ele está disposto a arriscar sua vida por aqueles que considera amigos.
 
-# Ficha 
+# Ficha
 
 > [!tip]- Ficha de Jorge Pepitinha
 > ![[jorge-pepitinha.pdf#height=800]]
