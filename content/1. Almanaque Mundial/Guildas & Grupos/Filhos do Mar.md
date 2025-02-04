@@ -1,7 +1,7 @@
 ---
 title: Filhos do Mar
 date: 2024-04-16T11:34
-updated: 2025-01-02T00:59:00
+updated: 2025-01-29T14:44
 tags:
   - categoria/grupo
 TamanhoComunidade: Pequena
@@ -38,10 +38,10 @@ O nome "Filhos do Mar" reflete a visão do culto de que seus membros são escolh
 
 Os Filhos do Mar têm uma estrutura hierárquica bem definida:
 
-1. **Voz das Profundezas:** O líder supremo do culto, considerado um canal direto das entidades marinhas.
-2. **Portadores das Ondas:** Sacerdotes de alto escalão que conduzem os rituais mais importantes e atuam como conselheiros do líder.
-3. **Guardadores do Sal:** Membros experientes encarregados de proteger os segredos e artefatos do culto.
-4. **Noviços das Marés:** Recrutas em treinamento, que passam por testes rigorosos de fé e lealdade.
+1. **A Voz Abissal:** O líder supremo do culto, considerado um canal direto das entidades marinhas.
+2. **Portador das Ondas:** Sacerdotes de alto escalão que conduzem os rituais mais importantes e atuam como conselheiros do líder.
+3. **Guardador do Sal:** Membros experientes encarregados de proteger os segredos e artefatos do culto.
+4. **Noviço das Marés:** Recrutas em treinamento, que passam por testes rigorosos de fé e lealdade. [[noviço-das-marés|Ficha]]
 
 ## Crenças e Religião
 
