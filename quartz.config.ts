@@ -16,6 +16,7 @@ const config: QuartzConfig = {
     locale: "pt-BR",
     baseUrl: "https://cofre-de-auramar.netlify.app",
     ignorePatterns: ["private", "z_Templates", ".obsidian"],
+    generateSocialImages: false,
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

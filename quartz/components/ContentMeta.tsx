@@ -1,13 +1,18 @@
-import { formatDate } from "./Date"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { formatDistanceToNow } from "date-fns"
+import { ptBR } from "date-fns/locale"
+
 import readingTime from "reading-time"
+
+import { JSX } from "preact"
+
+import { formatDate } from "./Date"
+
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
-import { JSX } from "preact"
+
 import style from "./styles/contentMeta.scss"
 
-import { formatDistanceToNow } from "date-fns"
-import ptBR from "date-fns/locale/pt-BR"
+import type { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 const TimeMeta = ({ value }: { value: Date }) => {
   return (
