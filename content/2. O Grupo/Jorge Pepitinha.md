@@ -6,6 +6,7 @@ Gênero: Homem
 Idade: 99
 Classe:
   - Bárbaro
+Tendência: Caótico Neutro
 level: 3
 hp: 52
 ac: 20
