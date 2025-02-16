@@ -7,9 +7,9 @@ date: 2024-04-08T14:08
 updated: 2025-01-13T15:40:00
 ---
 
-> [!infobox]
+> [!info]- Mapa
 >
-> # Aurora
+> # Tarash
 >
 > ![[tarash.jpg]]
 
@@ -26,4 +26,4 @@ updated: 2025-01-13T15:40:00
 | Carroça média (2 cavalos)  |    400    |      100       |      34      |      25      |
 | Carroça pesada (2 cavalos) |    600    |      100       |      44      |      35      |
 
-\*Direto: tempo sem descanso, oque pode causar fadiga e penalidades.
+_Direto: tempo sem descanso, oque pode causar fadiga e penalidades._
