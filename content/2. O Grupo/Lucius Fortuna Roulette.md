@@ -69,5 +69,5 @@ Lucius combina velocidade, charme e astúcia para sobreviver. Ele é extremament
 
 # Ficha
 
-> [!tip]- Ficha de Jorge Pepitinha
+> [!tip]- Ficha de Lucius Fortuna Roulette
 > ![[lucius-fortuna-roulette.pdf#height=800]]

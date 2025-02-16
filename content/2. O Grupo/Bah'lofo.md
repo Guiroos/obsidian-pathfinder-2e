@@ -40,7 +40,7 @@ aliases:
 
 # História
 
-Vindo do Arquipélago Auzelon, Balofo foi criado apenas por seu pai e nunca conheceu sua mãe. Sempre que perguntava sobre ela, seu pai evitava o assunto ou se recusava a responder.
+Vindo do arquipélago [[Auzelon]], Balofo foi criado apenas por seu pai e nunca conheceu sua mãe. Sempre que perguntava sobre ela, seu pai evitava o assunto ou se recusava a responder.
 
 Seu pai era um marinheiro habilidoso, sempre a bordo de navios pesqueiros, e desde pequeno Balofo acompanhava-o no mar. Os companheiros de tripulação diziam que ele era abençoado, pois os dias mais prósperos na pesca sempre coincidiam com sua presença.
 
@@ -83,5 +83,5 @@ Balofo não se conecta facilmente, mas, uma vez que confia em alguém, protege s
 
 # Ficha
 
-> [!tip]- Ficha de Jorge Pepitinha
+> [!tip]- Ficha de Bah'lofo
 > ![[bah'lofo.pdf#height=800]]
