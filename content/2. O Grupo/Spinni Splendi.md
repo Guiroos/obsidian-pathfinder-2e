@@ -13,7 +13,7 @@ JogadorLínguasConhecidas:
   - Gnômico
   - Goblin
 level: 3
-hp: 4
+hp: 40
 ac: 19
 modifier: 4
 Status: Ativo
@@ -26,7 +26,7 @@ aliases:
 Ícone: PJ
 ---
 
-# Bah'lofo
+# Spinni Splendi
 
 > [!info]- Personagem
 >
@@ -41,7 +41,7 @@ aliases:
 > | Raça        | Goblin     |     | CA          |    19     |
 > | Idade       | 34         |     | Percepção   |     4     |
 > | Tendência   | Leal Mal   |     |             |           |
-> | Classe      | Alqiumista |     |             |           |
+> | Classe      | Alquimista |     |             |           |
 
 # História
 
